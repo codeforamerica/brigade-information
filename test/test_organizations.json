@@ -1,0 +1,35 @@
+[
+    {
+        "name": "What", 
+        "website": "", 
+        "events_url": "", 
+        "rss": "", 
+        "projects_list_url": "https://github.com/codeforgermany", 
+        "city": "", 
+        "latitude": "", 
+        "longitude": "", 
+        "type": "Brigade"
+    }, 
+    {
+        "name": "Team Bender", 
+        "website": "http://codeforamerica.org/governments/southbend/", 
+        "events_url": "", 
+        "rss": "", 
+        "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=0Ah8tYWLqUd7wdHNZdGRfLVJ6UVA0T0dRMDAxMmZyVFE&output=csv", 
+        "city": "South Bend, IN", 
+        "latitude": "41.676355", 
+        "longitude": "-86.25199", 
+        "type": "fellows, 2013"
+    }, 
+    {
+        "name": "Alpha NYC", 
+        "website": "", 
+        "events_url": "", 
+        "rss": "", 
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/17wx7CwUKjo5Cooe4rv8dVFXSFulKfGUvIyJKhTIEu6U/export?format=csv", 
+        "city": "New York, NY", 
+        "latitude": "40.7144", 
+        "longitude": "-74.006", 
+        "type": "Brigade"
+    }
+]
