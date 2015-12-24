@@ -66,6 +66,17 @@
         "type": "Government, midwest"
     },
     {
+        "name": "City of Helsinki",
+        "website": "http://dev.hel.fi/",
+        "events_url": "http://dev.hel.fi/events/",
+        "rss": "http://dev.hel.fi/blog/feed/",
+        "projects_list_url": "http://dev.hel.fi/projects/projects.csv",
+        "city": "Helsinki, Finland",
+        "latitude": "60.1921",
+        "longitude": "60.1921",
+        "type": "Government"
+    },
+    {
         "name": "Civic Data Alliance",
         "website": "http://www.civicdataalliance.org/",
         "events_url": "http://www.meetup.com/Louisville-Civic-Data-Alliance/",
