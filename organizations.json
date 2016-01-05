@@ -1750,13 +1750,13 @@
     },
     {
         "name": "OpenSMC",
-        "website": "",
-        "events_url": "http://www.meetup.com/San-Mateo-County-Civic-Engagement-Technology-Meetup/",
-        "rss": "",
-        "projects_list_url": "https://github.com/opensmc",
+        "website": "https://www.codeforamerica.org/brigade/OpenSMC/",
+        "events_url": "http://www.meetup.com/open-smc/",
+        "rss": "http://opensmc.tumblr.com/rss",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/188H7C7t6RMHL5vOwLJggz2ZeywRwVpFSIzSNApLNc_I/export?format=csv",
         "city": "San Mateo County, CA",
-        "latitude": "37.5630",
-        "longitude": "-122.3255",
+        "latitude": "37.4889",
+        "longitude": "-122.2308773",
         "type": "Brigade"
     },
     {
