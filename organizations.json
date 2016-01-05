@@ -1298,6 +1298,17 @@
         "type": "Brigade, Code for All"
     },
     {
+        "name": "Loomio",
+        "website": "http://www.loomio.org",
+        "events_url": "",
+        "rss": "http://blog.loomio.org/feed/",
+        "projects_list_url": "https://github.com/loomio/loomio",
+        "city": "Wellington, New Zealand",
+        "latitude": "-41.2866",
+        "longitude": "174.7755",
+        "type": "Partner"
+    },
+    {
         "name": "mySociety",
         "website": "https://www.mysociety.org/",
         "events_url": "https://www.google.com/calendar/embed?src=9uqu3bbqcdaqek6lkiub442di4%40group.calendar.google.com&ctz=Europe/London",
