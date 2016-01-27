@@ -803,6 +803,17 @@
         "type": "Brigade"
     },
     {
+        "name": "Code for Orlando",
+        "website": "http://www.codefororlando.com",
+        "events_url": "http://www.meetup.com/Code-For-Orlando/",
+        "rss": "",
+        "projects_list_url": "https://github.com/cforlando",
+        "city": "Orlando, FL",
+        "latitude": "28.538335",
+        "longitude": "-81.379236",
+        "type": "Brigade, Official"
+    },
+    {
         "name": "Code for Pakistan",
         "website": "http://www.codeforpakistan.org",
         "events_url": "http://lahorebrigade.eventbrite.com",
