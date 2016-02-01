@@ -88,6 +88,17 @@
         "type": "Brigade, Official"
     },
     {
+        "name": "Civic Tech Toronto",
+        "website": "http://civictech.ca/",
+        "events_url": "http://www.meetup.com/Civic-Tech-Toronto/",
+        "rss": "http://civictech.ca/feed/",
+        "projects_list_url": "https://civictechto-pr-3.herokuapp.com/projects.csv",
+        "city": "Toronto, ON",
+        "lattitude": "43.717899",
+        "longitude": "-79.6582407",
+        "type": "Brigade"
+    },
+    {
         "name": "Code for ABQ",
         "website": "http://code4abq.org/",
         "events_url": "http://www.meetup.com/Code-for-ABQ",
