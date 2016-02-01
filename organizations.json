@@ -92,7 +92,7 @@
         "website": "http://civictech.ca/",
         "events_url": "http://www.meetup.com/Civic-Tech-Toronto/",
         "rss": "http://civictech.ca/feed/",
-        "projects_list_url": "https://civictechto-pr-3.herokuapp.com/projects.csv",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/1mqLnB55uVv3d1GPJaaW5XeQ7qdmmKqJZVZyLfD9xL_E/pub?gid=0&single=true&output=csv",
         "city": "Toronto, ON",
         "lattitude": "43.717899",
         "longitude": "-79.6582407",
