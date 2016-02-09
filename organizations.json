@@ -242,17 +242,6 @@
         "type": "Brigade"
     },
     {
-        "name": "Code for Canada",
-        "website": "http://community.codeforcanada.org/",
-        "events_url": "http://www.meetup.com/codeforcanada",
-        "rss": "",
-        "projects_list_url": "https://github.com/codeforcanada",
-        "city": "Canada",
-        "latitude": "43.657398",
-        "longitude": "-79.4328",
-        "type": "Code for All"
-    },
-    {
         "name": "Code for Cary",
         "website": "https://github.com/codeforcary",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
@@ -1076,17 +1065,6 @@
         "latitude": "23.5531",
         "longitude": "121.0211",
         "type": "Brigade, Code for All"
-    },
-    {
-        "name": "Code for Toronto",
-        "website": "http://community.codeforcanada.org/",
-        "events_url": "http://www.meetup.com/codeforcanada",
-        "rss": "",
-        "projects_list_url": "https://github.com/codeforcanada",
-        "city": "Toronto, ON",
-        "latitude": "43.6574",
-        "longitude": "-79.4328",
-        "type": "Brigade"
     },
     {
         "name": "Code for Tucson",
