@@ -44,6 +44,17 @@
         "type": "Brigade, Official"
     },
     {
+        "name": "California Civic Lab",
+        "website": "http://caciviclab.org/",
+        "events_url": "",
+        "rss": "",
+        "projects_list_url": "https://github.com/caciviclab",
+        "city": "Oakland, CA",
+        "latitude": "37.166111",
+        "longitude": "-119.449444",
+        "type": "Collaboration between Brigades"
+    },
+    {
         "name": "Chi Hack Night",
         "website": "http://chihacknight.org/",
         "events_url": "",
