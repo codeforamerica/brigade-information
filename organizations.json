@@ -1761,10 +1761,10 @@
     },
     {
         "name": "OpenSMC",
-        "website": "http://opensmc.github.io/",
+        "website": "http://opensmc.org",
         "events_url": "http://www.meetup.com/opensmc/",
-        "rss": "http://opensmc.github.io/blog/",
-        "projects_list_url": "https://docs.google.com/spreadsheets/d/188H7C7t6RMHL5vOwLJggz2ZeywRwVpFSIzSNApLNc_I/export?format=csv",
+        "rss": "http://opensmc.org/blog/",
+        "projects_list_url": "https://raw.githubusercontent.com/opensmc/project-ideas/master/project-list.json",
         "city": "San Mateo County, CA",
         "latitude": "37.4889",
         "longitude": "-122.2308773",
