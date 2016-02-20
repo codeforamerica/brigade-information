@@ -1835,5 +1835,16 @@
         "latitude": "38.9072",
         "longitude": "-77.0365",
         "type": "Government"
+    },
+    {
+        "name": "Microsoft Technology and Civic Engagement",
+        "website": "http://microsoftnewyork.com/category/civic-tech/",
+        "events_url": "",
+        "rss": "",
+        "projects_list_url": "https://github.com/MicrosoftTCE",
+        "city": "New York, NY",
+        "latitude": "40.7144",
+        "longitude": "-74.0060",
+        "type": "Partner"
     }
 ]
