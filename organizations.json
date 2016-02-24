@@ -1857,5 +1857,16 @@
         "latitude": "40.7144",
         "longitude": "-74.0060",
         "type": "Partner"
+    },
+    {
+        "name": "Oakland TechEquity",
+        "website": "http://techequity.us/",
+        "events_url": "http://www.meetup.com/Oakland-Tech-Equity/",
+        "rss": "",
+        "projects_list_url": "https://github.com/oaktechequity",
+        "city": "Oakland, CA",
+        "latitude": "37.8044",
+        "longitude": "-122.2711",
+        "type": "Partner"
     }
 ]
