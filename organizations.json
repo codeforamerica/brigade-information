@@ -638,26 +638,81 @@
         "type": "Brigade, Code for Japan"
     },
     {
-        "name": "Code for Kraków",
-        "website": "http://blog.epf.org.pl/koduj-dla-polski/krakow/",
+        "name": "Code for Poland",
+        "website": "http://kodujdlapolski.pl/en/",
         "events_url": "",
-        "rss": "http://blog.epf.org.pl/koduj-dla-polski/krakow/",
+        "rss": "http://kodujdlapolski.pl/en/blog/",
         "projects_list_url": "",
+        "city": "Poland",
+        "latitude": "52.361947", 
+        "longitude": "19.226414",
+        "type": "Code for All"
+    },
+    {
+        "name": "Code for Cracow",
+        "website": "http://kodujdlapolski.pl/en/cities/krakow/",
+        "events_url": "",
+        "rss": "http://kodujdlapolski.pl/en/category/cracow/",
+        "projects_list_url": "http://kodujdlapolski.pl/en/cities/krakow/?csv=show",
         "city": "Kraków, Poland",
         "latitude": "50.062747",
         "longitude": "19.943247",
-        "type": "Brigade"
+        "type": "Brigade, Code for Poland"
     },
     {
-        "name": "Code for Łódź",
-        "website": "http://blog.epf.org.pl/koduj-dla-polski/lodz/",
+        "name": "Code for Tricity",
+        "website": "http://kodujdlapolski.pl/en/cities/trojmiasto/",
+        "events_url": "http://www.meetup.com/Koduj-dla-Polski-Trojmiasto/",
+        "rss": "http://kodujdlapolski.pl/en/category/tricity/",
+        "projects_list_url": "http://kodujdlapolski.pl/en/cities/trojmiasto/?csv=show",
+        "city": "Gdansk, Poland",
+        "latitude": "54.4046788",
+        "longitude": "18.5738181",
+        "type": "Brigade, Code for Poland"
+    },
+    {
+        "name": "Code for Poznan",
+        "website": "http://kodujdlapolski.pl/en/cities/poznan/",
         "events_url": "",
-        "rss": "http://blog.epf.org.pl/koduj-dla-polski/lodz/",
-        "projects_list_url": "",
-        "city": "Lodz, Poland",
-        "latitude": "51.7666",
-        "longitude": "19.4567",
-        "type": "Brigade"
+        "rss": "http://kodujdlapolski.pl/en/category/poznan-en/",
+        "projects_list_url": "http://kodujdlapolski.pl/en/cities/poznan/?csv=show",
+        "city": "Poznan, Poland",
+        "latitude": "52.4068",
+        "longitude": "16.9291",
+        "type": "Brigade, Code for Poland"
+    },
+    {
+        "name": "Code for Warsaw",
+        "website": "http://kodujdlapolski.pl/en/cities/warszawa/",
+        "events_url": "http://www.meetup.com/Koduj-dla-Polski-Warszawa/",
+        "rss": "http://kodujdlapolski.pl/en/category/warsaw/",
+        "projects_list_url": "http://kodujdlapolski.pl/en/cities/warszawa/?csv=show",
+        "city": "Warsaw, Poland",
+        "latitude": "52.2287",
+        "longitude": "21.0063",
+        "type": "Brigade, Code for Poland"
+    },
+    {
+        "name": "Code for Wroclaw",
+        "website": "http://kodujdlapolski.pl/en/cities/wroclaw/",
+        "events_url": "http://www.meetup.com/Koduj-dla-Polski-Wroc%C5%82aw/",
+        "rss": "http://kodujdlapolski.pl/en/category/wroclaw-en/",
+        "projects_list_url": "http://kodujdlapolski.pl/en/cities/wroclaw/?csv=show",
+        "city": "Wroclaw, Poland",
+        "latitude": "51.1063798",
+        "longitude": "17.0121528",
+        "type": "Brigade, Code for Poland"
+    },
+    {
+        "name": "Code for Silesia",
+        "website": "http://kodujdlapolski.pl/en/cities/gop-katowice/",
+        "events_url": "http://www.meetup.com/Koduj-dla-Polski-Silesia/",
+        "rss": "http://kodujdlapolski.pl/en/category/katowice-en/",
+        "projects_list_url": "http://kodujdlapolski.pl/en/cities/gop-katowice/?csv=show",
+        "city": "Katowice, Poland",
+        "latitude": "50.2638531",
+        "longitude": "18.9935899",
+        "type": "Brigade, Code for Poland"
     },
     {
         "name": "Code for Long Beach",
@@ -803,17 +858,6 @@
         "type": "Brigade"
     },
     {
-        "name": "Code for Olsztyn",
-        "website": "http://blog.epf.org.pl/koduj-dla-polski/olsztyn/",
-        "events_url": "",
-        "rss": "http://blog.epf.org.pl/koduj-dla-polski/olsztyn/",
-        "projects_list_url": "",
-        "city": "Olsztyn, Poland",
-        "latitude": "53.7759",
-        "longitude": "20.4775",
-        "type": "Brigade"
-    },
-    {
         "name": "Code for Orlando",
         "website": "http://www.codefororlando.com",
         "events_url": "http://www.meetup.com/Code-For-Orlando/",
@@ -847,17 +891,6 @@
         "type": "Brigade, Official"
     },
     {
-        "name": "Code for Poland",
-        "website": "http://epf.org.pl/kodujdlapolski/",
-        "events_url": "",
-        "rss": "http://blog.epf.org.pl/koduj-dla-polski/",
-        "projects_list_url": "https://github.com/kodujdlapolski",
-        "city": "Warsaw, Poland",
-        "latitude": "52.2287",
-        "longitude": "21.0063",
-        "type": "Code for All"
-    },
-    {
         "name": "Code for Ponta Grossa",
         "website": "http://openbrazil.org/",
         "events_url": "http://www.meetup.com/openbrazil/",
@@ -878,17 +911,6 @@
         "latitude": "45.5118",
         "longitude": "-122.6756",
         "type": "Brigade, Official"
-    },
-    {
-        "name": "Code for Poznań",
-        "website": "http://blog.epf.org.pl/koduj-dla-polski/poznan/",
-        "events_url": "",
-        "rss": "http://blog.epf.org.pl/koduj-dla-polski/poznan/",
-        "projects_list_url": "",
-        "city": "Poznan, Poland",
-        "latitude": "52.4068",
-        "longitude": "16.9291",
-        "type": "Brigade"
     },
     {
         "name": "Code for Raleigh",
@@ -1131,17 +1153,6 @@
         "latitude": "36.2551",
         "longitude": "-115.2383",
         "type": "Brigade, Official"
-    },
-    {
-        "name": "Code for Warsaw",
-        "website": "http://blog.epf.org.pl/koduj-dla-polski/warszawa/",
-        "events_url": "",
-        "rss": "http://blog.epf.org.pl/koduj-dla-polski/warszawa/",
-        "projects_list_url": "",
-        "city": "Warsaw, Poland",
-        "latitude": "52.2287",
-        "longitude": "21.0063",
-        "type": "Brigade"
     },
     {
         "name": "Code Island",
