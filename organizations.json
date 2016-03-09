@@ -385,17 +385,6 @@
         "type": "Code for All"
     },
     {
-        "name": "Code for Floripa",
-        "website": "http://openbrazil.org/",
-        "events_url": "http://www.meetup.com/openbrazil/",
-        "rss": "",
-        "projects_list_url": "https://github.com/CodeForBrazil/",
-        "city": "Florianópolis, SC",
-        "latitude": "-27.5964",
-        "longitude": "-48.5425",
-        "type": "Brigade"
-    },
-    {
         "name": "Code for Fort Lauderdale",
         "website": "http://codeforftl.org/",
         "events_url": "http://www.meetup.com/Code-for-FTL",
@@ -892,10 +881,10 @@
     },
     {
         "name": "Code for Ponta Grossa",
-        "website": "http://openbrazil.org/",
+        "website": "https://www.facebook.com/Code-For-Ponta-Grossa-1663271337246663/",
         "events_url": "http://www.meetup.com/openbrazil/",
         "rss": "",
-        "projects_list_url": "https://github.com/CodeForBrazil/",
+        "projects_list_url": "https://github.com/codeforpg",
         "city": "Ponta Grossa, PR",
         "latitude": "-25.1294",
         "longitude": "-50.2040",
@@ -999,17 +988,6 @@
         "latitude": "37.3386",
         "longitude": "-121.8856",
         "type": "Brigade, Official"
-    },
-    {
-        "name": "Code for São Paulo",
-        "website": "http://openbrazil.org/",
-        "events_url": "http://www.meetup.com/openbrazil/",
-        "rss": "",
-        "projects_list_url": "https://github.com/CodeForBrazil/",
-        "city": "São Paulo, SP",
-        "latitude": "-23.5581",
-        "longitude": "-46.6697",
-        "type": "Brigade"
     },
     {
         "name": "Code for Sapporo",
