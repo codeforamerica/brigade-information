@@ -22,10 +22,11 @@ A single organization's record looks like this:
 }
 ```
 
+* `name` - Required - The name of your organization. 
 * `events_url` is the URL of your event-scheduling page. Only **meetup.com** URLs are supported.
 * `rss` is the URL of a blog or its RSS feed. The API will look in the usual places for a feed URL if the link isn't direct. Non-blog RSS feeds will also be processed.
 * `projects_list_url` is the URL of a GitHub organization or of a list of project URLs, formatted as [described below](https://github.com/codeforamerica/brigade-information#projects-list).
-* `latitude` and `longitude` values can be figured out using a tool like [LatLong.net](http://www.latlong.net/).
+* `latitude` and `longitude` values can be figured out using a tool like [LatLong.net](http://www.latlong.net/). Required if you want to appear on the [Brigade](http://www.codeforamerica.org/brigade/) or [Code for All](http://codeforall.org/) maps.
 * `type` is the type of organization you're adding – the most commonly used types are `Brigade`, `Code for All`, and `Government`.
 
 ##### Projects List
