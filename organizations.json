@@ -1287,6 +1287,14 @@
         "type": "Brigade, midwest"
     },
     {
+        "name": "Hack Tahoe",
+        "website": "http://hack.tahoe.coop/",
+        "city": "South Lake Tahoe, California",
+        "latitude": "39.096849",
+        "longitude": "-120.032351",
+        "type": "Brigade, Code for All, Official"
+    },
+    {
         "name": "Hacking Monterrey",
         "website": "http://hackingmty.org/",
         "events_url": "http://www.meetup.com/Open-Data-Monterrey/",
