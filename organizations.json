@@ -1289,6 +1289,7 @@
     {
         "name": "Hack Tahoe",
         "website": "http://hack.tahoe.coop/",
+        "projects_list_url": "https://github.com/hacktahoe",
         "city": "South Lake Tahoe, California",
         "latitude": "39.096849",
         "longitude": "-120.032351",
