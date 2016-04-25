@@ -1395,14 +1395,14 @@
         "type": "Brigade, OK Lab"
     },
     {
-        "name": "OK Lab Hamburg",
-        "website": "http://codefor.de/hamburg",
-        "events_url": "http://www.meetup.com/OK-Lab-Hamburg/",
+        "name": "Code for Hamburg",
+        "website": "http://codeforhamburg.org",
+        "events_url": "http://www.meetup.com/codeforhamburg/",
         "rss": "",
-        "projects_list_url": "",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/1OIQ4NsQ4v9LqYolsp7tvOthmf67dWn5KlnGocv2_QAY/export?format=csv",
         "city": "Hamburg, Germany",
-        "latitude": "53.5653",
-        "longitude": "10.0014",
+        "latitude": "53.54762",
+        "longitude": "9.97776",
         "type": "Brigade, OK Lab"
     },
     {
