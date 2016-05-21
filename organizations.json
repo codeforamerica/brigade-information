@@ -1036,7 +1036,7 @@
     {
         "name": "Code for Tallahassee",
         "website": "http://www.codefortallahassee.org/",
-        "events_url": "http://www.codefortallahassee.org/events.html",
+        "events_url": "http://www.codefortallahassee.org/#events",
         "rss": "",
         "projects_list_url": "https://github.com/codefortallahassee",
         "city": "Tallahassee, FL",
