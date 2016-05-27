@@ -1034,6 +1034,17 @@
         "type": "Brigade, midwest"
     },
     {
+        "name": "Code for Tallahassee",
+        "website": "http://www.codefortallahassee.org/",
+        "events_url": "http://www.codefortallahassee.org/#events",
+        "rss": "",
+        "projects_list_url": "https://github.com/codefortallahassee",
+        "city": "Tallahassee, FL",
+        "latitude": "30.4380556",
+        "longitude": " -84.2808333",
+        "type": "Brigade, Official"
+    },
+    {
         "name": "Code for Tampa Bay",
         "website": "http://www.codefortampabay.org/",
         "events_url": "http://www.meetup.com/Code-for-Tampa-Bay-Brigade/",
