@@ -803,6 +803,17 @@
         "type": "Brigade"
     },
     {
+        "name": "Code for New Orleans",
+        "website": "http://codeforneworleans.org/",
+        "events_url": "http://www.meetup.com/Code-For-New-Orleans/",
+        "rss": "",
+        "projects_list_url": "https://github.com/codefornola",
+        "city": "New Orleans, LA",
+        "latitude": "29.951992",
+        "longitude": "-90.077055",
+        "type": "Brigade"
+    },
+    {
         "name": "Code for New River Valley",
         "website": "http://codefornrv.org/",
         "events_url": "http://www.meetup.com/codefornrv/",
