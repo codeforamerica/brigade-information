@@ -1,5 +1,16 @@
 [
     {
+        "name": “Code for SWFL",
+        "website": "http://www.swfrtp.org",
+        "events_url": "http://www.meetup.com/Code-for-Southwest-Florida/",
+        "rss": "",
+        "projects_list_url": "http://www.swfrtp.org/page-1851861",
+        "city": “Fort Myers, FL",
+        "latitude": “26.638774",
+        "longitude": “-81.86763",
+        "type": "Brigade"
+    },
+    {
         "name": "18F",
         "website": "https://18f.gsa.gov/",
         "events_url": "",
