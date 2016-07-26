@@ -1928,5 +1928,16 @@
         "latitude": "37.688521",
         "longitude": "-97.326812",
         "type": "Brigade"
+    },
+    {
+        "name": "HackMKE",
+        "website": "http://hackmke.com",
+        "events_url": "http://www.meetup.com/mkedata",
+        "rss": "",
+        "projects_list_url": "",
+        "city": "Milwaukee, WI",
+        "latitude": "43.0389",
+        "longitude": "87.9065",
+        "type": "Brigade"
     }
 ]
