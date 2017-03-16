@@ -309,7 +309,7 @@
     },
     {
         "name": "Code for Curitiba",
-        "website": "http://openbrazil.org/curitiba",
+        "website": "http://codeforcuritiba.org",
         "events_url": "http://www.meetup.com/openbrazil/",
         "rss": "https://twitrss.me/twitter_user_to_rss/?user=openbrazil&replies=on",
         "projects_list_url": "https://github.com/CodeForCuritiba",
@@ -1949,6 +1949,17 @@
         "city": "Milwaukee, WI",
         "latitude": "43.0389",
         "longitude": "87.9065",
+        "type": "Brigade"
+    },
+    {
+        "name": "Code for Floripa",
+        "website": "http://codeforfloripa.com",
+        "events_url": "http://www.meetup.com/pt-BR/CodeForFloripa/",
+        "rss": "",
+        "projects_list_url": "http://codeforfloripa.com/#focus",
+        "city": "Florianópolis, SC - Brazil",
+        "latitude": "-27.5908812",
+        "longitude": "-48.5167347",
         "type": "Brigade"
     }
 ]
