@@ -1572,10 +1572,10 @@
     },
     {
         "name": "Open Austin",
-        "website": "http://www.open-austin.org/",
-        "events_url": "http://www.meetup.com/Open-Government-Civic-Technology-Meetup-by-Open-Austin",
+        "website": "https://www.open-austin.org/",
+        "events_url": "https://www.meetup.com/Open-Austin/",
         "rss": "http://www.open-austin.org/feed",
-        "projects_list_url": "http://data.open-austin.org/Civic_Project/cfapi-pub.csv",
+        "projects_list_url": "https://github.com/open-austin",
         "city": "Austin, TX",
         "latitude": "30.2672",
         "longitude": "-97.7431",
