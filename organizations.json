@@ -935,6 +935,39 @@
         "type": "Brigade"
     },
     {
+        "name": "Code for Romania",
+        "website": "http://code4.ro/",
+        "events_url": "https://www.meetup.com/Code-for-Romania/",
+        "rss": "",
+        "projects_list_url": "https://github.com/code4romania/",
+        "city": "Bucharest, Romania",
+        "latitude": "44.439663",
+        "longitude": "26.096306",
+        "type": "Code for All"
+    },
+    {
+        "name": "Code for Romania: Cluj Chapter",
+        "website": "http://code4.ro/",
+        "events_url": "https://www.meetup.com/Code-for-Romania/",
+        "rss": "",
+        "projects_list_url": "https://github.com/code4romania/",
+        "city": "Cluj-Napoca, Romania",
+        "latitude": "46.770439",
+        "longitude": "23.591423",
+        "type": "Brigade, Code for Romania"
+    },
+    {
+        "name": "Code for Romania: Iasi Chapter",
+        "website": "http://code4.ro/",
+        "events_url": "https://www.meetup.com/Code-for-Romania/",
+        "rss": "",
+        "projects_list_url": "https://github.com/code4romania/",
+        "city": "Iasi, Romania",
+        "latitude": "47.151726",
+        "longitude": "27.587914",
+        "type": "Brigade, Code for Romania"
+    },
+    {
         "name": "Code for Raleigh",
         "website": "http://www.meetup.com/Triangle-Code-for-America/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
