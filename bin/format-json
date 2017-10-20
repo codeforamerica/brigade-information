@@ -1,0 +1,15 @@
+#!/bin/bash
+# usage: bin/format-json path/to/json-file.json
+#
+# requires installation of jq and sponge, on mac you can do this with:
+#
+#  brew install jq moreutils
+#
+set -euo pipefail
+
+if [ -z "$1" ]; then
+  echo "usage: bin/format-json organizations.json"
+  exit 1
+fi
+
+cat "$1" | jq --indent 4 . | sponge "$1"

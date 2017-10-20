@@ -418,15 +418,15 @@
         "type": "Brigade"
     },
     {
-   	   "name": "Code for Gainesville",
-   	   "website": "http://c4gnv.com",
-   	   "events_url": "http://www.meetup.com/Code-for-Gainesville/",
-   	   "rss": "",
-  	   "projects_list_url": "https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv",
-    	  "city": "Gainesville, FL",
-   	  "latitude": "29.651634",
-   	  "longitude": "-82.324826",
-   	  "type": "Brigade, Official"
+        "name": "Code for Gainesville",
+        "website": "http://c4gnv.com",
+        "events_url": "http://www.meetup.com/Code-for-Gainesville/",
+        "rss": "",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv",
+        "city": "Gainesville, FL",
+        "latitude": "29.651634",
+        "longitude": "-82.324826",
+        "type": "Brigade, Official"
     },
     {
         "name": "Code for Germany",
@@ -655,7 +655,7 @@
         "rss": "http://kodujdlapolski.pl/en/blog/",
         "projects_list_url": "",
         "city": "Poland",
-        "latitude": "52.361947", 
+        "latitude": "52.361947",
         "longitude": "19.226414",
         "type": "Code for All"
     },
@@ -1790,7 +1790,7 @@
         "longitude": "-117.1573",
         "type": "Brigade, Official"
     },
-      {
+    {
         "name": "Open Savannah",
         "website": "http://opensavannah.org",
         "events_url": "http://www.meetup.com/opensavannah/",
