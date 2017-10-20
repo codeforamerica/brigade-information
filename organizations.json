@@ -1965,15 +1965,6 @@
         "type": "Brigade"
     },
     {
-        "name": "Open Wichita",
-        "website": "http://openwichita.com",
-        "projects_list_url": "https://github.com/openwichita",
-        "city": "Wichita, KS",
-        "latitude": "37.688521",
-        "longitude": "-97.326812",
-        "type": "Brigade"
-    },
-    {
         "name": "HackMKE",
         "website": "http://hackmke.com",
         "events_url": "http://www.meetup.com/mkedata",
