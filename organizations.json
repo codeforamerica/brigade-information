@@ -1985,5 +1985,145 @@
         "latitude": "-27.5908812",
         "longitude": "-48.5167347",
         "type": "Brigade"
+    },
+    {
+        "name": "Civic Data Alliance (Louisville)",
+        "website": "civicdataalliance.org",
+        "events_url": "https://www.meetup.com/Louisville-Civic-Data-Alliance/",
+        "projects_list_url": "https://github.com/civicdata/",
+        "city": "Louisville, KY",
+        "type": "Brigade",
+        "latitude": "38.2526647",
+        "longitude": "-85.7584557"
+    },
+    {
+        "name": "Code for Baltimore",
+        "website": "codeforbaltimore.org",
+        "events_url": "https://www.meetup.com/Code-for-Baltimore/",
+        "projects_list_url": "https://github.com/CodeForBaltimore",
+        "city": "Baltimore, MD",
+        "type": "Brigade",
+        "latitude": "39.2903848",
+        "longitude": "-76.6121893"
+    },
+    {
+        "name": "Code for Berkeley",
+        "website": "TBA",
+        "events_url": "TBA",
+        "projects_list_url": "github.com/CodeForBerkeley",
+        "city": "Berkeley, CA",
+        "type": "Brigade",
+        "latitude": "37.8715926",
+        "longitude": "-122.272747"
+    },
+    {
+        "name": "Code for Fort Collins",
+        "website": "http://codeforfoco.org/",
+        "events_url": "https://www.meetup.com/Code-for-Fort-Collins/",
+        "projects_list_url": "https://github.com/codeforfoco",
+        "city": "Fort Collins, CO",
+        "type": "Brigade",
+        "latitude": "40.5852602",
+        "longitude": "-105.084423"
+    },
+    {
+        "name": "Code for Greenville",
+        "website": "codeforgreenville.org",
+        "events_url": "https://www.meetup.com/Code-for-Greenville/",
+        "projects_list_url": "https://github.com/codeforgreenville/",
+        "city": "Greenville, SC",
+        "type": "Brigade",
+        "latitude": "34.85261759999999",
+        "longitude": "-82.3940104"
+    },
+    {
+        "name": "Code for OKC",
+        "website": "codeforokc.org/",
+        "events_url": "https://www.meetup.com/Code-for-OKC/",
+        "projects_list_url": "github.com/codeforokc",
+        "city": "Oklahoma City, OK",
+        "type": "Brigade",
+        "latitude": "35.4675602",
+        "longitude": "-97.5164276"
+    },
+    {
+        "name": "Code for Palm Beach",
+        "website": "",
+        "events_url": "https://www.meetup.com/Code-for-Palm-Beach/",
+        "projects_list_url": "github.com/codeforpalmbeach",
+        "city": "Palm Beach, FL",
+        "type": "Brigade",
+        "latitude": "26.7056206",
+        "longitude": "-80.0364297"
+    },
+    {
+        "name": "Code for Phoenix",
+        "website": "",
+        "events_url": null,
+        "projects_list_url": "na",
+        "city": "Phoenix, AZ",
+        "type": "Brigade",
+        "latitude": "33.4483771",
+        "longitude": "-112.0740373"
+    },
+    {
+        "name": "Code for Princeton",
+        "website": "https://codeforprincetonblog.wordpress.com/",
+        "events_url": "https://www.meetup.com/codeforprinceton/",
+        "projects_list_url": "github.com/codeforprinceton",
+        "city": "Princeton, NJ",
+        "type": "Brigade",
+        "latitude": "40.3572976",
+        "longitude": "-74.6672226"
+    },
+    {
+        "name": "Code for Winston-Salem",
+        "website": "codeforws.org",
+        "events_url": "https://www.meetup.com/Code-for-Winston-Salem/",
+        "projects_list_url": "https://github.com/CodeForWinstonSalem",
+        "city": "Winston-Salem, NC",
+        "type": "Brigade",
+        "latitude": "36.09985959999999",
+        "longitude": "-80.244216"
+    },
+    {
+        "name": "Hack MKE",
+        "website": "http://hackmke.com/",
+        "events_url": "https://www.meetup.com/MKEData/",
+        "projects_list_url": "https://github.com/milwaukeedata",
+        "city": "Milwaukee, WI",
+        "type": "Brigade",
+        "latitude": "43.0389025",
+        "longitude": "-87.9064736"
+    },
+    {
+        "name": "Open Data Delaware",
+        "website": "http://www.opendatadelaware.com/",
+        "events_url": "https://www.meetup.com/Open-Data-Delaware/",
+        "projects_list_url": "https://github.com/OpenDataDE",
+        "city": "Wilmington, DE",
+        "type": "Brigade",
+        "latitude": "39.7390721",
+        "longitude": "-75.5397878"
+    },
+    {
+        "name": "Open Denton",
+        "website": "https://www.opendenton.com/",
+        "events_url": "na",
+        "projects_list_url": "https://github.com/OpenDenton",
+        "city": "Denton, TX",
+        "type": "Brigade",
+        "latitude": "33.2148412",
+        "longitude": "-97.13306829999999"
+    },
+    {
+        "name": "Sketch City (Houston)",
+        "website": "http://sketchcity.org/",
+        "events_url": "https://www.meetup.com/sketchcity/",
+        "projects_list_url": "https://github.com/sketch-city",
+        "city": "Houston, TX",
+        "type": "Brigade",
+        "latitude": "29.7604267",
+        "longitude": "-95.3698028"
     }
 ]
