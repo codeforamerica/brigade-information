@@ -122,7 +122,7 @@
     },
     {
         "name": "Code for ABQ",
-        "website": "http://code4abq.org/",
+        "website": "http://codeforabq.org/",
         "events_url": "http://www.meetup.com/Code-for-ABQ",
         "rss": "",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1k4-U_ojSdzJyKTRYiVEpx7Ae4kXBdHAf-jA-_aZGhrI/export?format=csv",
@@ -265,7 +265,7 @@
     },
     {
         "name": "Code for Cary",
-        "website": "https://github.com/codeforcary",
+        "website": "http://www.codeforcary.org/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforcary",
@@ -276,7 +276,7 @@
     },
     {
         "name": "Code for Charlotte",
-        "website": "http://www.codeforcharlotte.org/",
+        "website": "http://codeforcharlotte.org",
         "events_url": "http://www.meetup.com/Code-For-Charlotte/",
         "rss": "https://medium.com/code-for-charlotte",
         "projects_list_url": "https://github.com/CodeForCharlotte",
@@ -331,7 +331,7 @@
     },
     {
         "name": "Code for DC",
-        "website": "http://codefordc.org/",
+        "website": "https://codefordc.org",
         "events_url": "http://www.meetup.com/Code-for-DC/",
         "rss": "",
         "projects_list_url": "https://github.com/codefordc",
@@ -760,7 +760,7 @@
     },
     {
         "name": "Code for Miami",
-        "website": "http://codeformiami.org/",
+        "website": "http://codefor.miami",
         "events_url": "http://www.meetup.com/Code-for-Miami/",
         "rss": "http://codeformia.tumblr.com/rss",
         "projects_list_url": "https://github.com/code-for-miami",
@@ -903,7 +903,7 @@
     },
     {
         "name": "Code for Philly",
-        "website": "http://codeforphilly.org/",
+        "website": "https://codeforphilly.org",
         "events_url": "http://www.meetup.com/Code-for-America-Philly",
         "rss": "http://codeforphilly.org/project-updates?format=rss",
         "projects_list_url": "http://codeforphilly.org/projects.csv",
@@ -969,7 +969,7 @@
     },
     {
         "name": "Code for Raleigh",
-        "website": "http://www.meetup.com/Triangle-Code-for-America/",
+        "website": "http://www.codeforraleigh.com/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforraleigh",
@@ -1638,7 +1638,7 @@
     },
     {
         "name": "Open Cleveland",
-        "website": "http://opencleveland.org",
+        "website": "www.opencleveland.org",
         "events_url": "http://www.meetup.com/open-cleveland",
         "rss": "",
         "projects_list_url": "https://github.com/opencleveland",
@@ -1737,7 +1737,7 @@
     },
     {
         "name": "Open Oakland",
-        "website": "http://openoakland.org/",
+        "website": "https://www.openoakland.org/",
         "events_url": "http://www.meetup.com/OpenOakland/",
         "rss": "https://www.openoakland.org/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=0AgNZYWcpRBQ7dHRnTUJtd3QtYkR5bk5lUmpNMDlpSEE&single=true&gid=0&output=csv",
@@ -1858,7 +1858,7 @@
     },
     {
         "name": "OpenSMC",
-        "website": "http://opensmc.org",
+        "website": "https://www.opensmc.tech/",
         "events_url": "http://www.meetup.com/opensmc/",
         "rss": "http://opensmc.org/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/188H7C7t6RMHL5vOwLJggz2ZeywRwVpFSIzSNApLNc_I/export?format=csv",
