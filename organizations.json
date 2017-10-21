@@ -189,7 +189,7 @@
     {
         "name": "Code for Atlanta",
         "website": "http://www.codeforatlanta.org/",
-        "events_url": "http://www.meetup.com/codeforatlanta/",
+        "events_url": "https://www.meetup.com/codeforatlanta/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforatlanta",
         "city": "Atlanta, GA",
@@ -222,7 +222,7 @@
     {
         "name": "Code for Boston",
         "website": "http://www.codeforboston.org",
-        "events_url": "http://www.meetup.com/Code-for-Boston/",
+        "events_url": "https://www.meetup.com/Code-for-Boston/",
         "rss": "",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1kdBUuPDLEyL5ZYZ2ZGcSa1VwN6UAW82bA_5ZWI70P5I/export?format=csv",
         "city": "Boston, MA",
@@ -277,7 +277,7 @@
     {
         "name": "Code for Charlotte",
         "website": "http://codeforcharlotte.org",
-        "events_url": "http://www.meetup.com/Code-For-Charlotte/",
+        "events_url": "https://www.meetup.com/Code-For-Charlotte",
         "rss": "https://medium.com/code-for-charlotte",
         "projects_list_url": "https://github.com/CodeForCharlotte",
         "city": "Charlotte, NC",
@@ -332,7 +332,7 @@
     {
         "name": "Code for DC",
         "website": "https://codefordc.org",
-        "events_url": "http://www.meetup.com/Code-for-DC/",
+        "events_url": "https://www.meetup.com/Code-for-DC",
         "rss": "",
         "projects_list_url": "https://github.com/codefordc",
         "city": "Washington, DC",
@@ -398,7 +398,7 @@
     {
         "name": "Code for Fort Lauderdale",
         "website": "http://codeforftl.org/",
-        "events_url": "http://www.meetup.com/Code-for-FTL",
+        "events_url": "https://www.meetup.com/Code-for-FTL/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforftl",
         "city": "Ft. Lauderdale, FL",
@@ -585,7 +585,7 @@
     {
         "name": "Code for Kansas City",
         "website": "http://codeforkc.org/",
-        "events_url": "http://www.meetup.com/KCBrigade/",
+        "events_url": "https://www.meetup.com/KCBrigade/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforkansascity",
         "city": "Kansas City, KS & MO",
@@ -761,7 +761,7 @@
     {
         "name": "Code for Miami",
         "website": "http://codefor.miami",
-        "events_url": "http://www.meetup.com/Code-for-Miami/",
+        "events_url": "https://www.meetup.com/code-for-miami/",
         "rss": "http://codeformia.tumblr.com/rss",
         "projects_list_url": "https://github.com/code-for-miami",
         "city": "Miami, FL",
@@ -794,7 +794,7 @@
     {
         "name": "Code for Nashville",
         "website": "http://www.codefornashville.org",
-        "events_url": "http://www.meetup.com/code-for-nashville/",
+        "events_url": "https://www.meetup.com/code-for-nashville/",
         "rss": "http://www.codefornashville.org/blog/",
         "projects_list_url": "https://github.com/code-for-nashville",
         "city": "Nashville, TN",
@@ -827,7 +827,7 @@
     {
         "name": "Code for New River Valley",
         "website": "http://codefornrv.org/",
-        "events_url": "http://www.meetup.com/codefornrv/",
+        "events_url": "https://www.meetup.com/CodeForNRV",
         "rss": "",
         "projects_list_url": "https://github.com/CodeforNRV",
         "city": "Blacksburg, VA",
@@ -882,7 +882,7 @@
     {
         "name": "Code for Orlando",
         "website": "http://www.codefororlando.com",
-        "events_url": "http://www.meetup.com/Code-For-Orlando/",
+        "events_url": "https://www.meetup.com/Code-For-Orlando/",
         "rss": "",
         "projects_list_url": "https://github.com/cforlando",
         "city": "Orlando, FL",
@@ -904,7 +904,7 @@
     {
         "name": "Code for Philly",
         "website": "https://codeforphilly.org",
-        "events_url": "http://www.meetup.com/Code-for-America-Philly",
+        "events_url": "https://www.meetup.com/Code-for-Philly/",
         "rss": "http://codeforphilly.org/project-updates?format=rss",
         "projects_list_url": "http://codeforphilly.org/projects.csv",
         "city": "Philadelphia, PA",
@@ -1003,7 +1003,7 @@
     {
         "name": "Code for Sacramento",
         "website": "http://codeforsacramento.org/",
-        "events_url": "http://www.meetup.com/Code4Sac/",
+        "events_url": "https://www.meetup.com/Code4Sac",
         "rss": "http://code4sac.org/cat/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=1k5gff8Mvs6rb3sz6aLll5Dq8joftl65Gmy33DO-7Kv8&output=csv",
         "city": "Sacramento, CA",
@@ -1036,7 +1036,7 @@
     {
         "name": "Code for San Francisco",
         "website": "http://codeforsanfrancisco.org/",
-        "events_url": "http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/",
+        "events_url": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/",
         "rss": "http://codeforsanfrancisco.org/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=0ArHmv-6U1drqdDVGZzdiMVlkMnRJLXp2cm1ZTUhMOFE&output=csv",
         "city": "San Francisco, CA",
@@ -1333,7 +1333,7 @@
     {
         "name": "Hack for LA",
         "website": "http://www.hackforla.org/",
-        "events_url": "http://www.meetup.com/hackforla/",
+        "events_url": "https://www.meetup.com/hackforla/",
         "rss": "http://www.hackforla.org/blog",
         "projects_list_url": "https://github.com/hackforla",
         "city": "Los Angeles, CA",
@@ -1639,7 +1639,7 @@
     {
         "name": "Open Cleveland",
         "website": "www.opencleveland.org",
-        "events_url": "http://www.meetup.com/open-cleveland",
+        "events_url": "https://www.meetup.com/open-cleveland/",
         "rss": "",
         "projects_list_url": "https://github.com/opencleveland",
         "city": "Cleveland, OH",
@@ -1661,7 +1661,7 @@
     {
         "name": "OpenSTL",
         "website": "openstl.org",
-        "events_url": "http://www.meetup.com/Open-Data-STL",
+        "events_url": "http://www.meetup.com/OpenSTL",
         "rss": "http://buildforstl.org/feed",
         "projects_list_url": "https://github.com/opendatastl",
         "city": "St Louis, MO",
@@ -1716,7 +1716,7 @@
     {
         "name": "Open Lexington",
         "website": "http://openlexington.org/",
-        "events_url": "http://www.meetup.com/OpenLexington/",
+        "events_url": "https://www.meetup.com/openlexington/",
         "rss": "",
         "projects_list_url": "https://github.com/openlexington",
         "city": "Lexington, KY",
@@ -1738,7 +1738,7 @@
     {
         "name": "Open Oakland",
         "website": "https://www.openoakland.org/",
-        "events_url": "http://www.meetup.com/OpenOakland/",
+        "events_url": "https://www.meetup.com/OpenOakland/",
         "rss": "https://www.openoakland.org/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=0AgNZYWcpRBQ7dHRnTUJtd3QtYkR5bk5lUmpNMDlpSEE&single=true&gid=0&output=csv",
         "city": "Oakland, CA",
@@ -1749,7 +1749,7 @@
     {
         "name": "Code for Pittsburgh",
         "website": "https://codeforpittsburgh.github.io/",
-        "events_url": "http://www.meetup.com/Open-Pittsburgh-our-Regions-Code-for-America-Brigade/",
+        "events_url": "https://www.meetup.com/codeforpgh/",
         "rss": "",
         "projects_list_url": "https://github.com/openpgh",
         "city": "Pittsburgh, PA",
@@ -1782,7 +1782,7 @@
     {
         "name": "Open San Diego",
         "website": "http://opensandiego.org",
-        "events_url": "http://www.meetup.com/Open-San-Diego/",
+        "events_url": "https://www.meetup.com/Open-San-Diego",
         "rss": "",
         "projects_list_url": "https://github.com/opensandiego",
         "city": "San Diego, CA",
@@ -1804,7 +1804,7 @@
     {
         "name": "Open Seattle",
         "website": "http://openseattle.org/",
-        "events_url": "http://www.meetup.com/openseattle/",
+        "events_url": "https://www.meetup.com/openseattle/",
         "rss": "",
         "projects_list_url": "http://openseattle.org/projects/index.csv",
         "city": "Seattle, WA",
@@ -1967,7 +1967,7 @@
     {
         "name": "HackMKE",
         "website": "http://hackmke.com",
-        "events_url": "http://www.meetup.com/mkedata",
+        "events_url": "https://www.meetup.com/MKEData/",
         "rss": "",
         "projects_list_url": "",
         "city": "Milwaukee, WI",
