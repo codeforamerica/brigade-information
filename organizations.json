@@ -1659,8 +1659,8 @@
         "type": "Project"
     },
     {
-        "name": "Open Data STL",
-        "website": "http://opendatastl.github.io",
+        "name": "OpenSTL",
+        "website": "openstl.org",
         "events_url": "http://www.meetup.com/Open-Data-STL",
         "rss": "http://buildforstl.org/feed",
         "projects_list_url": "https://github.com/opendatastl",
@@ -1747,8 +1747,8 @@
         "type": "Brigade, Official"
     },
     {
-        "name": "Open Pittsburgh",
-        "website": "http://opgh.org/",
+        "name": "Code for Pittsburgh",
+        "website": "https://codeforpittsburgh.github.io/",
         "events_url": "http://www.meetup.com/Open-Pittsburgh-our-Regions-Code-for-America-Brigade/",
         "rss": "",
         "projects_list_url": "https://github.com/openpgh",
