@@ -1692,17 +1692,6 @@
         "type": "Project"
     },
     {
-        "name": "Open Houston",
-        "website": "http://ohouston.org/",
-        "events_url": "http://www.meetup.com/open-houston/",
-        "rss": "",
-        "projects_list_url": "",
-        "city": "Houston, TX",
-        "latitude": "29.7602",
-        "longitude": "-95.3694",
-        "type": "Brigade, Official"
-    },
-    {
         "name": "Open Indy",
         "website": "http://www.openindybrigade.com/",
         "events_url": "http://www.meetup.com/Open-Indy-Brigade/",
