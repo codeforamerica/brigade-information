@@ -29,6 +29,8 @@ A single organization's record looks like this:
 * `latitude` and `longitude` values can be figured out using a tool like [LatLong.net](http://www.latlong.net/). Required if you want to appear on the [Brigade](http://www.codeforamerica.org/brigade/) or [Code for All](http://codeforall.org/) maps.
 * `type` is the type of organization you're adding – the most commonly used types are `Brigade`, `Code for All`, and `Government`.
 
+Before committing your change, please make sure that there are no formatting issues by running the `bin/format-json` script. (You will need to `brew install jq moreutils` for that script to run.)
+
 ##### Projects List
 
 If you don't want to use a GitHub organization URL for your projects list, you can link to a custom CSV or JSON file.

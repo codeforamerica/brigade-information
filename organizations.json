@@ -122,7 +122,7 @@
     },
     {
         "name": "Code for ABQ",
-        "website": "http://code4abq.org/",
+        "website": "http://codeforabq.org/",
         "events_url": "http://www.meetup.com/Code-for-ABQ",
         "rss": "",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1k4-U_ojSdzJyKTRYiVEpx7Ae4kXBdHAf-jA-_aZGhrI/export?format=csv",
@@ -189,7 +189,7 @@
     {
         "name": "Code for Atlanta",
         "website": "http://www.codeforatlanta.org/",
-        "events_url": "http://www.meetup.com/codeforatlanta/",
+        "events_url": "https://www.meetup.com/codeforatlanta/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforatlanta",
         "city": "Atlanta, GA",
@@ -222,7 +222,7 @@
     {
         "name": "Code for Boston",
         "website": "http://www.codeforboston.org",
-        "events_url": "http://www.meetup.com/Code-for-Boston/",
+        "events_url": "https://www.meetup.com/Code-for-Boston/",
         "rss": "",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1kdBUuPDLEyL5ZYZ2ZGcSa1VwN6UAW82bA_5ZWI70P5I/export?format=csv",
         "city": "Boston, MA",
@@ -265,7 +265,7 @@
     },
     {
         "name": "Code for Cary",
-        "website": "https://github.com/codeforcary",
+        "website": "http://www.codeforcary.org/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforcary",
@@ -276,8 +276,8 @@
     },
     {
         "name": "Code for Charlotte",
-        "website": "http://www.codeforcharlotte.org/",
-        "events_url": "http://www.meetup.com/Code-For-Charlotte/",
+        "website": "http://codeforcharlotte.org",
+        "events_url": "https://www.meetup.com/Code-For-Charlotte",
         "rss": "https://medium.com/code-for-charlotte",
         "projects_list_url": "https://github.com/CodeForCharlotte",
         "city": "Charlotte, NC",
@@ -331,8 +331,8 @@
     },
     {
         "name": "Code for DC",
-        "website": "http://codefordc.org/",
-        "events_url": "http://www.meetup.com/Code-for-DC/",
+        "website": "https://codefordc.org",
+        "events_url": "https://www.meetup.com/Code-for-DC",
         "rss": "",
         "projects_list_url": "https://github.com/codefordc",
         "city": "Washington, DC",
@@ -398,7 +398,7 @@
     {
         "name": "Code for Fort Lauderdale",
         "website": "http://codeforftl.org/",
-        "events_url": "http://www.meetup.com/Code-for-FTL",
+        "events_url": "https://www.meetup.com/Code-for-FTL/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforftl",
         "city": "Ft. Lauderdale, FL",
@@ -418,15 +418,15 @@
         "type": "Brigade"
     },
     {
-   	   "name": "Code for Gainesville",
-   	   "website": "http://c4gnv.com",
-   	   "events_url": "http://www.meetup.com/Code-for-Gainesville/",
-   	   "rss": "",
-  	   "projects_list_url": "https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv",
-    	  "city": "Gainesville, FL",
-   	  "latitude": "29.651634",
-   	  "longitude": "-82.324826",
-   	  "type": "Brigade, Official"
+        "name": "Code for Gainesville",
+        "website": "http://c4gnv.com",
+        "events_url": "http://www.meetup.com/Code-for-Gainesville/",
+        "rss": "",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv",
+        "city": "Gainesville, FL",
+        "latitude": "29.651634",
+        "longitude": "-82.324826",
+        "type": "Brigade, Official"
     },
     {
         "name": "Code for Germany",
@@ -585,7 +585,7 @@
     {
         "name": "Code for Kansas City",
         "website": "http://codeforkc.org/",
-        "events_url": "http://www.meetup.com/KCBrigade/",
+        "events_url": "https://www.meetup.com/KCBrigade/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforkansascity",
         "city": "Kansas City, KS & MO",
@@ -655,7 +655,7 @@
         "rss": "http://kodujdlapolski.pl/en/blog/",
         "projects_list_url": "",
         "city": "Poland",
-        "latitude": "52.361947", 
+        "latitude": "52.361947",
         "longitude": "19.226414",
         "type": "Code for All"
     },
@@ -760,8 +760,8 @@
     },
     {
         "name": "Code for Miami",
-        "website": "http://codeformiami.org/",
-        "events_url": "http://www.meetup.com/Code-for-Miami/",
+        "website": "http://codefor.miami",
+        "events_url": "https://www.meetup.com/code-for-miami/",
         "rss": "http://codeformia.tumblr.com/rss",
         "projects_list_url": "https://github.com/code-for-miami",
         "city": "Miami, FL",
@@ -794,7 +794,7 @@
     {
         "name": "Code for Nashville",
         "website": "http://www.codefornashville.org",
-        "events_url": "http://www.meetup.com/code-for-nashville/",
+        "events_url": "https://www.meetup.com/code-for-nashville/",
         "rss": "http://www.codefornashville.org/blog/",
         "projects_list_url": "https://github.com/code-for-nashville",
         "city": "Nashville, TN",
@@ -827,7 +827,7 @@
     {
         "name": "Code for New River Valley",
         "website": "http://codefornrv.org/",
-        "events_url": "http://www.meetup.com/codefornrv/",
+        "events_url": "https://www.meetup.com/CodeForNRV",
         "rss": "",
         "projects_list_url": "https://github.com/CodeforNRV",
         "city": "Blacksburg, VA",
@@ -882,7 +882,7 @@
     {
         "name": "Code for Orlando",
         "website": "http://www.codefororlando.com",
-        "events_url": "http://www.meetup.com/Code-For-Orlando/",
+        "events_url": "https://www.meetup.com/Code-For-Orlando/",
         "rss": "",
         "projects_list_url": "https://github.com/cforlando",
         "city": "Orlando, FL",
@@ -903,8 +903,8 @@
     },
     {
         "name": "Code for Philly",
-        "website": "http://codeforphilly.org/",
-        "events_url": "http://www.meetup.com/Code-for-America-Philly",
+        "website": "https://codeforphilly.org",
+        "events_url": "https://www.meetup.com/Code-for-Philly/",
         "rss": "http://codeforphilly.org/project-updates?format=rss",
         "projects_list_url": "http://codeforphilly.org/projects.csv",
         "city": "Philadelphia, PA",
@@ -969,7 +969,7 @@
     },
     {
         "name": "Code for Raleigh",
-        "website": "http://www.meetup.com/Triangle-Code-for-America/",
+        "website": "http://www.codeforraleigh.com/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforraleigh",
@@ -1003,7 +1003,7 @@
     {
         "name": "Code for Sacramento",
         "website": "http://codeforsacramento.org/",
-        "events_url": "http://www.meetup.com/Code4Sac/",
+        "events_url": "https://www.meetup.com/Code4Sac",
         "rss": "http://code4sac.org/cat/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=1k5gff8Mvs6rb3sz6aLll5Dq8joftl65Gmy33DO-7Kv8&output=csv",
         "city": "Sacramento, CA",
@@ -1036,7 +1036,7 @@
     {
         "name": "Code for San Francisco",
         "website": "http://codeforsanfrancisco.org/",
-        "events_url": "http://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/",
+        "events_url": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/",
         "rss": "http://codeforsanfrancisco.org/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=0ArHmv-6U1drqdDVGZzdiMVlkMnRJLXp2cm1ZTUhMOFE&output=csv",
         "city": "San Francisco, CA",
@@ -1333,7 +1333,7 @@
     {
         "name": "Hack for LA",
         "website": "http://www.hackforla.org/",
-        "events_url": "http://www.meetup.com/hackforla/",
+        "events_url": "https://www.meetup.com/hackforla/",
         "rss": "http://www.hackforla.org/blog",
         "projects_list_url": "https://github.com/hackforla",
         "city": "Los Angeles, CA",
@@ -1638,8 +1638,8 @@
     },
     {
         "name": "Open Cleveland",
-        "website": "http://opencleveland.org",
-        "events_url": "http://www.meetup.com/open-cleveland",
+        "website": "www.opencleveland.org",
+        "events_url": "https://www.meetup.com/open-cleveland/",
         "rss": "",
         "projects_list_url": "https://github.com/opencleveland",
         "city": "Cleveland, OH",
@@ -1659,9 +1659,9 @@
         "type": "Project"
     },
     {
-        "name": "Open Data STL",
-        "website": "http://opendatastl.github.io",
-        "events_url": "http://www.meetup.com/Open-Data-STL",
+        "name": "OpenSTL",
+        "website": "openstl.org",
+        "events_url": "http://www.meetup.com/OpenSTL",
         "rss": "http://buildforstl.org/feed",
         "projects_list_url": "https://github.com/opendatastl",
         "city": "St Louis, MO",
@@ -1716,7 +1716,7 @@
     {
         "name": "Open Lexington",
         "website": "http://openlexington.org/",
-        "events_url": "http://www.meetup.com/OpenLexington/",
+        "events_url": "https://www.meetup.com/openlexington/",
         "rss": "",
         "projects_list_url": "https://github.com/openlexington",
         "city": "Lexington, KY",
@@ -1737,8 +1737,8 @@
     },
     {
         "name": "Open Oakland",
-        "website": "http://openoakland.org/",
-        "events_url": "http://www.meetup.com/OpenOakland/",
+        "website": "https://www.openoakland.org/",
+        "events_url": "https://www.meetup.com/OpenOakland/",
         "rss": "https://www.openoakland.org/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=0AgNZYWcpRBQ7dHRnTUJtd3QtYkR5bk5lUmpNMDlpSEE&single=true&gid=0&output=csv",
         "city": "Oakland, CA",
@@ -1747,9 +1747,9 @@
         "type": "Brigade, Official"
     },
     {
-        "name": "Open Pittsburgh",
-        "website": "http://opgh.org/",
-        "events_url": "http://www.meetup.com/Open-Pittsburgh-our-Regions-Code-for-America-Brigade/",
+        "name": "Code for Pittsburgh",
+        "website": "https://codeforpittsburgh.github.io/",
+        "events_url": "https://www.meetup.com/codeforpgh/",
         "rss": "",
         "projects_list_url": "https://github.com/openpgh",
         "city": "Pittsburgh, PA",
@@ -1782,7 +1782,7 @@
     {
         "name": "Open San Diego",
         "website": "http://opensandiego.org",
-        "events_url": "http://www.meetup.com/Open-San-Diego/",
+        "events_url": "https://www.meetup.com/Open-San-Diego",
         "rss": "",
         "projects_list_url": "https://github.com/opensandiego",
         "city": "San Diego, CA",
@@ -1790,7 +1790,7 @@
         "longitude": "-117.1573",
         "type": "Brigade, Official"
     },
-      {
+    {
         "name": "Open Savannah",
         "website": "http://opensavannah.org",
         "events_url": "http://www.meetup.com/opensavannah/",
@@ -1804,7 +1804,7 @@
     {
         "name": "Open Seattle",
         "website": "http://openseattle.org/",
-        "events_url": "http://www.meetup.com/openseattle/",
+        "events_url": "https://www.meetup.com/openseattle/",
         "rss": "",
         "projects_list_url": "http://openseattle.org/projects/index.csv",
         "city": "Seattle, WA",
@@ -1965,18 +1965,9 @@
         "type": "Brigade"
     },
     {
-        "name": "Open Wichita",
-        "website": "http://openwichita.com",
-        "projects_list_url": "https://github.com/openwichita",
-        "city": "Wichita, KS",
-        "latitude": "37.688521",
-        "longitude": "-97.326812",
-        "type": "Brigade"
-    },
-    {
         "name": "HackMKE",
         "website": "http://hackmke.com",
-        "events_url": "http://www.meetup.com/mkedata",
+        "events_url": "https://www.meetup.com/MKEData/",
         "rss": "",
         "projects_list_url": "",
         "city": "Milwaukee, WI",
@@ -1994,5 +1985,145 @@
         "latitude": "-27.5908812",
         "longitude": "-48.5167347",
         "type": "Brigade"
+    },
+    {
+        "name": "Civic Data Alliance (Louisville)",
+        "website": "civicdataalliance.org",
+        "events_url": "https://www.meetup.com/Louisville-Civic-Data-Alliance/",
+        "projects_list_url": "https://github.com/civicdata/",
+        "city": "Louisville, KY",
+        "type": "Brigade",
+        "latitude": "38.2526647",
+        "longitude": "-85.7584557"
+    },
+    {
+        "name": "Code for Baltimore",
+        "website": "codeforbaltimore.org",
+        "events_url": "https://www.meetup.com/Code-for-Baltimore/",
+        "projects_list_url": "https://github.com/CodeForBaltimore",
+        "city": "Baltimore, MD",
+        "type": "Brigade",
+        "latitude": "39.2903848",
+        "longitude": "-76.6121893"
+    },
+    {
+        "name": "Code for Berkeley",
+        "website": "TBA",
+        "events_url": "TBA",
+        "projects_list_url": "github.com/CodeForBerkeley",
+        "city": "Berkeley, CA",
+        "type": "Brigade",
+        "latitude": "37.8715926",
+        "longitude": "-122.272747"
+    },
+    {
+        "name": "Code for Fort Collins",
+        "website": "http://codeforfoco.org/",
+        "events_url": "https://www.meetup.com/Code-for-Fort-Collins/",
+        "projects_list_url": "https://github.com/codeforfoco",
+        "city": "Fort Collins, CO",
+        "type": "Brigade",
+        "latitude": "40.5852602",
+        "longitude": "-105.084423"
+    },
+    {
+        "name": "Code for Greenville",
+        "website": "codeforgreenville.org",
+        "events_url": "https://www.meetup.com/Code-for-Greenville/",
+        "projects_list_url": "https://github.com/codeforgreenville/",
+        "city": "Greenville, SC",
+        "type": "Brigade",
+        "latitude": "34.85261759999999",
+        "longitude": "-82.3940104"
+    },
+    {
+        "name": "Code for OKC",
+        "website": "codeforokc.org/",
+        "events_url": "https://www.meetup.com/Code-for-OKC/",
+        "projects_list_url": "github.com/codeforokc",
+        "city": "Oklahoma City, OK",
+        "type": "Brigade",
+        "latitude": "35.4675602",
+        "longitude": "-97.5164276"
+    },
+    {
+        "name": "Code for Palm Beach",
+        "website": "",
+        "events_url": "https://www.meetup.com/Code-for-Palm-Beach/",
+        "projects_list_url": "github.com/codeforpalmbeach",
+        "city": "Palm Beach, FL",
+        "type": "Brigade",
+        "latitude": "26.7056206",
+        "longitude": "-80.0364297"
+    },
+    {
+        "name": "Code for Phoenix",
+        "website": "",
+        "events_url": null,
+        "projects_list_url": "",
+        "city": "Phoenix, AZ",
+        "type": "Brigade",
+        "latitude": "33.4483771",
+        "longitude": "-112.0740373"
+    },
+    {
+        "name": "Code for Princeton",
+        "website": "https://codeforprincetonblog.wordpress.com/",
+        "events_url": "https://www.meetup.com/codeforprinceton/",
+        "projects_list_url": "github.com/codeforprinceton",
+        "city": "Princeton, NJ",
+        "type": "Brigade",
+        "latitude": "40.3572976",
+        "longitude": "-74.6672226"
+    },
+    {
+        "name": "Code for Winston-Salem",
+        "website": "codeforws.org",
+        "events_url": "https://www.meetup.com/Code-for-Winston-Salem/",
+        "projects_list_url": "https://github.com/CodeForWinstonSalem",
+        "city": "Winston-Salem, NC",
+        "type": "Brigade",
+        "latitude": "36.09985959999999",
+        "longitude": "-80.244216"
+    },
+    {
+        "name": "Hack MKE",
+        "website": "http://hackmke.com/",
+        "events_url": "https://www.meetup.com/MKEData/",
+        "projects_list_url": "https://github.com/milwaukeedata",
+        "city": "Milwaukee, WI",
+        "type": "Brigade",
+        "latitude": "43.0389025",
+        "longitude": "-87.9064736"
+    },
+    {
+        "name": "Open Data Delaware",
+        "website": "http://www.opendatadelaware.com/",
+        "events_url": "https://www.meetup.com/Open-Data-Delaware/",
+        "projects_list_url": "https://github.com/OpenDataDE",
+        "city": "Wilmington, DE",
+        "type": "Brigade",
+        "latitude": "39.7390721",
+        "longitude": "-75.5397878"
+    },
+    {
+        "name": "Open Denton",
+        "website": "https://www.opendenton.com/",
+        "events_url": "",
+        "projects_list_url": "https://github.com/OpenDenton",
+        "city": "Denton, TX",
+        "type": "Brigade",
+        "latitude": "33.2148412",
+        "longitude": "-97.13306829999999"
+    },
+    {
+        "name": "Sketch City (Houston)",
+        "website": "http://sketchcity.org/",
+        "events_url": "https://www.meetup.com/sketchcity/",
+        "projects_list_url": "https://github.com/sketch-city",
+        "city": "Houston, TX",
+        "type": "Brigade",
+        "latitude": "29.7604267",
+        "longitude": "-95.3698028"
     }
 ]
