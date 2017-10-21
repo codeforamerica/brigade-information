@@ -2060,7 +2060,7 @@
         "name": "Code for Phoenix",
         "website": "",
         "events_url": null,
-        "projects_list_url": "na",
+        "projects_list_url": "",
         "city": "Phoenix, AZ",
         "type": "Brigade",
         "latitude": "33.4483771",
@@ -2109,7 +2109,7 @@
     {
         "name": "Open Denton",
         "website": "https://www.opendenton.com/",
-        "events_url": "na",
+        "events_url": "",
         "projects_list_url": "https://github.com/OpenDenton",
         "city": "Denton, TX",
         "type": "Brigade",
