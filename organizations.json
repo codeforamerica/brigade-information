@@ -2600,12 +2600,12 @@
         "name": "Open Savannah",
         "website": "http://opensavannah.org",
         "events_url": "http://www.meetup.com/opensavannah/",
-        "rss": "",
+        "rss": "https://blog.opensavannah.org/feed",
         "projects_list_url": "https://github.com/opensavannah",
         "city": "Savannah, GA",
         "latitude": "32.0835",
         "longitude": "-81.0998",
-        "type": "Brigade, Official",
+        "type": "Brigade, Official, South",
         "social_profiles": {
             "facebook": "https://www.facebook.com/opensavannah",
             "twitter": "@open_savannah"
@@ -2633,6 +2633,7 @@
         "tags": [
             "Brigade",
             "Official",
+            "South",
             "Code for America"
         ]
     },
