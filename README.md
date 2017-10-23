@@ -18,7 +18,11 @@ A single organization's record looks like this:
     "city": "New York, NY",
     "latitude": "40.7144",
     "longitude": "-74.0060",
-    "type": "Brigade, Official"
+    "type": "Brigade, Official",
+    "social_profiles": {
+        "twitter": "@BetaNYC",
+        "facebook": "https://www.facebook.com/BetaNYC/"
+    }
 }
 ```
 
@@ -28,6 +32,9 @@ A single organization's record looks like this:
 * `projects_list_url` is the URL of a GitHub organization or of a list of project URLs, formatted as [described below](https://github.com/codeforamerica/brigade-information#projects-list).
 * `latitude` and `longitude` values can be figured out using a tool like [LatLong.net](http://www.latlong.net/). Required if you want to appear on the [Brigade](http://www.codeforamerica.org/brigade/) or [Code for All](http://codeforall.org/) maps.
 * `type` is the type of organization you're adding – the most commonly used types are `Brigade`, `Code for All`, and `Government`.
+* `social_profiles` is an object with the keys being the name of the social network and the value being the identifying address on that network. Specifically,
+  * `twitter` - The Twitter handle including `@`.
+  * `facebook` - The Facebook Page URL
 
 Before committing your change, please make sure that there are no formatting issues by running the `bin/format-json` script. (You will need to `brew install jq moreutils` for that script to run.)
 
