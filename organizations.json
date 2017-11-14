@@ -129,7 +129,10 @@
         "city": "Albuquerque, NM",
         "latitude": "35.0824",
         "longitude": "-106.6765",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@codeforabq"
+        }
     },
     {
         "name": "Code for Africa",
@@ -173,7 +176,11 @@
         "city": "Anchorage, AK",
         "latitude": "61.2181",
         "longitude": "-149.9003",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforanc/",
+            "twitter": "@CodeForAnc"
+        }
     },
     {
         "name": "Code for Asheville",
@@ -184,7 +191,11 @@
         "city": "Asheville, NC",
         "latitude": "35.5951",
         "longitude": "-82.5515",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforasheville/",
+            "twitter": "@code4asheville"
+        }
     },
     {
         "name": "Code for Atlanta",
@@ -195,7 +206,11 @@
         "city": "Atlanta, GA",
         "latitude": "33.7490",
         "longitude": "-84.3880",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforatlanta",
+            "twitter": "@codeforatlanta"
+        }
     },
     {
         "name": "Code for Australia",
@@ -228,7 +243,11 @@
         "city": "Boston, MA",
         "latitude": "42.3584",
         "longitude": "-71.0598",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforboston/",
+            "twitter": "@codeforboston"
+        }
     },
     {
         "name": "Code for Boulder",
@@ -239,7 +258,10 @@
         "city": "Boulder, CO",
         "latitude": "40.0176",
         "longitude": "-105.2797",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@CodeforBoulder"
+        }
     },
     {
         "name": "Code for Brazil",
@@ -261,7 +283,11 @@
         "city": "Burlington, VT",
         "latitude": "44.4759",
         "longitude": "-73.2121",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeForBtv/",
+            "twitter": "@CodeForBTV"
+        }
     },
     {
         "name": "Code for Cary",
@@ -272,7 +298,10 @@
         "city": "Cary, NC",
         "latitude": "35.7915",
         "longitude": "-78.7811",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@CodeForCary"
+        }
     },
     {
         "name": "Code for Charlotte",
@@ -283,7 +312,11 @@
         "city": "Charlotte, NC",
         "latitude": "35.2032",
         "longitude": "-80.8395",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforcharlotte",
+            "twitter": "@codeforclt"
+        }
     },
     {
         "name": "Code for Chofu",
@@ -327,7 +360,11 @@
         "city": "Dayton, OH",
         "latitude": "39.7589",
         "longitude": "-84.1916",
-        "type": "Brigade, midwest, Official"
+        "type": "Brigade, midwest, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/Code-For-Dayton-1501498193512256/",
+            "twitter": "@codefordayton"
+        }
     },
     {
         "name": "Code for DC",
@@ -338,7 +375,10 @@
         "city": "Washington, DC",
         "latitude": "38.9072",
         "longitude": "-77.0365",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@CodeforDC"
+        }
     },
     {
         "name": "Code for Denver",
@@ -349,7 +389,11 @@
         "city": "Denver, CO",
         "latitude": "39.7392",
         "longitude": "-104.9847",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codefordenver/",
+            "twitter": "@codefordenver"
+        }
     },
     {
         "name": "Code for Detroit",
@@ -371,7 +415,11 @@
         "city": "Durham, NC",
         "latitude": "35.9940",
         "longitude": "-78.8986",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codefordurham/",
+            "twitter": "@codefordurham"
+        }
     },
     {
         "name": "Code for Eau Claire",
@@ -404,7 +452,11 @@
         "city": "Ft. Lauderdale, FL",
         "latitude": "26.1237",
         "longitude": "-80.1436",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeForFTL/",
+            "twitter": "@codeforftl"
+        }
     },
     {
         "name": "Code for Fukuoka",
@@ -426,7 +478,10 @@
         "city": "Gainesville, FL",
         "latitude": "29.651634",
         "longitude": "-82.324826",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@c4gnv"
+        }
     },
     {
         "name": "Code for Germany",
@@ -470,7 +525,11 @@
         "city": "Greensboro, NC",
         "latitude": "36.0690",
         "longitude": "-79.7947",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforgreensboro/",
+            "twitter": "@CodeForGSO"
+        }
     },
     {
         "name": "Code for Hampton Roads",
@@ -481,7 +540,11 @@
         "city": "Hampton Roads, VA (Region)",
         "latitude": "36.8470",
         "longitude": "-76.2922",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/code4hr",
+            "twitter": "@code4hr"
+        }
     },
     {
         "name": "Code for Hawaii",
@@ -492,7 +555,11 @@
         "city": "Honolulu, HI",
         "latitude": "21.3069",
         "longitude": "-157.8583",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforhawaii/",
+            "twitter": "@codeforhawaii"
+        }
     },
     {
         "name": "Code the South",
@@ -591,7 +658,11 @@
         "city": "Kansas City, KS & MO",
         "latitude": "39.1030",
         "longitude": "-94.5831",
-        "type": "Brigade, midwest, Official"
+        "type": "Brigade, midwest, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforkc",
+            "twitter": "@codeforkc"
+        }
     },
     {
         "name": "Code for Kaohsiung",
@@ -734,7 +805,10 @@
         "city": "Long Beach, CA",
         "latitude": "33.7683",
         "longitude": "-118.1956",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "twitter": "@codefor_lb"
+        }
     },
     {
         "name": "Code for Maine",
@@ -745,7 +819,11 @@
         "city": "Bangor, ME",
         "latitude": "43.6615",
         "longitude": "-70.2553",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/code4maine/",
+            "twitter": "@code4maine"
+        }
     },
     {
         "name": "Code for Marin",
@@ -756,7 +834,10 @@
         "city": "Marin County, CA",
         "latitude": "38.0564",
         "longitude": "-122.7431",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "twitter": "@codeformarin"
+        }
     },
     {
         "name": "Code for Miami",
@@ -767,7 +848,11 @@
         "city": "Miami, FL",
         "latitude": "25.7890",
         "longitude": "-80.2264",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeForMiami/",
+            "twitter": "@codeformiami"
+        }
     },
     {
         "name": "Code for Nagareyama",
@@ -800,7 +885,10 @@
         "city": "Nashville, TN",
         "latitude": "36.1678",
         "longitude": "-86.7782",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@code4nashville"
+        }
     },
     {
         "name": "Code for New Hampshire",
@@ -833,7 +921,11 @@
         "city": "Blacksburg, VA",
         "latitude": "37.2263",
         "longitude": "-80.4106",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codefornrv/",
+            "twitter": "@codefornrv"
+        }
     },
     {
         "name": "Code for Newark",
@@ -844,7 +936,11 @@
         "city": "Newark, NJ",
         "latitude": "40.7320",
         "longitude": "-74.1742",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codefornewark/",
+            "twitter": "@codefornewark"
+        }
     },
     {
         "name": "Code for Nigeria",
@@ -866,7 +962,10 @@
         "city": "Arlington, VA",
         "latitude": "38.8800",
         "longitude": "-77.1068",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@codenovabrigade"
+        }
     },
     {
         "name": "Code for Okinawa",
@@ -888,7 +987,11 @@
         "city": "Orlando, FL",
         "latitude": "28.538335",
         "longitude": "-81.379236",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/profile.php?id=175405825957093",
+            "twitter": "@codefororlando"
+        }
     },
     {
         "name": "Code for Pakistan",
@@ -910,7 +1013,11 @@
         "city": "Philadelphia, PA",
         "latitude": "39.9523",
         "longitude": "-75.1638",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforphilly/",
+            "twitter": "@codeforphilly"
+        }
     },
     {
         "name": "Code for Ponta Grossa",
@@ -976,7 +1083,11 @@
         "city": "Raleigh, NC",
         "latitude": "35.7721",
         "longitude": "-78.6386",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CityCampRal/",
+            "twitter": "@codeforraleigh"
+        }
     },
     {
         "name": "Code for Rockford",
@@ -1009,7 +1120,11 @@
         "city": "Sacramento, CA",
         "latitude": "38.5816",
         "longitude": "-121.4944",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/code4sac/",
+            "twitter": "@code4sac"
+        }
     },
     {
         "name": "Code for Saga",
@@ -1042,7 +1157,11 @@
         "city": "San Francisco, CA",
         "latitude": "37.7749",
         "longitude": "-122.4194",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforsanfrancisco/",
+            "twitter": "@SFbrigade"
+        }
     },
     {
         "name": "Code for San Jose",
@@ -1053,7 +1172,11 @@
         "city": "San Jose, CA",
         "latitude": "37.3386",
         "longitude": "-121.8856",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://facebook.com/codeforsanjose",
+            "twitter": "@codeforsanjose"
+        }
     },
     {
         "name": "Code for Sapporo",
@@ -1119,7 +1242,11 @@
         "city": "Tampa, FL",
         "latitude": "27.9465",
         "longitude": "-82.4593",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeforTampaBay",
+            "twitter": "@CodeForTampaBay"
+        }
     },
     {
         "name": "Code for the Caribbean",
@@ -1163,7 +1290,10 @@
         "city": "Tucson, AZ",
         "latitude": "32.2216",
         "longitude": "-110.9698",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@CodeforTucson"
+        }
     },
     {
         "name": "Code for Tulsa",
@@ -1174,7 +1304,11 @@
         "city": "Tulsa, OK",
         "latitude": "36.1540",
         "longitude": "-95.9928",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeForTulsa/",
+            "twitter": "@CodeForTulsa"
+        }
     },
     {
         "name": "Code for Tuscaloosa",
@@ -1339,7 +1473,11 @@
         "city": "Los Angeles, CA",
         "latitude": "34.0522",
         "longitude": "-118.2437",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/hackforla",
+            "twitter": "@hackforLA"
+        }
     },
     {
         "name": "Hack Michiana",
@@ -1612,7 +1750,11 @@
         "city": "Austin, TX",
         "latitude": "30.2672",
         "longitude": "-97.7431",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/openatx/",
+            "twitter": "@openaustin"
+        }
     },
     {
         "name": "Open Brazil",
@@ -1645,7 +1787,10 @@
         "city": "Cleveland, OH",
         "latitude": "41.5047",
         "longitude": "-81.6907",
-        "type": "Brigade, midwest, Official"
+        "type": "Brigade, midwest, Official",
+        "social_profiles": {
+            "twitter": "@opencleveland"
+        }
     },
     {
         "name": "Open Data Standards",
@@ -1667,7 +1812,11 @@
         "city": "St Louis, MO",
         "latitude": "38.6272",
         "longitude": "-90.1977",
-        "type": "Brigade, midwest, Official"
+        "type": "Brigade, midwest, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/groups/opendatastl",
+            "twitter": "@open_stl"
+        }
     },
     {
         "name": "BetaCityYEG",
@@ -1700,7 +1849,10 @@
         "city": "Indianapolis, IN",
         "latitude": "39.7669",
         "longitude": "-86.1500",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "twitter": "@IndyBrigade"
+        }
     },
     {
         "name": "Open Lexington",
@@ -1711,7 +1863,10 @@
         "city": "Lexington, KY",
         "latitude": "38.0406",
         "longitude": "-84.5037",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@openlexington"
+        }
     },
     {
         "name": "Open Nebraska",
@@ -1733,7 +1888,11 @@
         "city": "Oakland, CA",
         "latitude": "37.8044",
         "longitude": "-122.2711",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/openoak/",
+            "twitter": "@openoakland"
+        }
     },
     {
         "name": "Code for Pittsburgh",
@@ -1744,7 +1903,10 @@
         "city": "Pittsburgh, PA",
         "latitude": "40.4406",
         "longitude": "-79.9959",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@codeforpgh"
+        }
     },
     {
         "name": "Open Salt Lake",
@@ -1777,7 +1939,10 @@
         "city": "San Diego, CA",
         "latitude": "32.7153",
         "longitude": "-117.1573",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "twitter": "@OpenSanDiego"
+        }
     },
     {
         "name": "Open Savannah",
@@ -1788,7 +1953,11 @@
         "city": "Savannah, GA",
         "latitude": "32.0835",
         "longitude": "-81.0998",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/opensavannah",
+            "twitter": "@open_savannah"
+        }
     },
     {
         "name": "Open Seattle",
@@ -1799,7 +1968,11 @@
         "city": "Seattle, WA",
         "latitude": "47.6062",
         "longitude": "-122.3321",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/openseattle/",
+            "twitter": "@open_seattle"
+        }
     },
     {
         "name": "Open Syracuse",
@@ -1821,7 +1994,11 @@
         "city": "St. Paul, MN",
         "latitude": "44.9537",
         "longitude": "-93.0900",
-        "type": "Brigade, Official, midwest"
+        "type": "Brigade, Official, midwest",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/OpenTwinCities/",
+            "twitter": "@opentwincities"
+        }
     },
     {
         "name": "Open Wichita",
@@ -1832,7 +2009,11 @@
         "city": "Wichita, KS",
         "latitude": "37.6870",
         "longitude": "-97.3356",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/openwichita/",
+            "twitter": "@openwichita"
+        }
     },
     {
         "name": "Open Zagreb",
@@ -1854,7 +2035,11 @@
         "city": "San Mateo County, CA",
         "latitude": "37.4889",
         "longitude": "-122.2308773",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/opensmc/",
+            "twitter": "@opensmc"
+        }
     },
     {
         "name": "Poplus",
@@ -1962,7 +2147,11 @@
         "city": "Milwaukee, WI",
         "latitude": "43.0389",
         "longitude": "87.9065",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/mkedata",
+            "twitter": "@datamke"
+        }
     },
     {
         "name": "Code for Floripa",
@@ -1983,7 +2172,11 @@
         "city": "Louisville, KY",
         "type": "Brigade",
         "latitude": "38.2526647",
-        "longitude": "-85.7584557"
+        "longitude": "-85.7584557",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/civicdata/",
+            "twitter": "@CivicDataAlly"
+        }
     },
     {
         "name": "Code for Baltimore",
@@ -1993,7 +2186,11 @@
         "city": "Baltimore, MD",
         "type": "Brigade",
         "latitude": "39.2903848",
-        "longitude": "-76.6121893"
+        "longitude": "-76.6121893",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeForBaltimore/",
+            "twitter": "@codeforbmore"
+        }
     },
     {
         "name": "Code for Berkeley",
@@ -2003,7 +2200,10 @@
         "city": "Berkeley, CA",
         "type": "Brigade",
         "latitude": "37.8715926",
-        "longitude": "-122.272747"
+        "longitude": "-122.272747",
+        "social_profiles": {
+            "facebook": "fb.com/CodeForBerkeley"
+        }
     },
     {
         "name": "Code for Fort Collins",
@@ -2013,7 +2213,11 @@
         "city": "Fort Collins, CO",
         "type": "Brigade",
         "latitude": "40.5852602",
-        "longitude": "-105.084423"
+        "longitude": "-105.084423",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeforFoCo/",
+            "twitter": "@codeforfoco"
+        }
     },
     {
         "name": "Code for Greenville",
@@ -2023,7 +2227,8 @@
         "city": "Greenville, SC",
         "type": "Brigade",
         "latitude": "34.85261759999999",
-        "longitude": "-82.3940104"
+        "longitude": "-82.3940104",
+        "social_profiles": {}
     },
     {
         "name": "Code for OKC",
@@ -2033,7 +2238,11 @@
         "city": "Oklahoma City, OK",
         "type": "Brigade",
         "latitude": "35.4675602",
-        "longitude": "-97.5164276"
+        "longitude": "-97.5164276",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforokc/",
+            "twitter": "@codeforokc"
+        }
     },
     {
         "name": "Code for Palm Beach",
@@ -2043,17 +2252,25 @@
         "city": "Palm Beach, FL",
         "type": "Brigade",
         "latitude": "26.7056206",
-        "longitude": "-80.0364297"
+        "longitude": "-80.0364297",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforpb",
+            "twitter": "@codeforpb"
+        }
     },
     {
         "name": "Code for Phoenix",
         "website": "",
-        "events_url": null,
+        "events_url": "https://www.meetup.com/codeforphx/",
         "projects_list_url": "",
         "city": "Phoenix, AZ",
         "type": "Brigade",
         "latitude": "33.4483771",
-        "longitude": "-112.0740373"
+        "longitude": "-112.0740373",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforphx/",
+            "twitter": "@codeforphx"
+        }
     },
     {
         "name": "Code for Princeton",
@@ -2063,7 +2280,11 @@
         "city": "Princeton, NJ",
         "type": "Brigade",
         "latitude": "40.3572976",
-        "longitude": "-74.6672226"
+        "longitude": "-74.6672226",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforprinceton/",
+            "twitter": "@codeprinceton"
+        }
     },
     {
         "name": "Code for Winston Salem",
@@ -2073,7 +2294,8 @@
         "city": "Winston-Salem, NC",
         "type": "Brigade",
         "latitude": "36.09985959999999",
-        "longitude": "-80.244216"
+        "longitude": "-80.244216",
+        "social_profiles": {}
     },
     {
         "name": "Hack MKE",
@@ -2093,7 +2315,11 @@
         "city": "Wilmington, DE",
         "type": "Brigade",
         "latitude": "39.7390721",
-        "longitude": "-75.5397878"
+        "longitude": "-75.5397878",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/opendatade/",
+            "twitter": "@opendatade"
+        }
     },
     {
         "name": "Open Denton",
@@ -2103,7 +2329,11 @@
         "city": "Denton, TX",
         "type": "Brigade",
         "latitude": "33.2148412",
-        "longitude": "-97.13306829999999"
+        "longitude": "-97.13306829999999",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/opendenton/",
+            "twitter": "@opendenton"
+        }
     },
     {
         "name": "Sketch City (Houston)",
@@ -2113,6 +2343,9 @@
         "city": "Houston, TX",
         "type": "Brigade",
         "latitude": "29.7604267",
-        "longitude": "-95.3698028"
+        "longitude": "-95.3698028",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/groups/openhoustongov/"
+        }
     }
 ]
