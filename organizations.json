@@ -232,7 +232,10 @@
         "city": "Birmingham, AL",
         "latitude": "33.5207",
         "longitude": "-86.8118",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/Codeforbirmingham"
+        }
     },
     {
         "name": "Code for Boston",
@@ -910,7 +913,11 @@
         "city": "New Orleans, LA",
         "latitude": "29.951992",
         "longitude": "-90.077055",
-        "type": "Brigade"
+        "type": "Brigade",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codefornola",
+            "twitter": "@codefornola"
+        }
     },
     {
         "name": "Code for New River Valley",
@@ -1352,7 +1359,11 @@
         "city": "Rhode Island",
         "latitude": "41.4887",
         "longitude": "-71.4543",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeislandbrigade",
+            "twitter": "@code_island"
+        }
     },
     {
         "name": "Code4PuertoRico",
@@ -1917,7 +1928,11 @@
         "city": "Salt Lake City, UT",
         "latitude": "40.7608",
         "longitude": "-111.8910",
-        "type": "Brigade, Official"
+        "type": "Brigade, Official",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/opensaltlakeutah/",
+            "twitter": "@OpenSaltLake"
+        }
     },
     {
         "name": "Open San Antonio",
