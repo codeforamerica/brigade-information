@@ -19,7 +19,10 @@
         "city": "South Bend, IN",
         "latitude": "41.676355",
         "longitude": "-86.25199",
-        "type": "fellows, 2013"
+        "type": "fellows, 2013",
+        "social_profiles": {
+          "twitter": "@futurama"
+        }
     },
     {
         "name": "Alpha NYC",
@@ -30,6 +33,11 @@
         "city": "New York, NY",
         "latitude": "40.7144",
         "longitude": "-74.006",
+        "tags": [
+          "Brigade",
+          "Fake Data",
+          "Code for Parallel Universes"
+        ],
         "type": "Brigade"
     }
 ]
