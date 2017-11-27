@@ -1084,24 +1084,6 @@
         ]
     },
     {
-        "name": "Code for Marin",
-        "website": "http://codeformarin.org/",
-        "events_url": "",
-        "rss": "",
-        "projects_list_url": "https://github.com/codeformarin",
-        "city": "Marin County, CA",
-        "latitude": "38.0564",
-        "longitude": "-122.7431",
-        "type": "Brigade",
-        "social_profiles": {
-            "twitter": "@codeformarin"
-        },
-        "tags": [
-            "Brigade",
-            "Code for America"
-        ]
-    },
-    {
         "name": "Code for Miami",
         "website": "http://codefor.miami",
         "events_url": "https://www.meetup.com/code-for-miami/",
