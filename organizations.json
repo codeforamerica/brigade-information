@@ -819,7 +819,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Code for Kanagawa",
@@ -2588,7 +2589,8 @@
         "tags": [
             "Brigade",
             "Official",
-            "Code for America"
+            "Code for America",
+            "South"
         ]
     },
     {
