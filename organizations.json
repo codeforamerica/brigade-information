@@ -3101,5 +3101,24 @@
             "Brigade",
             "Code for America"
         ]
+    },
+    {
+        "name": "Code for Boise",
+        "website": "http://codeforboise.org/",
+        "events_url": null,
+        "projects_list_url": "https://github.com/CodeForBoise",
+        "city": "Boise, ID",
+        "type": "Brigade",
+        "latitude": "43.6187102",
+        "longitude": "-116.2146068",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/codeforboise",
+            "twitter": "@CodeforBoise"
+        },
+        "tags": [
+            "Code for America",
+            "Official",
+            "Brigade"
+        ]
     }
 ]
