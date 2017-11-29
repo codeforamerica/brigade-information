@@ -3086,6 +3086,23 @@
         ]
     },
     {
+        "name": "BMG Hack",
+        "website": "https://github.com/BMGhack/civic-hacking",
+        "events_url": "null",
+        "projects_list_url": "https://github.com/BMGhack/civic-hacking",
+        "city": "Bloomington, IN",
+        "type": "Brigade",
+        "latitude": "39.1653",
+        "longitude": "-865264",
+        "social_profiles": {
+            "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
+        },
+        "tags": [
+            "Brigade",
+            "Code for America"
+        ]
+    },
+    {
         "name": "Code for Boise",
         "website": "http://codeforboise.org/",
         "events_url": null,
