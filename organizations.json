@@ -1632,9 +1632,9 @@
         "events_url": "https://www.meetup.com/Code-For-NL/",
         "rss": "",
         "projects_list_url": "https://clarity.codefor.nl/cbase/code-for-nl-50219f7e",
-        "city": "Amsterdamn, Netherlands",
-        "latitude": "52.3307",
-        "longitude": "4.8665",
+        "city": "Amsterdam, Netherlands",
+        "latitude": "52.372807",
+        "longitude": "4.900291",
         "type": "Code for All",
         "tags": [
             "Code for All"
