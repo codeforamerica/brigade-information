@@ -1627,11 +1627,11 @@
         ]
     },
     {
-        "name": "Code for the Netherlands",
+        "name": "Code for NL",
         "website": "http://www.codefor.nl/",
-        "events_url": "",
+        "events_url": "https://www.meetup.com/Code-For-NL/",
         "rss": "",
-        "projects_list_url": "",
+        "projects_list_url": "https://clarity.codefor.nl/cbase/code-for-nl-50219f7e",
         "city": "Amsterdamn, Netherlands",
         "latitude": "52.3307",
         "longitude": "4.8665",
