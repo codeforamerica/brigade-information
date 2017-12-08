@@ -2814,11 +2814,10 @@
         ]
     },
     {
-        "name": "HackMKE",
-        "website": "http://hackmke.com",
+        "name": "Milwaukee Data Initiative",
+        "website": "http://milwaukeedata.org/",
         "events_url": "https://www.meetup.com/MKEData/",
-        "rss": "",
-        "projects_list_url": "",
+        "projects_list_url": "https://github.com/milwaukeedata",
         "city": "Milwaukee, WI",
         "latitude": "43.0389",
         "longitude": "87.9065",
@@ -3017,19 +3016,6 @@
         "tags": [
             "Brigade",
             "Code for America"
-        ]
-    },
-    {
-        "name": "Hack MKE",
-        "website": "http://hackmke.com/",
-        "events_url": "https://www.meetup.com/MKEData/",
-        "projects_list_url": "https://github.com/milwaukeedata",
-        "city": "Milwaukee, WI",
-        "type": "Brigade",
-        "latitude": "43.0389025",
-        "longitude": "-87.9064736",
-        "tags": [
-            "Brigade"
         ]
     },
     {
