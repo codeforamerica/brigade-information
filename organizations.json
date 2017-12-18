@@ -2950,24 +2950,6 @@
         ]
     },
     {
-        "name": "Code for Palm Beach",
-        "website": "",
-        "events_url": "https://www.meetup.com/Code-for-Palm-Beach/",
-        "projects_list_url": "github.com/codeforpalmbeach",
-        "city": "Palm Beach, FL",
-        "type": "Brigade",
-        "latitude": "26.7056206",
-        "longitude": "-80.0364297",
-        "social_profiles": {
-            "facebook": "https://www.facebook.com/codeforpb",
-            "twitter": "@codeforpb"
-        },
-        "tags": [
-            "Brigade",
-            "Code for America"
-        ]
-    },
-    {
         "name": "Code for Phoenix",
         "website": "",
         "events_url": "https://www.meetup.com/codeforphx/",
