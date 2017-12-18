@@ -2726,22 +2726,6 @@
         ]
     },
     {
-        "name": "Tech Bark",
-        "website": "http://niu.edu/huskiehack/",
-        "events_url": "www.huskiehack.org",
-        "rss": "",
-        "projects_list_url": "https://github.com/HuskieHack",
-        "city": "Dekalb, IL",
-        "latitude": "41.9293",
-        "longitude": "-88.7493",
-        "type": "Brigade",
-        "tags": [
-            "Brigade",
-            "Official",
-            "Code for America"
-        ]
-    },
-    {
         "name": "US Census Bureau",
         "website": "http://www.census.gov/developers/",
         "events_url": "",
