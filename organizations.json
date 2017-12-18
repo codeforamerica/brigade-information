@@ -1031,24 +1031,6 @@
         ]
     },
     {
-        "name": "Code for Long Beach",
-        "website": "http://www.codeforlb.com",
-        "events_url": "",
-        "rss": "",
-        "projects_list_url": "",
-        "city": "Long Beach, CA",
-        "latitude": "33.7683",
-        "longitude": "-118.1956",
-        "type": "Brigade",
-        "social_profiles": {
-            "twitter": "@codefor_lb"
-        },
-        "tags": [
-            "Brigade",
-            "Code for America"
-        ]
-    },
-    {
         "name": "Code for Maine",
         "website": "http://code4maine.org/",
         "events_url": "http://www.meetup.com/Code-for-Maine",
@@ -1141,10 +1123,10 @@
         "events_url": "http://www.meetup.com/codefornh/",
         "rss": "http://www.codefornh.org/feed.xml",
         "projects_list_url": "https://github.com/codefornh",
-        "city": "Concord, NH",
-        "latitude": "43.2067",
-        "longitude": "-71.5381",
-        "type": "Brigade",
+        "city": "Manchester, NH",
+        "latitude": "43.008663",
+        "longitude": "-71.454391",
+        "type": "Brigade, Official",
         "tags": [
             "Brigade",
             "Official",
@@ -2744,22 +2726,6 @@
         ]
     },
     {
-        "name": "Tech Bark",
-        "website": "http://niu.edu/huskiehack/",
-        "events_url": "www.huskiehack.org",
-        "rss": "",
-        "projects_list_url": "https://github.com/HuskieHack",
-        "city": "Dekalb, IL",
-        "latitude": "41.9293",
-        "longitude": "-88.7493",
-        "type": "Brigade",
-        "tags": [
-            "Brigade",
-            "Official",
-            "Code for America"
-        ]
-    },
-    {
         "name": "US Census Bureau",
         "website": "http://www.census.gov/developers/",
         "events_url": "",
@@ -2950,24 +2916,6 @@
         ]
     },
     {
-        "name": "Code for Palm Beach",
-        "website": "",
-        "events_url": "https://www.meetup.com/Code-for-Palm-Beach/",
-        "projects_list_url": "github.com/codeforpalmbeach",
-        "city": "Palm Beach, FL",
-        "type": "Brigade",
-        "latitude": "26.7056206",
-        "longitude": "-80.0364297",
-        "social_profiles": {
-            "facebook": "https://www.facebook.com/codeforpb",
-            "twitter": "@codeforpb"
-        },
-        "tags": [
-            "Brigade",
-            "Code for America"
-        ]
-    },
-    {
         "name": "Code for Phoenix",
         "website": "",
         "events_url": "https://www.meetup.com/codeforphx/",
@@ -2998,21 +2946,6 @@
             "facebook": "https://www.facebook.com/codeforprinceton/",
             "twitter": "@codeprinceton"
         },
-        "tags": [
-            "Brigade",
-            "Code for America"
-        ]
-    },
-    {
-        "name": "Code for Winston Salem",
-        "website": "codeforws.org",
-        "events_url": "https://www.meetup.com/Code-for-Winston-Salem/",
-        "projects_list_url": "https://github.com/CodeForWinstonSalem",
-        "city": "Winston-Salem, NC",
-        "type": "Brigade",
-        "latitude": "36.09985959999999",
-        "longitude": "-80.244216",
-        "social_profiles": {},
         "tags": [
             "Brigade",
             "Code for America"
