@@ -1031,24 +1031,6 @@
         ]
     },
     {
-        "name": "Code for Long Beach",
-        "website": "http://www.codeforlb.com",
-        "events_url": "",
-        "rss": "",
-        "projects_list_url": "",
-        "city": "Long Beach, CA",
-        "latitude": "33.7683",
-        "longitude": "-118.1956",
-        "type": "Brigade",
-        "social_profiles": {
-            "twitter": "@codefor_lb"
-        },
-        "tags": [
-            "Brigade",
-            "Code for America"
-        ]
-    },
-    {
         "name": "Code for Maine",
         "website": "http://code4maine.org/",
         "events_url": "http://www.meetup.com/Code-for-Maine",
