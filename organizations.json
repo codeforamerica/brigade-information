@@ -807,6 +807,22 @@
         ]
     },
     {
+        "name": "Code for Jersey City",
+        "website": "http://codeforjc.org",
+        "events_url": "https://www.meetup.com/Code-For-Jersey-City/",
+        "rss": "",
+        "projects_list_url": "",
+        "city": "Jersey City, NJ",
+        "latitude": "40.7280556",
+        "longitude": "-74.0780556",
+        "type": "Brigade, Official, Code for America",
+        "tags": [
+            "Brigade",
+            "Official",
+            "Code for America"
+        ]
+    },
+    {
         "name": "Code for Kanagawa",
         "website": "https://www.facebook.com/CodeForKanagawa",
         "events_url": "",
