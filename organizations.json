@@ -2968,21 +2968,6 @@
         ]
     },
     {
-        "name": "Code for Winston Salem",
-        "website": "codeforws.org",
-        "events_url": "https://www.meetup.com/Code-for-Winston-Salem/",
-        "projects_list_url": "https://github.com/CodeForWinstonSalem",
-        "city": "Winston-Salem, NC",
-        "type": "Brigade",
-        "latitude": "36.09985959999999",
-        "longitude": "-80.244216",
-        "social_profiles": {},
-        "tags": [
-            "Brigade",
-            "Code for America"
-        ]
-    },
-    {
         "name": "Open Data Delaware",
         "website": "http://www.opendatadelaware.com/",
         "events_url": "https://www.meetup.com/Open-Data-Delaware/",
