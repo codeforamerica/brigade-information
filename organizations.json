@@ -365,7 +365,7 @@
         "city": "Burlington, VT",
         "latitude": "44.4759",
         "longitude": "-73.2121",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForBtv/",
             "twitter": "@CodeForBTV"
@@ -1142,7 +1142,7 @@
         "city": "New Orleans, LA",
         "latitude": "29.951992",
         "longitude": "-90.077055",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefornola",
             "twitter": "@codefornola"
@@ -1181,7 +1181,7 @@
         "city": "Newark, NJ",
         "latitude": "40.7320",
         "longitude": "-74.1742",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefornewark/",
             "twitter": "@codefornewark"
@@ -2403,7 +2403,7 @@
         "city": "Indianapolis, IN",
         "latitude": "39.7669",
         "longitude": "-86.1500",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "twitter": "@IndyBrigade"
         },
@@ -2624,7 +2624,7 @@
         "city": "Wichita, KS",
         "latitude": "37.6870",
         "longitude": "-97.3356",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/openwichita/",
             "twitter": "@openwichita"
@@ -2787,7 +2787,7 @@
         "city": "Milwaukee, WI",
         "latitude": "43.0389",
         "longitude": "-87.9065",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/mkedata",
             "twitter": "@datamke"
@@ -2817,7 +2817,7 @@
         "events_url": "https://www.meetup.com/Louisville-Civic-Data-Alliance/",
         "projects_list_url": "https://github.com/civicdata/",
         "city": "Louisville, KY",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "38.2526647",
         "longitude": "-85.7584557",
         "social_profiles": {
@@ -2835,7 +2835,7 @@
         "events_url": "https://www.meetup.com/Code-for-Baltimore/",
         "projects_list_url": "https://github.com/CodeForBaltimore",
         "city": "Baltimore, MD",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "39.2903848",
         "longitude": "-76.6121893",
         "social_profiles": {
@@ -2853,7 +2853,7 @@
         "events_url": "TBA",
         "projects_list_url": "github.com/CodeForBerkeley",
         "city": "Berkeley, CA",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "37.8715926",
         "longitude": "-122.272747",
         "social_profiles": {
@@ -2870,7 +2870,7 @@
         "events_url": "https://www.meetup.com/Code-for-Fort-Collins/",
         "projects_list_url": "https://github.com/codeforfoco",
         "city": "Fort Collins, CO",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "40.5852602",
         "longitude": "-105.084423",
         "social_profiles": {
@@ -2888,7 +2888,7 @@
         "events_url": "https://www.meetup.com/Code-for-Greenville/",
         "projects_list_url": "https://github.com/codeforgreenville/",
         "city": "Greenville, SC",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "34.85261759999999",
         "longitude": "-82.3940104",
         "social_profiles": {},
@@ -2903,7 +2903,7 @@
         "events_url": "https://www.meetup.com/Code-for-OKC/",
         "projects_list_url": "github.com/codeforokc",
         "city": "Oklahoma City, OK",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "35.4675602",
         "longitude": "-97.5164276",
         "social_profiles": {
@@ -2921,7 +2921,7 @@
         "events_url": "https://www.meetup.com/codeforphx/",
         "projects_list_url": "",
         "city": "Phoenix, AZ",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "33.4483771",
         "longitude": "-112.0740373",
         "social_profiles": {
@@ -2939,7 +2939,7 @@
         "events_url": "https://www.meetup.com/codeforprinceton/",
         "projects_list_url": "github.com/codeforprinceton",
         "city": "Princeton, NJ",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "40.3572976",
         "longitude": "-74.6672226",
         "social_profiles": {
@@ -2957,7 +2957,7 @@
         "events_url": "https://www.meetup.com/Open-Data-Delaware/",
         "projects_list_url": "https://github.com/OpenDataDE",
         "city": "Wilmington, DE",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "39.7390721",
         "longitude": "-75.5397878",
         "social_profiles": {
@@ -2975,7 +2975,7 @@
         "events_url": "",
         "projects_list_url": "https://github.com/OpenDenton",
         "city": "Denton, TX",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "33.2148412",
         "longitude": "-97.13306829999999",
         "social_profiles": {
@@ -2993,7 +2993,7 @@
         "events_url": "https://www.meetup.com/sketchcity/",
         "projects_list_url": "https://github.com/sketch-city",
         "city": "Houston, TX",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "29.7604267",
         "longitude": "-95.3698028",
         "social_profiles": {
