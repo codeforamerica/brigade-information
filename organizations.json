@@ -3041,7 +3041,7 @@
     {
         "name": "Code for Boise",
         "website": "http://codeforboise.org/",
-        "events_url": null,
+        "events_url": "",
         "projects_list_url": "https://github.com/CodeForBoise",
         "city": "Boise, ID",
         "type": "Brigade",
