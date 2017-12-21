@@ -119,21 +119,6 @@
         ]
     },
     {
-        "name": "Civic Data Alliance",
-        "website": "http://www.civicdataalliance.org/",
-        "events_url": "http://www.meetup.com/Louisville-Civic-Data-Alliance/",
-        "rss": "http://www.civicdataalliance.org/feed.xml",
-        "projects_list_url": "https://github.com/civicdata",
-        "city": "Louisville, KY",
-        "latitude": "38.2527",
-        "longitude": "-85.7585",
-        "type": "Brigade, Official",
-        "tags": [
-            "Brigade",
-            "Official"
-        ]
-    },
-    {
         "name": "Civic Tech Toronto",
         "website": "http://civictech.ca/",
         "events_url": "http://www.meetup.com/Civic-Tech-Toronto/",
@@ -2810,12 +2795,12 @@
         ]
     },
     {
-        "name": "Civic Data Alliance (Louisville)",
-        "website": "civicdataalliance.org",
+        "name": "Civic Data Alliance",
+        "website": "http://www.civicdataalliance.org",
         "events_url": "https://www.meetup.com/Louisville-Civic-Data-Alliance/",
         "projects_list_url": "https://github.com/civicdata/",
         "city": "Louisville, KY",
-        "type": "Brigade, Official",
+        "type": "Brigade, Official, Code for America",
         "latitude": "38.2526647",
         "longitude": "-85.7584557",
         "social_profiles": {
