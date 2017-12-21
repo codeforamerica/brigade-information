@@ -43,7 +43,7 @@
         ]
     },
     {
-        "name": "Beta NYC",
+        "name": "BetaNYC",
         "website": "http://www.beta.nyc",
         "events_url": "http://www.meetup.com/BetaNYC/",
         "rss": "https://beta.nyc/category/blog/rss",
@@ -744,10 +744,9 @@
         "city": "Huntsville, AL",
         "latitude": "34.7014",
         "longitude": "-86.6597",
-        "type": "Brigade, Official",
+        "type": "Brigade",
         "tags": [
-            "Brigade",
-            "Official"
+            "Brigade"
         ]
     },
     {
@@ -1427,10 +1426,9 @@
         "city": "Richmond, VA",
         "latitude": "37.5407",
         "longitude": "-77.4336",
-        "type": "Brigade, Official",
+        "type": "Brigade",
         "tags": [
-            "Brigade",
-            "Official"
+            "Brigade"
         ]
     },
     {
@@ -1587,10 +1585,9 @@
         "city": "Tallahassee, FL",
         "latitude": "30.4380556",
         "longitude": " -84.2808333",
-        "type": "Brigade, Official",
+        "type": "Brigade",
         "tags": [
-            "Brigade",
-            "Official"
+            "Brigade"
         ]
     },
     {
@@ -1704,10 +1701,9 @@
         "city": "Tuscaloosa, AL",
         "latitude": "33.2105",
         "longitude": "-87.5659",
-        "type": "Brigade, Official",
+        "type": "Brigade",
         "tags": [
-            "Brigade",
-            "Official"
+            "Brigade"
         ]
     },
     {
@@ -1733,10 +1729,9 @@
         "city": "Las Vegas, NV",
         "latitude": "36.2551",
         "longitude": "-115.2383",
-        "type": "Brigade, Official",
+        "type": "Brigade",
         "tags": [
-            "Brigade",
-            "Official"
+            "Brigade"
         ]
     },
     {
@@ -1763,15 +1758,14 @@
         "name": "Code4PuertoRico",
         "website": "http://code4puertorico.org/",
         "events_url": "http://code4puertorico.org/events.html",
-        "rss": "\n",
+        "rss": "",
         "projects_list_url": "https://github.com/Code4PuertoRico",
         "city": "San Juan, PR",
         "latitude": "18.4661",
         "longitude": "-66.1160",
-        "type": "Brigade, Official",
+        "type": "Brigade",
         "tags": [
-            "Brigade",
-            "Official"
+            "Brigade"
         ]
     },
     {
@@ -1883,11 +1877,10 @@
         "city": "Grand Rapids, MI",
         "latitude": "42.9634",
         "longitude": "-85.6681",
-        "type": "Brigade, midwest, Official",
+        "type": "Brigade, midwest",
         "tags": [
             "Brigade",
-            "midwest",
-            "Official"
+            "midwest"
         ]
     },
     {
@@ -1934,10 +1927,9 @@
         "city": "South Bend, IN",
         "latitude": "41.6764",
         "longitude": "-86.2520",
-        "type": "Brigade, Official, midwest",
+        "type": "Brigade, midwest",
         "tags": [
             "Brigade",
-            "Official",
             "midwest"
         ]
     },
@@ -2324,10 +2316,9 @@
         "city": "Chattanooga, TN",
         "latitude": "35.0456",
         "longitude": "-85.3097",
-        "type": "Brigade, Official",
+        "type": "Brigade",
         "tags": [
-            "Brigade",
-            "Official"
+            "Brigade"
         ]
     },
     {
