@@ -81,7 +81,7 @@
         "city": "Chicago, IL",
         "latitude": "41.8781",
         "longitude": "-87.6298",
-        "type": "Brigade, midwest",
+        "type": "Brigade, midwest, Official",
         "tags": [
             "Brigade",
             "Official",
@@ -589,7 +589,7 @@
         "city": "Ft. Lauderdale, FL",
         "latitude": "26.1237",
         "longitude": "-80.1436",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForFTL/",
             "twitter": "@codeforftl"
@@ -3044,7 +3044,7 @@
         "events_url": "",
         "projects_list_url": "https://github.com/CodeForBoise",
         "city": "Boise, ID",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "43.6187102",
         "longitude": "-116.2146068",
         "social_profiles": {
