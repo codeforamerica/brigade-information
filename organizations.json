@@ -1033,8 +1033,8 @@
     },
     {
         "name": "Code for Maine",
-        "website": "http://code4maine.org/",
-        "events_url": "http://www.meetup.com/Code-for-Maine",
+        "website": "",
+        "events_url": "",
         "rss": "",
         "projects_list_url": "https://github.com/code4maine",
         "city": "Bangor, ME",
@@ -1176,7 +1176,7 @@
     },
     {
         "name": "Code for Newark",
-        "website": "http://www.codefornewark.org/",
+        "website": "",
         "events_url": "http://www.meetup.com/Code-for-Newark/",
         "rss": "",
         "projects_list_url": "https://github.com/Code4Newark",
@@ -2655,7 +2655,7 @@
     },
     {
         "name": "OpenSMC",
-        "website": "https://www.opensmc.tech",
+        "website": "",
         "events_url": "http://www.meetup.com/opensmc/",
         "rss": "https://www.opensmc.tech/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/188H7C7t6RMHL5vOwLJggz2ZeywRwVpFSIzSNApLNc_I/export?format=csv",
@@ -2857,8 +2857,8 @@
     },
     {
         "name": "Code for Berkeley",
-        "website": "TBA",
-        "events_url": "TBA",
+        "website": "",
+        "events_url": "",
         "projects_list_url": "github.com/CodeForBerkeley",
         "city": "Berkeley, CA",
         "type": "Brigade, Official",
@@ -2937,7 +2937,6 @@
         "latitude": "33.4483771",
         "longitude": "-112.0740373",
         "social_profiles": {
-            "facebook": "https://www.facebook.com/codeforphx/",
             "twitter": "@codeforphx"
         },
         "tags": [
@@ -3024,7 +3023,7 @@
     {
         "name": "BMG Hack",
         "website": "https://github.com/BMGhack/civic-hacking",
-        "events_url": "null",
+        "events_url": "",
         "projects_list_url": "https://github.com/BMGhack/civic-hacking",
         "city": "Bloomington, IN",
         "type": "Brigade",
@@ -3042,7 +3041,7 @@
     {
         "name": "Code for Boise",
         "website": "http://codeforboise.org/",
-        "events_url": null,
+        "events_url": "",
         "projects_list_url": "https://github.com/CodeForBoise",
         "city": "Boise, ID",
         "type": "Brigade",
