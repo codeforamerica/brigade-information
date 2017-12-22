@@ -1869,21 +1869,6 @@
         ]
     },
     {
-        "name": "Friendly Code",
-        "website": "http://friendlycode.org/",
-        "events_url": "http://www.meetup.com/friendlycode/",
-        "rss": "",
-        "projects_list_url": "https://github.com/friendlycode",
-        "city": "Grand Rapids, MI",
-        "latitude": "42.9634",
-        "longitude": "-85.6681",
-        "type": "Brigade, midwest",
-        "tags": [
-            "Brigade",
-            "midwest"
-        ]
-    },
-    {
         "name": "g0v.tw",
         "website": "http://g0v.tw/",
         "events_url": "",
