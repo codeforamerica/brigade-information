@@ -721,6 +721,21 @@
         ]
     },
     {
+        "name": "Code for RGV (Rio Grande Valley)",
+        "website": "",
+        "city": "Brownsville, TX",
+        "latitude": "25.9140256",
+        "longitude": "-97.4890856",
+        "events_url": "",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code the South",
         "website": "http://www.code4huntsville.org",
         "events_url": "http://www.facebook.com/groups/code4huntsville",
@@ -1852,6 +1867,21 @@
             "partner",
             "midwest"
         ]
+    },
+    {
+        "name": "Northern Illinois University - Tech Bark",
+        "website": "http://www.huskiehack.org/",
+        "city": "Dekalb, IL",
+        "latitude": "41.9294736",
+        "longitude": "-88.7503647",
+        "events_url": "",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "g0v.tw",
