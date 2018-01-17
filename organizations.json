@@ -381,6 +381,21 @@
         ]
     },
     {
+        "name": "Code for Chapel Hill",
+        "website": "http://www.codeforchapelhill.com/",
+        "city": "Chapel Hill, NC",
+        "latitude": "35.9131542",
+        "longitude": "-79.05578",
+        "events_url": "https://www.meetup.com/Triangle-Code-for-America",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Charlotte",
         "website": "http://codeforcharlotte.org",
         "events_url": "https://www.meetup.com/Code-For-Charlotte",
@@ -719,6 +734,21 @@
             "Official",
             "Code for America"
         ]
+    },
+    {
+        "name": "Code for Muskogee",
+        "website": "",
+        "city": "Muskogee, OK",
+        "latitude": "35.7478769",
+        "longitude": "-95.3696909",
+        "events_url": "https://www.meetup.com/Code-for-Muskogee/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Code for RGV (Rio Grande Valley)",
