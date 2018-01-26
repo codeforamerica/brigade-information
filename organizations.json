@@ -1914,6 +1914,23 @@
         "social_profiles": {}
     },
     {
+        "name": "Uptown.Codes",
+        "website": "http://uptown.codes/",
+        "city": "Chicago, IL",
+        "latitude": "41.8755546",
+        "longitude": "-87.6244212",
+        "events_url": "https://www.meetup.com/Code-and-Coffee-Uptown-Brigade/",
+        "projects_list_url": "https://github.com/Code-and-Coffee-Uptown-Brigade",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {
+            "twitter": "@codeuptown"
+        }
+    },
+    {
         "name": "g0v.tw",
         "website": "http://g0v.tw/",
         "events_url": "",
