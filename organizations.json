@@ -1309,13 +1309,15 @@
         "city": "Philadelphia, PA",
         "latitude": "39.9523",
         "longitude": "-75.1638",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforphilly/",
             "twitter": "@codeforphilly"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
