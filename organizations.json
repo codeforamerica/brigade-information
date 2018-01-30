@@ -674,13 +674,15 @@
         "city": "Greensboro, NC",
         "latitude": "36.0690",
         "longitude": "-79.7947",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforgreensboro/",
             "twitter": "@CodeForGSO"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -876,14 +878,16 @@
         "city": "Kansas City, KS & MO",
         "latitude": "39.1030",
         "longitude": "-94.5831",
-        "type": "Brigade, midwest",
+        "type": "Brigade, midwest, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforkc",
             "twitter": "@codeforkc"
         },
         "tags": [
             "Brigade",
-            "midwest"
+            "Code for America",
+            "midwest",
+            "Official"
         ]
     },
     {
@@ -1209,13 +1213,15 @@
         "city": "Newark, NJ",
         "latitude": "40.7320",
         "longitude": "-74.1742",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefornewark/",
             "twitter": "@codefornewark"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -1878,10 +1884,11 @@
         "events_url": "",
         "projects_list_url": "",
         "tags": [
-            "Brigade"
+            "Official",
+            "Brigade",
+            "Code for America"
         ],
-        "social_profiles": {},
-        "type": "Brigade"
+        "social_profiles": {}
     },
     {
         "name": "Uptown.Codes",
@@ -2299,13 +2306,15 @@
         "city": "Austin, TX",
         "latitude": "30.2672",
         "longitude": "-97.7431",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/openatx/",
             "twitter": "@openaustin"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -3016,14 +3025,16 @@
         "events_url": "https://www.meetup.com/sketchcity/",
         "projects_list_url": "https://github.com/sketch-city",
         "city": "Houston, TX",
-        "type": "Brigade",
+        "type": "Brigade, Official",
         "latitude": "29.7604267",
         "longitude": "-95.3698028",
         "social_profiles": {
             "facebook": "https://www.facebook.com/groups/openhoustongov/"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
