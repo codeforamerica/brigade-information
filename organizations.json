@@ -2867,7 +2867,7 @@
     },
     {
         "name": "Code for Baltimore",
-        "website": "codeforbaltimore.org",
+        "website": "http://codeforbaltimore.org",
         "events_url": "https://www.meetup.com/Code-for-Baltimore/",
         "projects_list_url": "https://github.com/CodeForBaltimore",
         "city": "Baltimore, MD",
