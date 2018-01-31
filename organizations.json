@@ -1159,9 +1159,11 @@
         "city": "Manchester, NH",
         "latitude": "43.008663",
         "longitude": "-71.454391",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -1612,13 +1614,15 @@
         "city": "Tampa, FL",
         "latitude": "27.9465",
         "longitude": "-82.4593",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeforTampaBay",
             "twitter": "@CodeForTampaBay"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
