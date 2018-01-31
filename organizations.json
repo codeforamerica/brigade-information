@@ -2921,7 +2921,7 @@
     },
     {
         "name": "Code for Greenville",
-        "website": "codeforgreenville.org",
+        "website": "http://codeforgreenville.org",
         "events_url": "https://www.meetup.com/Code-for-Greenville/",
         "projects_list_url": "https://github.com/codeforgreenville/",
         "city": "Greenville, SC",
