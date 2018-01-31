@@ -2385,7 +2385,7 @@
     },
     {
         "name": "OpenSTL",
-        "website": "openstl.org",
+        "website": "http://openstl.org",
         "events_url": "http://www.meetup.com/OpenSTL",
         "rss": "http://buildforstl.org/feed",
         "projects_list_url": "https://github.com/opendatastl",
