@@ -335,7 +335,7 @@
     },
     {
         "name": "Code for BTV",
-        "website": "http://codeforbtv.org/",
+        "website": "",
         "events_url": "http://www.meetup.com/CodeForBTV/",
         "rss": "",
         "projects_list_url": "https://github.com/codeforbtv",
@@ -827,7 +827,7 @@
     },
     {
         "name": "Code for Jersey City",
-        "website": "http://codeforjc.org",
+        "website": "",
         "events_url": "https://www.meetup.com/Code-For-Jersey-City/",
         "rss": "",
         "projects_list_url": "",
@@ -1284,7 +1284,7 @@
         "longitude": "-81.379236",
         "type": "Brigade, Official",
         "social_profiles": {
-            "facebook": "https://www.facebook.com/profile.php?id=175405825957093",
+            "facebook": "https://www.facebook.com/codefororlando/",
             "twitter": "@codefororlando"
         },
         "tags": [
@@ -2385,7 +2385,7 @@
     },
     {
         "name": "OpenSTL",
-        "website": "openstl.org",
+        "website": "http://openstl.org",
         "events_url": "http://www.meetup.com/OpenSTL",
         "rss": "http://buildforstl.org/feed",
         "projects_list_url": "https://github.com/opendatastl",
@@ -2867,7 +2867,7 @@
     },
     {
         "name": "Code for Baltimore",
-        "website": "codeforbaltimore.org",
+        "website": "http://codeforbaltimore.org",
         "events_url": "https://www.meetup.com/Code-for-Baltimore/",
         "projects_list_url": "https://github.com/CodeForBaltimore",
         "city": "Baltimore, MD",
@@ -2894,7 +2894,7 @@
         "latitude": "37.8715926",
         "longitude": "-122.272747",
         "social_profiles": {
-            "facebook": "fb.com/CodeForBerkeley"
+            "facebook": "https://www.facebook.com/CodeForBerkeley"
         },
         "tags": [
             "Brigade",
@@ -2921,7 +2921,7 @@
     },
     {
         "name": "Code for Greenville",
-        "website": "codeforgreenville.org",
+        "website": "http://codeforgreenville.org",
         "events_url": "https://www.meetup.com/Code-for-Greenville/",
         "projects_list_url": "https://github.com/codeforgreenville/",
         "city": "Greenville, SC",
