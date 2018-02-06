@@ -1677,12 +1677,14 @@
         "city": "Tucson, AZ",
         "latitude": "32.2216",
         "longitude": "-110.9698",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "twitter": "@CodeforTucson"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
