@@ -3,7 +3,7 @@
         "name": "18F",
         "website": "https://18f.gsa.gov/",
         "events_url": "",
-        "rss": "http://18fblog.tumblr.com/",
+        "rss": "https://18f.gsa.gov/feed.xml",
         "projects_list_url": "https://github.com/18f",
         "city": "San Francisco, CA",
         "latitude": "37.7759",
