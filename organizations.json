@@ -139,12 +139,14 @@
         "city": "Albuquerque, NM",
         "latitude": "35.0824",
         "longitude": "-106.6765",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "twitter": "@codeforabq"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -1758,13 +1760,15 @@
         "city": "Rhode Island",
         "latitude": "41.4887",
         "longitude": "-71.4543",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeislandbrigade",
             "twitter": "@code_island"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -3049,14 +3053,16 @@
         "events_url": "",
         "projects_list_url": "https://github.com/BMGhack/civic-hacking",
         "city": "Bloomington, IN",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "latitude": "39.1653",
         "longitude": "-86.5264",
         "social_profiles": {
             "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
