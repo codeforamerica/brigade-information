@@ -109,8 +109,8 @@
         "rss": "http://dev.hel.fi/blog/feed/",
         "projects_list_url": "http://dev.hel.fi/projects/projects.csv",
         "city": "Helsinki, Finland",
-        "latitude": "60.1921",
-        "longitude": "60.1921",
+        "latitude": "60.16799112034094",
+        "longitude": "24.948300559109786",
         "type": "Government",
         "tags": [
             "Government"
@@ -805,8 +805,8 @@
         "rss": "",
         "projects_list_url": "https://github.com/codeforireland",
         "city": "Ireland",
-        "latitude": "53.4129",
-        "longitude": "-8.2439",
+        "latitude": "53.35124084081707",
+        "longitude": "-6.257201628137899",
         "type": "Code for All",
         "tags": [
             "Code for All"
@@ -2029,9 +2029,9 @@
         "events_url": "https://www.google.com/calendar/embed?src=9uqu3bbqcdaqek6lkiub442di4%40group.calendar.google.com&ctz=Europe/London",
         "rss": "https://www.mysociety.org/feed/",
         "projects_list_url": "https://github.com/mysociety/",
-        "city": "Oxford, UK",
-        "latitude": "51.7519",
-        "longitude": "1.2578",
+        "city": "London, UK",
+        "latitude": "51.62264036083571",
+        "longitude": "-0.105290718469565",
         "type": "Partner",
         "tags": [
             "Partner"
