@@ -1144,12 +1144,14 @@
         "city": "Nashville, TN",
         "latitude": "36.1678",
         "longitude": "-86.7782",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "twitter": "@code4nashville"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -1459,13 +1461,15 @@
         "city": "Sacramento, CA",
         "latitude": "38.5816",
         "longitude": "-121.4944",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "facebook": "https://www.facebook.com/code4sac/",
             "twitter": "@code4sac"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
