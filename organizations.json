@@ -313,12 +313,14 @@
         "city": "Boulder, CO",
         "latitude": "40.0176",
         "longitude": "-105.2797",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "twitter": "@CodeforBoulder"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
