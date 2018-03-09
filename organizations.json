@@ -2363,7 +2363,7 @@
     },
     {
         "name": "Open Cleveland",
-        "website": "www.opencleveland.org",
+        "website": "https://www.opencleveland.org",
         "events_url": "https://www.meetup.com/open-cleveland/",
         "rss": "",
         "projects_list_url": "https://github.com/opencleveland",
