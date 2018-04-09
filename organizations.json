@@ -67,9 +67,9 @@
         "city": "Oakland, CA",
         "latitude": "37.166111",
         "longitude": "-119.449444",
-        "type": "Collaboration between Brigades",
+        "type": "Brigade Collaboration",
         "tags": [
-            "Collaboration between Brigades"
+            "Brigade Collaboration"
         ]
     },
     {
@@ -1422,6 +1422,22 @@
             "Brigade",
             "Code for Romania"
         ]
+    },
+    {
+        "name": "Open NC Collaborative",
+        "website": "",
+        "city": "North Carolina",
+        "latitude": "35.6729639",
+        "longitude": "-79.0392919",
+        "events_url": "",
+        "projects_list_url": "https://github.com/Open-NC",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Brigade Collaboration",
+            "Code for America"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Open Raleigh Brigade",
