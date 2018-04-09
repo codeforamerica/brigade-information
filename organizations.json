@@ -1936,6 +1936,20 @@
             "Official",
             "Brigade",
             "Code for America"
+        ]
+    },
+    {
+        "name": "Open Toledo",
+        "website": "",
+        "city": "Toledo, OH",
+        "latitude": "41.6786754",
+        "longitude": "-83.5127283",
+        "events_url": "https://www.meetup.com/Open-Toledo/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
         ],
         "social_profiles": {}
     },
