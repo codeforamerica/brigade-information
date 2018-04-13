@@ -67,9 +67,9 @@
         "city": "Oakland, CA",
         "latitude": "37.166111",
         "longitude": "-119.449444",
-        "type": "Collaboration between Brigades",
+        "type": "Brigade Collaboration",
         "tags": [
-            "Collaboration between Brigades"
+            "Brigade Collaboration"
         ]
     },
     {
@@ -283,6 +283,23 @@
         "tags": [
             "Brigade"
         ]
+    },
+    {
+        "name": "Code for Bloomington (BMG Hack)",
+        "website": "https://bmghack.wordpress.com",
+        "city": "Bloomington, IN",
+        "latitude": "39.1670396",
+        "longitude": "-86.5342881",
+        "events_url": "",
+        "projects_list_url": "https://github.com/BMGhack/civic-hacking",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {
+            "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
+        }
     },
     {
         "name": "Code for Boston",
@@ -1407,6 +1424,22 @@
         ]
     },
     {
+        "name": "Open NC Collaborative",
+        "website": "http://opennc-collaborative.org/",
+        "city": "North Carolina",
+        "latitude": "35.6729639",
+        "longitude": "-79.0392919",
+        "events_url": "",
+        "projects_list_url": "https://github.com/Open-NC",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Brigade Collaboration",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Open Raleigh Brigade",
         "website": "http://www.codeforraleigh.com/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
@@ -1898,6 +1931,20 @@
         "latitude": "41.9294736",
         "longitude": "-88.7503647",
         "events_url": "",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ]
+    },
+    {
+        "name": "Open Toledo",
+        "website": "",
+        "city": "Toledo, OH",
+        "latitude": "41.6786754",
+        "longitude": "-83.5127283",
+        "events_url": "https://www.meetup.com/Open-Toledo/",
         "projects_list_url": "",
         "tags": [
             "Official",
@@ -3046,24 +3093,6 @@
         "longitude": "-95.3698028",
         "social_profiles": {
             "facebook": "https://www.facebook.com/groups/openhoustongov/"
-        },
-        "tags": [
-            "Brigade",
-            "Official",
-            "Code for America"
-        ]
-    },
-    {
-        "name": "BMG Hack",
-        "website": "https://github.com/BMGhack/civic-hacking",
-        "events_url": "",
-        "projects_list_url": "https://github.com/BMGhack/civic-hacking",
-        "city": "Bloomington, IN",
-        "type": "Brigade, Official, Code for America",
-        "latitude": "39.1653",
-        "longitude": "-86.5264",
-        "social_profiles": {
-            "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
         },
         "tags": [
             "Brigade",
