@@ -1383,20 +1383,6 @@
         ]
     },
     {
-        "name": "Code for Portland",
-        "website": "http://www.codeforportland.org/",
-        "events_url": "http://www.meetup.com/CodeForPortland/",
-        "rss": "http://www.codeforportland.org/news/",
-        "projects_list_url": "https://github.com/codeforportland",
-        "city": "Portland, OR",
-        "latitude": "45.5118",
-        "longitude": "-122.6756",
-        "type": "Brigade",
-        "tags": [
-            "Brigade"
-        ]
-    },
-    {
         "name": "Code for Romania",
         "website": "http://code4.ro/",
         "events_url": "https://www.meetup.com/Code-for-Romania/",
