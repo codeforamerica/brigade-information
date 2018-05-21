@@ -762,6 +762,23 @@
         "social_profiles": {}
     },
     {
+        "name": "Code for PDX",
+        "website": "",
+        "city": "Portland, OR",
+        "latitude": "45.5202471",
+        "longitude": "-122.6741949",
+        "events_url": "https://www.meetup.com/Code-for-PDX/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {
+            "twitter": "https://twitter.com/codeForPDX"
+        }
+    },
+    {
         "name": "Code for RGV (Rio Grande Valley)",
         "website": "",
         "city": "Brownsville, TX",
