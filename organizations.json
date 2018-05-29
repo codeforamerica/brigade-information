@@ -346,7 +346,7 @@
         "latitude": "-25.4952",
         "longitude": "-49.2874",
         "tags": [
-          "Brigade"
+            "Brigade"
         ]
     },
     {
@@ -680,7 +680,7 @@
         "longitude": "-0.1990",
         "tags": [
             "Code for All",
-            "Affiliate"
+            "Code for All Affiliate"
         ]
     },
     {
@@ -866,7 +866,6 @@
         "city": "Japan",
         "latitude": "36.2048",
         "longitude": "138.2529",
-        "type": "Brigade, Code for All",
         "tags": [
             "Brigade",
             "Code for All"
@@ -990,7 +989,7 @@
         "longitude": "36.7654",
         "tags": [
             "Code for All",
-            "Affiliate"
+            "Code for All Affiliate"
         ]
     },
     {
@@ -1253,7 +1252,7 @@
         "longitude": "3.3969",
         "tags": [
             "Code for All",
-            "Affiliate"
+            "Code for All Affiliate"
         ]
     },
     {
@@ -1588,7 +1587,6 @@
         "city": "Cape Town, South Africa",
         "latitude": "-33.9205",
         "longitude": "18.4212",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -1831,7 +1829,6 @@
         "city": "Mexico City, MX",
         "latitude": "19.4320",
         "longitude": "-99.1332",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
