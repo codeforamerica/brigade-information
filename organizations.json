@@ -2017,10 +2017,12 @@
         "city": "South Bend, IN",
         "latitude": "41.6764",
         "longitude": "-86.2520",
-        "type": "Brigade, midwest",
+        "type": "Brigade, midwest, Official, Code for America",
         "tags": [
             "Brigade",
-            "midwest"
+            "midwest",
+            "Official",
+            "Code for America"
         ]
     },
     {
@@ -2667,14 +2669,15 @@
         "city": "Seattle, WA",
         "latitude": "47.6062",
         "longitude": "-122.3321",
-        "type": "Brigade, South",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "facebook": "https://www.facebook.com/openseattle/",
             "twitter": "@open_seattle"
         },
         "tags": [
             "Brigade",
-            "South"
+            "Official",
+            "Code for America"
         ]
     },
     {
