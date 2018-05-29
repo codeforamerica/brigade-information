@@ -602,7 +602,7 @@
         "latitude": "50.8427",
         "longitude": "4.3781",
         "tags": [
-          "Fellowship"
+            "Fellowship"
         ]
     },
     {
@@ -854,8 +854,7 @@
         "city": "Ireland",
         "latitude": "53.35124084081707",
         "longitude": "-6.257201628137899",
-        "tags": [
-        ]
+        "tags": []
     },
     {
         "name": "Code for Japan",
