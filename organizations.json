@@ -158,7 +158,6 @@
         "city": "",
         "latitude": "4.1651",
         "longitude": "25.4224",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -187,7 +186,6 @@
         "city": "San Francisco, CA",
         "latitude": "37.7759",
         "longitude": "-122.4137",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -261,9 +259,7 @@
         "city": "Melbourne, Australia",
         "latitude": "-37.8132",
         "longitude": "144.9550",
-        "type": "Brigade, Code for All",
         "tags": [
-            "Brigade",
             "Code for All"
         ]
     },
@@ -349,9 +345,8 @@
         "city": "Curitiba, PR",
         "latitude": "-25.4952",
         "longitude": "-49.2874",
-        "type": "Code for All",
         "tags": [
-            "Code for All"
+            "Brigade"
         ]
     },
     {
@@ -372,6 +367,24 @@
             "Brigade",
             "Official",
             "Code for America"
+        ]
+    },
+    {
+        "name": "Code for Canada",
+        "website": "https://codefor.ca/",
+        "events_url": "https://www.meetup.com/code4ca/",
+        "rss": "https://medium.com/code-for-canada",
+        "city": "Toronto, Canada",
+        "latitude": "43.6557286",
+        "longitude": "-79.4057743",
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/code4ca",
+            "twitter": "https://twitter.com/code4ca",
+            "youtube": "https://www.youtube.com/channel/UCuZzqz200gV8F0fHJM40pwQ"
+        },
+        "tags": [
+            "Fellowship",
+            "Code for All"
         ]
     },
     {
@@ -588,9 +601,8 @@
         "city": "Europe",
         "latitude": "50.8427",
         "longitude": "4.3781",
-        "type": "Code for All",
         "tags": [
-            "Code for All"
+            "Fellowship"
         ]
     },
     {
@@ -653,7 +665,6 @@
         "city": "Berlin, Germany",
         "latitude": "52.5192",
         "longitude": "13.4061",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -667,9 +678,9 @@
         "city": "Accra, Ghana",
         "latitude": "5.5811",
         "longitude": "-0.1990",
-        "type": "Code for All",
         "tags": [
-            "Code for All"
+            "Code for All",
+            "Code for All Affiliate"
         ]
     },
     {
@@ -843,10 +854,7 @@
         "city": "Ireland",
         "latitude": "53.35124084081707",
         "longitude": "-6.257201628137899",
-        "type": "Code for All",
-        "tags": [
-            "Code for All"
-        ]
+        "tags": []
     },
     {
         "name": "Code for Japan",
@@ -857,7 +865,6 @@
         "city": "Japan",
         "latitude": "36.2048",
         "longitude": "138.2529",
-        "type": "Brigade, Code for All",
         "tags": [
             "Brigade",
             "Code for All"
@@ -979,9 +986,9 @@
         "city": "Nairobi, Kenya",
         "latitude": "-1.2993",
         "longitude": "36.7654",
-        "type": "Code for All",
         "tags": [
-            "Code for All"
+            "Code for All",
+            "Code for All Affiliate"
         ]
     },
     {
@@ -1008,24 +1015,8 @@
         "city": "Poland",
         "latitude": "52.361947",
         "longitude": "19.226414",
-        "type": "Code for All",
         "tags": [
             "Code for All"
-        ]
-    },
-    {
-        "name": "Code for Cracow",
-        "website": "http://kodujdlapolski.pl/en/cities/krakow/",
-        "events_url": "",
-        "rss": "http://kodujdlapolski.pl/en/category/cracow/",
-        "projects_list_url": "http://kodujdlapolski.pl/en/cities/krakow/?csv=show",
-        "city": "Kraków, Poland",
-        "latitude": "50.062747",
-        "longitude": "19.943247",
-        "type": "Brigade, Code for Poland",
-        "tags": [
-            "Brigade",
-            "Code for Poland"
         ]
     },
     {
@@ -1037,22 +1028,6 @@
         "city": "Gdansk, Poland",
         "latitude": "54.4046788",
         "longitude": "18.5738181",
-        "type": "Brigade, Code for Poland",
-        "tags": [
-            "Brigade",
-            "Code for Poland"
-        ]
-    },
-    {
-        "name": "Code for Poznan",
-        "website": "http://kodujdlapolski.pl/en/cities/poznan/",
-        "events_url": "",
-        "rss": "http://kodujdlapolski.pl/en/category/poznan-en/",
-        "projects_list_url": "http://kodujdlapolski.pl/en/cities/poznan/?csv=show",
-        "city": "Poznan, Poland",
-        "latitude": "52.4068",
-        "longitude": "16.9291",
-        "type": "Brigade, Code for Poland",
         "tags": [
             "Brigade",
             "Code for Poland"
@@ -1067,7 +1042,6 @@
         "city": "Warsaw, Poland",
         "latitude": "52.2287",
         "longitude": "21.0063",
-        "type": "Brigade, Code for Poland",
         "tags": [
             "Brigade",
             "Code for Poland"
@@ -1275,9 +1249,9 @@
         "city": "Lagos, Nigeria",
         "latitude": "6.6016",
         "longitude": "3.3969",
-        "type": "Code for All",
         "tags": [
-            "Code for All"
+            "Code for All",
+            "Code for All Affiliate"
         ]
     },
     {
@@ -1342,9 +1316,9 @@
         "city": "Lahore, Pakistan",
         "latitude": "31.5451",
         "longitude": "74.3407",
-        "type": "Brigade, Code for All",
         "tags": [
             "Brigade",
+            "Fellowship",
             "Code for All"
         ]
     },
@@ -1391,7 +1365,6 @@
         "city": "Bucharest, Romania",
         "latitude": "44.439663",
         "longitude": "26.096306",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -1405,7 +1378,6 @@
         "city": "Cluj-Napoca, Romania",
         "latitude": "46.770439",
         "longitude": "23.591423",
-        "type": "Brigade, Code for Romania",
         "tags": [
             "Brigade",
             "Code for Romania"
@@ -1420,7 +1392,6 @@
         "city": "Iasi, Romania",
         "latitude": "47.151726",
         "longitude": "27.587914",
-        "type": "Brigade, Code for Romania",
         "tags": [
             "Brigade",
             "Code for Romania"
@@ -1607,15 +1578,14 @@
         ]
     },
     {
-        "name": "Code for South Africa",
-        "website": "http://www.code4sa.org/",
-        "events_url": "http://www.meetup.com/Code-for-South-Africa-Hackers",
-        "rss": "http://www.code4sa.org/atom.xml",
-        "projects_list_url": "https://github.com/code4sa",
+        "name": "OpenUp",
+        "website": "https://openup.org.za",
+        "events_url": "http://codebridge.org.za/#events-wrap",
+        "rss": "",
+        "projects_list_url": "https://github.com/OpenUpSA",
         "city": "Cape Town, South Africa",
         "latitude": "-33.9205",
         "longitude": "18.4212",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -1670,15 +1640,14 @@
         ]
     },
     {
-        "name": "Code for the Caribbean",
-        "website": "http://www.codeforthecaribbean.org/",
+        "name": "SlashRoots Foundation",
+        "website": "https://www.slashroots.org/",
         "events_url": "",
-        "rss": "http://www.codeforthecaribbean.org/blog",
-        "projects_list_url": "https://github.com/codeforthecaribbean",
+        "rss": "https://medium.com/slashroots",
+        "projects_list_url": "https://github.com/slashroots",
         "city": "Kingston, Jamaica",
         "latitude": "17.9710",
         "longitude": "-76.7882",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -1692,7 +1661,6 @@
         "city": "Amsterdam, Netherlands",
         "latitude": "52.372807",
         "longitude": "4.900291",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -1706,10 +1674,8 @@
         "city": "Taiwan",
         "latitude": "23.5531",
         "longitude": "121.0211",
-        "type": "Brigade, Code for All",
         "tags": [
-            "Brigade",
-            "Code for All"
+            "Brigade"
         ]
     },
     {
@@ -1836,7 +1802,6 @@
         "city": "Mexico City, Mexico",
         "latitude": "23.6267",
         "longitude": "-102.5375",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -1850,10 +1815,8 @@
         "city": "Seoul, South Korea",
         "latitude": "37.5150",
         "longitude": "127.0165",
-        "type": "Brigade, Code for All",
         "tags": [
-            "Brigade",
-            "Code for All"
+            "Brigade"
         ]
     },
     {
@@ -1865,7 +1828,6 @@
         "city": "Mexico City, MX",
         "latitude": "19.4320",
         "longitude": "-99.1332",
-        "type": "Code for All",
         "tags": [
             "Code for All"
         ]
@@ -1982,7 +1944,6 @@
         "city": "Taipei, Taiwan",
         "latitude": "25.0478",
         "longitude": "121.5319",
-        "type": "Brigade, Code for All",
         "tags": [
             "Brigade",
             "Code for All"
@@ -2061,10 +2022,8 @@
         "city": "Monterrey, Mexico",
         "latitude": "25.6488",
         "longitude": "-100.3031",
-        "type": "Brigade, Code for All",
         "tags": [
-            "Brigade",
-            "Code for All"
+            "Brigade"
         ]
     },
     {
@@ -2394,9 +2353,8 @@
         "city": "Brasília, DF",
         "latitude": "-15.7930",
         "longitude": "-47.8834",
-        "type": "Code for All",
         "tags": [
-            "Code for All"
+            "Brigade"
         ]
     },
     {

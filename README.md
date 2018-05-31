@@ -38,7 +38,9 @@ A single organization's record looks like this:
   The most commonly used tags are:
   * `Brigade`
   * `Official`
-  * `Code for All` or a local variant
+  * `Code for All` - CodeForAll.org network member
+  * `Code for All Affiliate` - Code for All network affiliate member
+  * `Fellowship` - organization is running a fellowship program 
   * `Government`
 * `type` (DEPRECATED) is a list of tags, comma separated. Use `tags` instead.
 * `social_profiles` is an object with the keys being the name of the social network and the value being the identifying address on that network. Specifically,
