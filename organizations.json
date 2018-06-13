@@ -409,7 +409,7 @@
         "social_profiles": {}
     },
     {
-        "name": "Code for Charlotte",
+        "name": "Open Charlotte Brigade",
         "website": "http://codeforcharlotte.org",
         "events_url": "https://www.meetup.com/Code-For-Charlotte",
         "rss": "https://medium.com/code-for-charlotte",
@@ -417,7 +417,7 @@
         "city": "Charlotte, NC",
         "latitude": "35.2032",
         "longitude": "-80.8395",
-        "type": "Brigade, Official",
+        "type": "Brigade, Official, Code for America",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforcharlotte",
             "twitter": "@codeforclt"
@@ -745,6 +745,21 @@
             "Official",
             "Code for America"
         ]
+    },
+    {
+        "name": "Code for Homestead",
+        "website": "",
+        "city": "Homestead, FL",
+        "latitude": "25.4718946",
+        "longitude": "-80.4759905",
+        "events_url": "https://www.meetup.com/Code-for-Homestead/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Code for Muskogee",
@@ -2973,7 +2988,7 @@
         "events_url": "https://www.meetup.com/Code-for-Fort-Collins/",
         "projects_list_url": "https://github.com/codeforfoco",
         "city": "Fort Collins, CO",
-        "type": "Brigade",
+        "type": "Brigade, Official, Code for America",
         "latitude": "40.5852602",
         "longitude": "-105.084423",
         "social_profiles": {
@@ -2981,7 +2996,9 @@
             "twitter": "@codeforfoco"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ]
     },
     {
