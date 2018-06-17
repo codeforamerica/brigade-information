@@ -1,0 +1,21 @@
+#!/bin/bash
+set -euo pipefail
+
+# Simple test suite for now
+
+# 1. verify that there are not syntax errors in the JSON file
+if ! cat organizations.json | jq . >/dev/null; then
+  echo "Error! Syntax error in the JSON file!"
+  exit 1
+fi
+
+# 2. verify that there are not formatting errors in the JSON file
+previous=$(openssl md5 -hex < organizations.json)
+bin/format-json organizations.json
+after=$(openssl md5 -hex < organizations.json)
+if [ "$previous" != "$after" ]; then
+  echo "Error! JSON file formatting problem!"
+  echo ""
+  echo "Please run 'bin/format-json organizations.json'"
+  exit 1
+fi
