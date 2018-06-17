@@ -77,6 +77,7 @@
         "website": "http://chihacknight.org/",
         "events_url": "",
         "rss": "http://chihacknight.org/blog/",
+        "projects_list_url": "https://raw.github.com/open-city/civic-json-files/master/projects.json",
         "city": "Chicago, IL",
         "latitude": "41.8781",
         "longitude": "-87.6298",
