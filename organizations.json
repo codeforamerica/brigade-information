@@ -2614,7 +2614,7 @@
     },
     {
         "name": "Open Savannah",
-        "website": "http://opensavannah.org",
+        "website": "https://opensavannah.org",
         "events_url": "http://www.meetup.com/opensavannah/",
         "rss": "https://blog.opensavannah.org/feed",
         "projects_list_url": "https://github.com/opensavannah",
@@ -2624,7 +2624,7 @@
         "type": "Brigade, Official, South",
         "social_profiles": {
             "facebook": "https://www.facebook.com/opensavannah",
-            "twitter": "@open_savannah"
+            "twitter": "@opensavannah"
         },
         "tags": [
             "Brigade",
