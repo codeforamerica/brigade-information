@@ -422,6 +422,36 @@
         "social_profiles": {}
     },
     {
+        "name": "Code for Kissimmee",
+        "website": "",
+        "city": "Kissimmee, FL",
+        "latitude": "28.2918995",
+        "longitude": "-81.4075838",
+        "events_url": "https://www.meetup.com/Code-for-Kissimmee/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
+        "name": "Code for Sonoma County",
+        "website": "",
+        "city": "Santa Rosa, CA",
+        "latitude": "49.26334935",
+        "longitude": "-123.10250585",
+        "events_url": "https://www.meetup.com/Code-for-Sonoma-County/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Open Charlotte Brigade",
         "website": "http://codeforcharlotte.org",
         "events_url": "https://www.meetup.com/Code-For-Charlotte",
