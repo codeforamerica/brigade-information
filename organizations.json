@@ -437,6 +437,21 @@
         "social_profiles": {}
     },
     {
+        "name": "Code for Puerto Rico",
+        "website": "http://code4puertorico.org/",
+        "city": "San Juan, PR",
+        "latitude": "18.465488",
+        "longitude": "-66.116781",
+        "events_url": "",
+        "projects_list_url": "https://github.com/code4puertorico",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Sonoma County",
         "website": "",
         "city": "Santa Rosa, CA",
@@ -1621,6 +1636,21 @@
         "tags": [
             "Brigade"
         ]
+    },
+    {
+        "name": "Open Walnut Creek",
+        "website": "",
+        "city": "Walnut Creek, California",
+        "latitude": "37.9020731",
+        "longitude": "-122.0618702",
+        "events_url": "https://www.meetup.com/open-walnut-creek/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "OpenUp",
