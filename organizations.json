@@ -370,6 +370,21 @@
         ]
     },
     {
+        "name": "Code for Buffalo",
+        "website": "",
+        "city": "Buffalo, NY",
+        "latitude": "42.8867166",
+        "longitude": "-78.8783922",
+        "events_url": "",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Canada",
         "website": "https://codefor.ca/",
         "events_url": "https://www.meetup.com/code4ca/",
@@ -413,6 +428,21 @@
         "latitude": "35.9131542",
         "longitude": "-79.05578",
         "events_url": "https://www.meetup.com/Triangle-Code-for-America",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
+        "name": "Code for Iowa",
+        "website": "",
+        "city": "Iowa City, IA",
+        "latitude": "41.6612561",
+        "longitude": "-91.5299106",
+        "events_url": "https://www.meetup.com/Code-for-Iowa/",
         "projects_list_url": "",
         "tags": [
             "Official",
