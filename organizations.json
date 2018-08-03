@@ -371,18 +371,21 @@
     },
     {
         "name": "Code for Buffalo",
-        "website": "",
+        "website": "https://codeforbuffalo.org/",
         "city": "Buffalo, NY",
         "latitude": "42.8867166",
         "longitude": "-78.8783922",
-        "events_url": "",
+        "events_url": "https://www.meetup.com/CodeForBuffalo/",
         "projects_list_url": "",
         "tags": [
             "Official",
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeForBuffalo",
+            "twitter": "@CodeForBuffalo"
+        }
     },
     {
         "name": "Code for Canada",
