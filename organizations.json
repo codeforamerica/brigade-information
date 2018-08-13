@@ -132,7 +132,7 @@
     },
     {
         "name": "Code for ABQ",
-        "website": "http://codeforabq.org/",
+        "website": "http://codefornm.org/",
         "events_url": "http://www.meetup.com/Code-for-ABQ",
         "rss": "",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1k4-U_ojSdzJyKTRYiVEpx7Ae4kXBdHAf-jA-_aZGhrI/export?format=csv",
@@ -2975,25 +2975,6 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
-    },
-    {
-        "name": "Civic Data Alliance",
-        "website": "http://www.civicdataalliance.org",
-        "events_url": "https://www.meetup.com/Louisville-Civic-Data-Alliance/",
-        "projects_list_url": "https://github.com/civicdata/",
-        "city": "Louisville, KY",
-        "type": "Brigade, Official, Code for America",
-        "latitude": "38.2526647",
-        "longitude": "-85.7584557",
-        "social_profiles": {
-            "facebook": "https://www.facebook.com/civicdata/",
-            "twitter": "@CivicDataAlly"
-        },
-        "tags": [
-            "Brigade",
-            "Official",
-            "Code for America"
         ]
     },
     {
