@@ -1171,18 +1171,18 @@
         ]
     },
     {
-        "name": "Code for Maine",
+        "name": "Open Maine",
         "website": "",
-        "events_url": "",
+        "events_url": "https://www.meetup.com/OpenMaine/",
         "rss": "",
         "projects_list_url": "https://github.com/code4maine",
-        "city": "Bangor, ME",
-        "latitude": "43.6615",
-        "longitude": "-70.2553",
+        "city": "Portland, ME",
+        "latitude": "43.6562513",
+        "longitude": "-70.2633551",
         "type": "Brigade, Official",
         "social_profiles": {
-            "facebook": "https://www.facebook.com/code4maine/",
-            "twitter": "@code4maine"
+            "facebook": "https://www.facebook.com/openmaine/",
+            "twitter": "@Open_Maine"
         },
         "tags": [
             "Brigade",
