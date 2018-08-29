@@ -19,3 +19,14 @@ if [ "$previous" != "$after" ]; then
   echo "Please run 'bin/format-json organizations.json'"
   exit 1
 fi
+
+# 3. verify that no brigade names have invalid characters
+invalid_chars=(- / ?)
+for char in $invalid_chars; do
+  offending_orgs=$(cat organizations.json | jq '.[] | select(.name | contains("'$char'")) | .name')
+
+  if [ -n "$offending_orgs" ]; then
+    echo "Error: Invalid character ($char) in name: $offending_orgs"
+    exit 1
+  fi
+done
