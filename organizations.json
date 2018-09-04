@@ -264,6 +264,21 @@
         ]
     },
     {
+        "name": "Code for BCS",
+        "website": "",
+        "city": "Bryan/College Station, TX",
+        "latitude": "30.6253463",
+        "longitude": "-96.3271538",
+        "events_url": "https://www.meetup.com/CodeforBCS/",
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Birmingham",
         "website": "http://www.codeforbirmingham.org/",
         "events_url": "http://www.meetup.com/Code-for-Birmingham-AL/",
