@@ -3172,16 +3172,15 @@
     },
     {
         "name": "Code for Boise",
-        "website": "http://codeforboise.org/",
-        "events_url": "",
-        "projects_list_url": "https://github.com/CodeForBoise",
+        "website": "http://www.boisebrigade.org/",
+        "events_url": "https://www.meetup.com/boisebrigade",
+        "projects_list_url": "https://github.com/boisebrigade",
         "city": "Boise, ID",
         "type": "Brigade, Official",
         "latitude": "43.6187102",
         "longitude": "-116.2146068",
         "social_profiles": {
-            "facebook": "https://www.facebook.com/codeforboise",
-            "twitter": "@CodeforBoise"
+            "twitter": "@boisebrigade"
         },
         "tags": [
             "Code for America",
