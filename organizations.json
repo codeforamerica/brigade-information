@@ -303,8 +303,8 @@
         "longitude": "-86.5342881",
         "events_url": "https://www.meetup.com/Code-for-Bloomington-BMG-Hack/",
         "previous_names": [
-          "Code for Bloomington (BMG Hack)",
-          "BMG Hack"
+            "Code for Bloomington (BMG Hack)",
+            "BMG Hack"
         ],
         "projects_list_url": "https://github.com/BMGhack/civic-hacking",
         "tags": [
@@ -2025,7 +2025,7 @@
         "longitude": "-88.7503647",
         "events_url": "",
         "previous_names": [
-          "Tech Bark"
+            "Tech Bark"
         ],
         "projects_list_url": "",
         "tags": [
