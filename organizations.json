@@ -296,12 +296,16 @@
         ]
     },
     {
-        "name": "Code for Bloomington (BMG Hack)",
+        "name": "Code for Bloomington",
         "website": "https://bmghack.github.io/",
         "city": "Bloomington, IN",
         "latitude": "39.1670396",
         "longitude": "-86.5342881",
-        "events_url": "",
+        "events_url": "https://www.meetup.com/Code-for-Bloomington-BMG-Hack/",
+        "previous_names": [
+            "Code for Bloomington (BMG Hack)",
+            "BMG Hack"
+        ],
         "projects_list_url": "https://github.com/BMGhack/civic-hacking",
         "tags": [
             "Official",
@@ -310,7 +314,8 @@
         ],
         "social_profiles": {
             "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
-        }
+        },
+        "type": "Brigade"
     },
     {
         "name": "Code for Boston",
@@ -2019,12 +2024,14 @@
         "latitude": "41.9294736",
         "longitude": "-88.7503647",
         "events_url": "",
+        "previous_names": [
+            "Tech Bark"
+        ],
         "projects_list_url": "",
         "tags": [
-            "Official",
-            "Brigade",
-            "Code for America"
-        ]
+            "Brigade"
+        ],
+        "type": "Brigade"
     },
     {
         "name": "Open Toledo",
