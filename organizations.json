@@ -1741,7 +1741,7 @@
         "projects_list_url": "https://github.com/codefortallahassee",
         "city": "Tallahassee, FL",
         "latitude": "30.4380556",
-        "longitude": " -84.2808333",
+        "longitude": "-84.2808333",
         "type": "Brigade",
         "tags": [
             "Brigade"
@@ -2528,8 +2528,6 @@
         "rss": "",
         "projects_list_url": "https://github.com/open-data-standards",
         "city": "",
-        "latitude": "",
-        "longitude": "",
         "type": "Project",
         "tags": [
             "Project"
@@ -2577,8 +2575,6 @@
         "rss": "http://blog.openelections.net/",
         "projects_list_url": "https://github.com/openelections",
         "city": "",
-        "latitude": "",
-        "longitude": "",
         "type": "Project",
         "tags": [
             "Project"

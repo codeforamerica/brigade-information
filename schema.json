@@ -1,0 +1,146 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/codeforamerica/brigade-information/master/organizations.json",
+  "type": "array",
+  "title": "Brigade-Information Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "Organization Schema",
+    "required": [
+      "name",
+      "website",
+      "city",
+      "tags"
+    ],
+    "properties": {
+      "name": {
+        "$id": "#/items/properties/name",
+        "type": "string",
+        "title": "Organization Name",
+        "default": "",
+        "examples": [
+          "18F"
+        ],
+        "pattern": "^[^-/?]+$"
+      },
+      "website": {
+        "$id": "#/items/properties/website",
+        "type": "string",
+        "title": "Organization Web URL",
+        "default": "",
+        "examples": [
+          "https://18f.gsa.gov/"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "events_url": {
+        "$id": "#/items/properties/events_url",
+        "type": "string",
+        "title": "Organization Events URL",
+        "default": "",
+        "examples": [
+          ""
+        ],
+        "pattern": "^(.*)$"
+      },
+      "rss": {
+        "$id": "#/items/properties/rss",
+        "type": "string",
+        "title": "Organization RSS Feed",
+        "default": "",
+        "examples": [
+          "https://18f.gsa.gov/feed.xml"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "previous_names": {
+        "$id": "#/items/properties/previous_names",
+        "type": "array",
+        "title": "Organization Previous Names",
+        "items": {
+          "$id": "#/items/properties/previous_names/items",
+          "type": "string",
+          "title": "Organization Previous Name",
+          "default": "",
+          "examples": [
+            "Some Other Name"
+          ],
+          "pattern": "^(.*)$"
+        }
+      },
+      "projects_list_url": {
+        "$id": "#/items/properties/projects_list_url",
+        "type": "string",
+        "title": "Organization Projects List",
+        "default": "",
+        "examples": [
+          "https://github.com/18f"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "city": {
+        "$id": "#/items/properties/city",
+        "type": "string",
+        "title": "Organization City",
+        "default": "",
+        "examples": [
+          "San Francisco, CA"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "latitude": {
+        "$id": "#/items/properties/latitude",
+        "type": "string",
+        "title": "Latitude",
+        "default": "",
+        "examples": [
+          "37.7759"
+        ],
+        "pattern": "^-?\\d+\\.\\d+$"
+      },
+      "longitude": {
+        "$id": "#/items/properties/longitude",
+        "type": "string",
+        "title": "Longitude",
+        "default": "",
+        "examples": [
+          "-122.4137"
+        ],
+        "pattern": "^-?\\d+\\.\\d+$"
+      },
+      "type": {
+        "$id": "#/items/properties/type",
+        "type": "string",
+        "title": "Type (Deprecated, use tags instead)",
+        "default": "",
+        "examples": [
+          "Government"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "social_profiles": {
+        "$id": "#/items/properties/social_profiles",
+        "type": "object",
+        "title": "Organization Social Profiles",
+        "properties": {}
+      },
+      "tags": {
+        "$id": "#/items/properties/tags",
+        "type": "array",
+        "title": "Organization Tags",
+        "items": {
+          "$id": "#/items/properties/tags/items",
+          "type": "string",
+          "title": "Organization Tag",
+          "default": "",
+          "examples": [
+            "Government"
+          ],
+          "pattern": "^(.*)$"
+        }
+      }
+    }
+  }
+}

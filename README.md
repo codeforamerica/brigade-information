@@ -12,10 +12,10 @@ A single organization's record looks like this:
 {
     "name": "Beta NYC",
     "website": "http://www.beta.nyc",
+    "city": "New York, NY",
     "events_url": "http://www.meetup.com/BetaNYC/",
     "rss": "http://betanyc.tumblr.com/",
     "projects_list_url": "http://projects.betanyc.us/projects",
-    "city": "New York, NY",
     "latitude": "40.7144",
     "longitude": "-74.0060",
     "tags": [
@@ -31,13 +31,10 @@ A single organization's record looks like this:
 
 ### Official Schema
 
-* **`name`** (Required) - The name of your organization.
-* **`events_url`** - The URL of your event-scheduling page. Only **meetup.com** URLs are supported.
-* **`rss`** - The URL of a blog or its RSS feed. The API will look in the usual places for a feed URL if the link isn't direct. Non-blog RSS feeds will also be processed.
-* **`previous_names`** - An array of former names of the organization. This can be useful in maintaining URL redirects or noticing which Brigades have changed names over time.
-* **`projects_list_url`** - The URL of a GitHub organization or of a list of project URLs, formatted as [described below](https://github.com/codeforamerica/brigade-information#projects-list).
-* **`latitude`** / **`longitude`** - Where your Brigade meets. It can be as specific or general as you want, and can be figured out using a tool like [LatLong.net](http://www.latlong.net/). Required if you want to appear on the [Brigade](http://www.codeforamerica.org/brigade/) or [Code for All](http://codeforall.org/) maps.
-* **`tags`** - An array of descriptors for your group.
+* **`name`** (Required) - The name of your organization. (Cannot contain `- / ?` characters.)
+* **`website`** (Required) - The web address of your organization. Leave empty if none.
+* **`city`** (Required) - The city of the organization.
+* **`tags`** (Required) - An array of descriptors for your group.
   Some commonly used tags are:
   * `Brigade`
   * `Official`
@@ -45,6 +42,11 @@ A single organization's record looks like this:
   * `Code for All Affiliate` - Code for All network Affiliate Partner
   * `Fellowship` - organization is running a fellowship program
   * `Government`
+* **`events_url`** - The URL of your event-scheduling page.
+* **`rss`** - The URL of a blog or its RSS feed. The API will look in the usual places for a feed URL if the link isn't direct. Non-blog RSS feeds will also be processed.
+* **`previous_names`** - An array of former names of the organization. This can be useful in maintaining URL redirects or noticing which Brigades have changed names over time.
+* **`projects_list_url`** - The URL of a GitHub organization or of a list of project URLs, formatted as [described below](https://github.com/codeforamerica/brigade-information#projects-list).
+* **`latitude`** / **`longitude`** - Where your Brigade meets. It can be as specific or general as you want, and can be figured out using a tool like [LatLong.net](http://www.latlong.net/). Required if you want to appear on the [Brigade](http://www.codeforamerica.org/brigade/) or [Code for All](http://codeforall.org/) maps.
 * **`type`** (DEPRECATED) is a list of tags, comma separated. Use `tags` instead.
 * **`social_profiles`** is an object with the keys being the name of the social network and the value being the identifying address on that network. Specifically,
   * `twitter` - The Twitter handle including `@`.
