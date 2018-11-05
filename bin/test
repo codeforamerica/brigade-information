@@ -23,3 +23,5 @@ fi
 # 3. verify that the file matches the jsonschema
 pip install jsonschema
 jsonschema -i organizations.json schema.json
+
+echo "Looks good! ✅"
