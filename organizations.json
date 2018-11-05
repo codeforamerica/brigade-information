@@ -520,6 +520,27 @@
         "social_profiles": {}
     },
     {
+        "name": "Code for Utah",
+        "website": "https://opensaltlake.org/",
+        "city": "Salt Lake City, UT",
+        "latitude": "40.7670126",
+        "longitude": "-111.8904308",
+        "events_url": "https://www.meetup.com/Open-Salt-Lake/",
+        "previous_names": [
+            "Open Salt Lake"
+        ],
+        "projects_list_url": "https://github.com/opensaltlake",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {
+            "twitter": "@OpenSaltLake",
+            "facebook": "https://www.facebook.com/opensaltlakeutah/"
+        }
+    },
+    {
         "name": "Open Charlotte Brigade",
         "website": "http://codeforcharlotte.org",
         "events_url": "https://www.meetup.com/Code-For-Charlotte",
@@ -2029,9 +2050,11 @@
         ],
         "projects_list_url": "",
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Official",
+            "Code for America"
         ],
-        "type": "Brigade"
+        "type": "Brigade, Official, Code for America"
     },
     {
         "name": "Open Toledo",
@@ -2663,26 +2686,6 @@
         "type": "Brigade, Official",
         "social_profiles": {
             "twitter": "@codeforpgh"
-        },
-        "tags": [
-            "Brigade",
-            "Official",
-            "Code for America"
-        ]
-    },
-    {
-        "name": "Open Salt Lake",
-        "website": "http://opensaltlake.org/",
-        "events_url": "http://www.meetup.com/Open-Salt-Lake/",
-        "rss": "",
-        "projects_list_url": "https://github.com/OpenSaltLake",
-        "city": "Salt Lake City, UT",
-        "latitude": "40.7608",
-        "longitude": "-111.8910",
-        "type": "Brigade, Official",
-        "social_profiles": {
-            "facebook": "https://www.facebook.com/opensaltlakeutah/",
-            "twitter": "@OpenSaltLake"
         },
         "tags": [
             "Brigade",
