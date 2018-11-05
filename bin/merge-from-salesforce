@@ -73,24 +73,34 @@ def find_extra_brigades(existing, salesforce):
 
 def find_renamed_brigades(missing_brigades, extra_brigades):
     ''' finds renamed brigades, the old name will appear as extra and the new name as missing '''
+    # set containing tuples of (old name, new name)
+    renamed_brigades = set()
+
     # dict of { "website" => [old name, new name] }
     matches_by_website = { missing['Website']: [
         missing['Account Name'],
         next(iter([extra['name'] for extra in extra_brigades if are_urls_equal(extra['website'], missing['Website'])]), None)] for missing in missing_brigades
     }
+    for (_, (new_brigade_name, old_brigade_name)) in matches_by_website.items():
+        if old_brigade_name and new_brigade_name:
+            renamed_brigades.add((old_brigade_name, new_brigade_name))
+
+    # if the Meetup Link is the same, assume the brigade is too
     matches_by_meetup = { missing['MeetUp Link']: [
         missing['Account Name'],
         next(iter([extra['name'] for extra in extra_brigades if are_urls_equal(extra['events_url'], missing['MeetUp Link'])]), None)] for missing in missing_brigades
     }
+    for (_, (new_brigade_name, old_brigade_name)) in matches_by_meetup.items():
+        if old_brigade_name and new_brigade_name:
+            renamed_brigades.add((old_brigade_name, new_brigade_name))
+
+    # if the Github Link is the same, assume the brigade is too
     matches_by_github = { missing['Github URL']: [
         missing['Account Name'],
         next(iter([extra['name'] for extra in extra_brigades if are_urls_equal(extra['projects_list_url'], missing['Github URL'])]), None)] for missing in missing_brigades
     }
-
-    # mapping of old name to new name
-    renamed_brigades = set()
-    for (_, (new_brigade_name, old_brigade_name)) in matches_by_website.items():
-        if new_brigade_name and old_brigade_name:
+    for (_, (new_brigade_name, old_brigade_name)) in matches_by_github.items():
+        if old_brigade_name and new_brigade_name:
             renamed_brigades.add((old_brigade_name, new_brigade_name))
 
     return list(renamed_brigades)
