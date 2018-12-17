@@ -134,7 +134,7 @@
         "name": "Code for ABQ",
         "website": "http://codefornm.org/",
         "events_url": "http://www.meetup.com/Code-for-ABQ",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927490261",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1k4-U_ojSdzJyKTRYiVEpx7Ae4kXBdHAf-jA-_aZGhrI/export?format=csv",
         "city": "Albuquerque, NM",
         "latitude": "35.0824",
@@ -194,7 +194,7 @@
         "name": "Code for Anchorage",
         "website": "http://codeforanchorage.org/",
         "events_url": "http://www.meetup.com/Code-for-Anchorage",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735584527",
         "projects_list_url": "https://github.com/codeforanchorage",
         "city": "Anchorage, AK",
         "latitude": "61.2181",
@@ -214,7 +214,7 @@
         "name": "Code for Asheville",
         "website": "http://codeforasheville.org",
         "events_url": "http://www.meetup.com/Code-for-Asheville/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583758",
         "projects_list_url": "https://github.com/codeforasheville",
         "city": "Asheville, NC",
         "latitude": "35.5951",
@@ -234,7 +234,7 @@
         "name": "Code for Atlanta",
         "website": "http://www.codeforatlanta.org/",
         "events_url": "https://www.meetup.com/codeforatlanta/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927490732",
         "projects_list_url": "https://github.com/codeforatlanta",
         "city": "Atlanta, GA",
         "latitude": "33.7490",
@@ -276,7 +276,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037971404"
     },
     {
         "name": "Code for Birmingham",
@@ -315,13 +316,14 @@
         "social_profiles": {
             "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
         },
-        "type": "Brigade"
+        "type": "Brigade",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582955"
     },
     {
         "name": "Code for Boston",
         "website": "http://www.codeforboston.org",
         "events_url": "https://www.meetup.com/Code-for-Boston/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927493688",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1kdBUuPDLEyL5ZYZ2ZGcSa1VwN6UAW82bA_5ZWI70P5I/export?format=csv",
         "city": "Boston, MA",
         "latitude": "42.3584",
@@ -341,7 +343,7 @@
         "name": "Code for Boulder",
         "website": "http://codeforboulder.org/",
         "events_url": "http://www.meetup.com/codeforboulder/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974027",
         "projects_list_url": "https://github.com/CodeForBoulder/",
         "city": "Boulder, CO",
         "latitude": "40.0176",
@@ -373,7 +375,7 @@
         "name": "Code for BTV",
         "website": "",
         "events_url": "http://www.meetup.com/CodeForBTV/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583527",
         "projects_list_url": "https://github.com/codeforbtv",
         "city": "Burlington, VT",
         "latitude": "44.4759",
@@ -405,7 +407,8 @@
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForBuffalo",
             "twitter": "@CodeForBuffalo"
-        }
+        },
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927491288"
     },
     {
         "name": "Code for Canada",
@@ -429,7 +432,7 @@
         "name": "Code for Cary",
         "website": "http://www.codeforcary.org/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037971197",
         "projects_list_url": "https://github.com/codeforcary",
         "city": "Cary, NC",
         "latitude": "35.7915",
@@ -457,7 +460,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582281"
     },
     {
         "name": "Code for Iowa",
@@ -472,7 +476,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927492620"
     },
     {
         "name": "Code for Kissimmee",
@@ -487,7 +492,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037972973"
     },
     {
         "name": "Code for Puerto Rico",
@@ -502,7 +508,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442"
     },
     {
         "name": "Code for Sonoma County",
@@ -517,7 +524,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467581"
     },
     {
         "name": "Code for Utah",
@@ -538,7 +546,8 @@
         "social_profiles": {
             "twitter": "@OpenSaltLake",
             "facebook": "https://www.facebook.com/opensaltlakeutah/"
-        }
+        },
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974453"
     },
     {
         "name": "Open Charlotte Brigade",
@@ -606,7 +615,7 @@
         "name": "Code for Dayton",
         "website": "http://codefordayton.org/",
         "events_url": "http://www.meetup.com/Code-for-Dayton/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735584766",
         "projects_list_url": "https://github.com/codefordayton",
         "city": "Dayton, OH",
         "latitude": "39.7589",
@@ -627,7 +636,7 @@
         "name": "Code for DC",
         "website": "https://codefordc.org",
         "events_url": "https://www.meetup.com/Code-for-DC",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469623",
         "projects_list_url": "https://github.com/codefordc",
         "city": "Washington, DC",
         "latitude": "38.9072",
@@ -646,7 +655,7 @@
         "name": "Code for Denver",
         "website": "http://www.codefordenver.org/",
         "events_url": "http://www.meetup.com/CodeForDenver/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037972092",
         "projects_list_url": "https://github.com/codefordenver",
         "city": "Denver, CO",
         "latitude": "39.7392",
@@ -728,7 +737,7 @@
         "name": "Code for Fort Lauderdale",
         "website": "http://codeforftl.org/",
         "events_url": "https://www.meetup.com/Code-for-FTL/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582914",
         "projects_list_url": "https://github.com/codeforftl",
         "city": "Ft. Lauderdale, FL",
         "latitude": "26.1237",
@@ -820,7 +829,7 @@
         "name": "Code for Greensboro",
         "website": "http://codeforgreensboro.org/",
         "events_url": "http://www.meetup.com/Code-for-Greensboro/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775468197",
         "projects_list_url": "https://github.com/codeforgso",
         "city": "Greensboro, NC",
         "latitude": "36.0690",
@@ -840,7 +849,7 @@
         "name": "Code for Hampton Roads",
         "website": "http://Code4HR.org",
         "events_url": "http://www.meetup.com/Code4HR",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973802",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/1Bs2ulkOn6stjM4lp81f3KR_S22G6bvmOATVAioxE_qg/export?format=csv",
         "city": "Hampton Roads, VA (Region)",
         "latitude": "36.8470",
@@ -889,7 +898,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735585158"
     },
     {
         "name": "Code for Muskogee",
@@ -904,7 +914,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469291"
     },
     {
         "name": "Code for PDX",
@@ -921,7 +932,8 @@
         ],
         "social_profiles": {
             "twitter": "@codeForPDX"
-        }
+        },
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974945"
     },
     {
         "name": "Code for RGV (Rio Grande Valley)",
@@ -1008,7 +1020,7 @@
         "name": "Code for Jersey City",
         "website": "",
         "events_url": "https://www.meetup.com/Code-For-Jersey-City/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583598",
         "projects_list_url": "",
         "city": "Jersey City, NJ",
         "latitude": "40.7280556",
@@ -1052,7 +1064,7 @@
         "name": "Code for Kansas City",
         "website": "http://codeforkc.org/",
         "events_url": "https://www.meetup.com/KCBrigade/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467391",
         "projects_list_url": "https://github.com/codeforkansascity",
         "city": "Kansas City, KS & MO",
         "latitude": "39.1030",
@@ -1215,7 +1227,7 @@
         "name": "Open Maine",
         "website": "",
         "events_url": "https://www.meetup.com/OpenMaine/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973579",
         "projects_list_url": "https://github.com/code4maine",
         "city": "Portland, ME",
         "latitude": "43.6562513",
@@ -1235,7 +1247,7 @@
         "name": "Code for Miami",
         "website": "http://codefor.miami",
         "events_url": "https://www.meetup.com/code-for-miami/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185",
         "projects_list_url": "https://github.com/code-for-miami",
         "city": "Miami, FL",
         "latitude": "25.7890",
@@ -1318,7 +1330,7 @@
         "name": "Code for New Orleans",
         "website": "http://codeforneworleans.org/",
         "events_url": "http://www.meetup.com/Code-For-New-Orleans/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467375",
         "projects_list_url": "https://github.com/codefornola",
         "city": "New Orleans, LA",
         "latitude": "29.951992",
@@ -1338,7 +1350,7 @@
         "name": "Code for New River Valley",
         "website": "http://codefornrv.org/",
         "events_url": "https://www.meetup.com/CodeForNRV",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973677",
         "projects_list_url": "https://github.com/CodeforNRV",
         "city": "Blacksburg, VA",
         "latitude": "37.2263",
@@ -1358,7 +1370,7 @@
         "name": "Code for Newark",
         "website": "",
         "events_url": "http://www.meetup.com/Code-for-Newark/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646224264",
         "projects_list_url": "https://github.com/Code4Newark",
         "city": "Newark, NJ",
         "latitude": "40.7320",
@@ -1392,7 +1404,7 @@
         "name": "Code for NoVA",
         "website": "http://www.meetup.com/Code-for-NoVA/",
         "events_url": "http://www.meetup.com/Code-for-NoVA/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469492",
         "projects_list_url": "https://github.com/sarl-hackerspace",
         "city": "Arlington, VA",
         "latitude": "38.8800",
@@ -1425,7 +1437,7 @@
         "name": "Code for Orlando",
         "website": "http://www.codefororlando.com",
         "events_url": "https://www.meetup.com/Code-For-Orlando/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974326",
         "projects_list_url": "https://github.com/cforlando",
         "city": "Orlando, FL",
         "latitude": "28.538335",
