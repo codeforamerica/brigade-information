@@ -1557,13 +1557,14 @@
             "Brigade Collaboration",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646224343"
     },
     {
         "name": "Open Raleigh Brigade",
         "website": "http://www.codeforraleigh.com/",
         "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681190",
         "projects_list_url": "",
         "city": "Raleigh, NC",
         "latitude": "35.7721",
@@ -1736,7 +1737,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681791"
     },
     {
         "name": "OpenUp",
@@ -1784,7 +1786,7 @@
         "name": "Code for Tampa Bay",
         "website": "http://www.codefortampabay.org/",
         "events_url": "http://www.meetup.com/Code-for-Tampa-Bay-Brigade/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577810",
         "projects_list_url": "https://github.com/code-for-tb",
         "city": "Tampa, FL",
         "latitude": "27.9465",
@@ -1843,7 +1845,7 @@
         "name": "Code for Tucson",
         "website": "http://codefortucson.org/",
         "events_url": "http://www.meetup.com/Code-for-Tucson/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652410499",
         "projects_list_url": "https://github.com/CodeForTucson",
         "city": "Tucson, AZ",
         "latitude": "32.2216",
@@ -1862,7 +1864,7 @@
         "name": "Code for Tulsa",
         "website": "http://codefortulsa.org/",
         "events_url": "http://www.meetup.com/Code-for-Tulsa/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097683340",
         "projects_list_url": "https://github.com/codefortulsa",
         "city": "Tulsa, OK",
         "latitude": "36.1540",
@@ -1924,7 +1926,7 @@
         "name": "Code Island",
         "website": "http://code-island.org/",
         "events_url": "http://www.meetup.com/Rhode-Island-Code-for-America-Brigade/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577948",
         "projects_list_url": "https://github.com/codeisland",
         "city": "Providence, RI",
         "latitude": "41.4887",
@@ -2066,7 +2068,8 @@
             "Official",
             "Code for America"
         ],
-        "type": "Brigade, Official, Code for America"
+        "type": "Brigade, Official, Code for America",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652409353"
     },
     {
         "name": "Open Toledo",
@@ -2081,7 +2084,8 @@
             "Brigade",
             "Code for America"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681296"
     },
     {
         "name": "Open Uptown",
@@ -2098,7 +2102,8 @@
         ],
         "social_profiles": {
             "twitter": "@codeuptown"
-        }
+        },
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575924"
     },
     {
         "name": "g0v.tw",
@@ -2138,7 +2143,7 @@
         "name": "Hack Michiana",
         "website": "http://codejot.com/hackmichiana/",
         "events_url": "",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652412293",
         "projects_list_url": "https://github.com/hackmichiana",
         "city": "South Bend, IN",
         "latitude": "41.6764",
@@ -2540,7 +2545,7 @@
         "name": "Open Cleveland",
         "website": "https://www.opencleveland.org",
         "events_url": "https://www.meetup.com/open-cleveland/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097679868",
         "projects_list_url": "https://github.com/opencleveland",
         "city": "Cleveland, OH",
         "latitude": "41.5047",
@@ -2636,7 +2641,7 @@
         "name": "Open Lexington",
         "website": "http://openlexington.org/",
         "events_url": "https://www.meetup.com/openlexington/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576853",
         "projects_list_url": "https://github.com/openlexington",
         "city": "Lexington, KY",
         "latitude": "38.0406",
@@ -2690,7 +2695,7 @@
         "name": "Code for Pittsburgh",
         "website": "https://codeforpittsburgh.github.io/",
         "events_url": "https://www.meetup.com/codeforpgh/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652412054",
         "projects_list_url": "https://github.com/codeforpittsburgh",
         "city": "Pittsburgh, PA",
         "latitude": "40.4406",
@@ -2723,7 +2728,7 @@
         "name": "Open San Diego",
         "website": "http://opensandiego.org",
         "events_url": "https://www.meetup.com/Open-San-Diego",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097679642",
         "projects_list_url": "https://github.com/opensandiego",
         "city": "San Diego, CA",
         "latitude": "32.7153",
@@ -2763,7 +2768,7 @@
         "name": "Open Seattle",
         "website": "http://openseattle.org/",
         "events_url": "https://www.meetup.com/openseattle/",
-        "rss": "",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577336",
         "projects_list_url": "http://openseattle.org/projects/index.csv",
         "city": "Seattle, WA",
         "latitude": "47.6062",
@@ -2994,7 +2999,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012006"
     },
     {
         "name": "Code for Floripa",
@@ -3027,7 +3033,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680208"
     },
     {
         "name": "Code for Berkeley",
@@ -3045,7 +3052,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855578548"
     },
     {
         "name": "Code for Fort Collins",
@@ -3064,7 +3072,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029013435"
     },
     {
         "name": "Code for Greenville",
@@ -3080,7 +3089,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097682617"
     },
     {
         "name": "Code for OKC",
@@ -3115,7 +3125,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575820"
     },
     {
         "name": "Code for Princeton",
@@ -3151,7 +3162,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012837"
     },
     {
         "name": "Open Denton",
@@ -3186,7 +3198,8 @@
             "Brigade",
             "Official",
             "Code for America"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680402"
     },
     {
         "name": "Code for Boise",
@@ -3204,6 +3217,7 @@
             "Code for America",
             "Official",
             "Brigade"
-        ]
+        ],
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576252"
     }
 ]
