@@ -2141,8 +2141,8 @@
     },
     {
         "name": "Hack Michiana",
-        "website": "http://codejot.com/hackmichiana/",
-        "events_url": "",
+        "website": "http://hackmichiana.org/",
+        "events_url": "https://www.meetup.com/Hack-Michiana/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652412293",
         "projects_list_url": "https://github.com/hackmichiana",
         "city": "South Bend, IN",
