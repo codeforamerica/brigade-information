@@ -38,6 +38,9 @@ A single organization's record looks like this:
   Some commonly used tags are:
   * `Brigade`
   * `Official`
+  * `Code for America` - Code for America Brigade
+  * `Code for America Partner Brigade` - A separate 501(c)3 nonprofit that is an official Code for America Brigade.
+  * `Code for America Fiscally Sponsored Brigade` - A Brigade that uses a non-Code for America Fiscal Sponsor.
   * `Code for All` - Code for All network member ("Governing Partner")
   * `Code for All Affiliate` - Code for All network Affiliate Partner
   * `Fellowship` - organization is running a fellowship program
