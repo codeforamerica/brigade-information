@@ -23,7 +23,8 @@ def are_urls_equal(url, other):
 def is_official_brigade(brigade):
     return 'tags' in brigade and \
             'Brigade' in brigade['tags'] and \
-            'Official' in brigade['tags']
+            'Official' in brigade['tags'] and \
+            'Code for America' in brigade['tags']
 
 
 def load_organizations(filename):
@@ -76,32 +77,16 @@ def find_renamed_brigades(missing_brigades, extra_brigades):
     # set containing tuples of (old name, new name)
     renamed_brigades = set()
 
-    # dict of { "website" => [old name, new name] }
-    matches_by_website = { missing['Website']: [
-        missing['Account Name'],
-        next(iter([extra['name'] for extra in extra_brigades if are_urls_equal(extra['website'], missing['Website'])]), None)] for missing in missing_brigades
-    }
-    for (_, (new_brigade_name, old_brigade_name)) in matches_by_website.items():
-        if old_brigade_name and new_brigade_name:
-            renamed_brigades.add((old_brigade_name, new_brigade_name))
+    for missing in missing_brigades:
+        for extra in extra_brigades:
+            if missing['Website'] and are_urls_equal(missing['Website'], extra['website']):
+                renamed_brigades.add((extra['name'], missing['Account Name']))
 
-    # if the Meetup Link is the same, assume the brigade is too
-    matches_by_meetup = { missing['MeetUp Link']: [
-        missing['Account Name'],
-        next(iter([extra['name'] for extra in extra_brigades if are_urls_equal(extra['events_url'], missing['MeetUp Link'])]), None)] for missing in missing_brigades
-    }
-    for (_, (new_brigade_name, old_brigade_name)) in matches_by_meetup.items():
-        if old_brigade_name and new_brigade_name:
-            renamed_brigades.add((old_brigade_name, new_brigade_name))
+            if missing['MeetUp Link'] and are_urls_equal(missing['MeetUp Link'], extra['events_url']):
+                renamed_brigades.add((extra['name'], missing['Account Name']))
 
-    # if the Github Link is the same, assume the brigade is too
-    matches_by_github = { missing['Github URL']: [
-        missing['Account Name'],
-        next(iter([extra['name'] for extra in extra_brigades if are_urls_equal(extra['projects_list_url'], missing['Github URL'])]), None)] for missing in missing_brigades
-    }
-    for (_, (new_brigade_name, old_brigade_name)) in matches_by_github.items():
-        if old_brigade_name and new_brigade_name:
-            renamed_brigades.add((old_brigade_name, new_brigade_name))
+            if missing['Github URL'] and are_urls_equal(missing['Github URL'], extra['projects_list_url']):
+                renamed_brigades.add((extra['name'], missing['Account Name']))
 
     return list(renamed_brigades)
 
@@ -114,6 +99,10 @@ def remove_brigade(brigade_name, existing, full_removal=False):
         else:
             existing[remove_idx]['tags'].remove('Official')
             existing[remove_idx]['tags'].remove('Code for America')
+            if 'Code for America Partner Brigade' in existing[remove_idx]['tags']:
+                existing[remove_idx]['tags'].remove('Code for America Partner Brigade')
+            if 'Code for America Fiscally Sponsored Brigade' in existing[remove_idx]['tags']:
+                existing[remove_idx]['tags'].remove('Code for America Fiscally Sponsored Brigade')
             existing[remove_idx]['type'] = ", ".join(existing[remove_idx]['tags'])
     except StopIteration:
         print "Could not remove brigade {}".format(brigade_name)
@@ -166,10 +155,15 @@ def rename_brigade(old_brigade_name, new_brigade_name, existing, salesforce):
             projects_list_url=new_brigade['Github URL'],
             previous_names=previous_names)
 
-def mark_brigade_official(brigade_name, existing):
+def mark_brigade_official(salesforce_brigade, existing):
+    brigade_name = salesforce_brigade['Account Name']
     brigade_idx = next(i for i, b in enumerate(existing) if brigade_name == b['name'])
     existing[brigade_idx]['tags'].append('Official')
     existing[brigade_idx]['tags'].append('Code for America')
+    if salesforce_brigade['Brigade Type'] == 'Fiscally Sponsored Brigade':
+        existing[brigade_idx]['tags'].append('Code for America Fiscally Sponsored Brigade')
+    if salesforce_brigade['Brigade Type'] == 'Partner':
+        existing[brigade_idx]['tags'].append('Code for America Partner Brigade')
     existing[brigade_idx]['type'] = ", ".join(existing[brigade_idx]['tags'])
     assert is_official_brigade(existing[brigade_idx])
 
@@ -185,15 +179,14 @@ if __name__ == '__main__':
     existing = load_organizations(organizations_json_path)
     salesforce = load_report(salesforce_path)
 
-    print "Newly Official Brigades:"
-    for newly_official_brigade in find_newly_official_brigades(existing, salesforce):
-        print newly_official_brigade['name']
-        mark_brigade_official(newly_official_brigade['name'], existing)
-
     # Find possibly-missing and possibly-extra brigades, since typically a
     # Brigade rename will appear as a deletion and addition.
     missing_brigades = find_missing_brigades(existing, salesforce)
+    print "Found {} Missing Brigades:".format(len(missing_brigades))
+    print ", ".join([b['Account Name'] for b in missing_brigades])
     extra_brigades = find_extra_brigades(existing, salesforce)
+    print "Found {} Extra Brigades:".format(len(extra_brigades))
+    print ", ".join([b['name'] for b in extra_brigades])
 
     print ""
     print "Renamed Brigades:"
@@ -204,9 +197,15 @@ if __name__ == '__main__':
         del extra_brigades[next(i for i, b in enumerate(extra_brigades) if old_brigade_name == b['name'])]
 
     print ""
-    print "Missing Brigades (from JSON):"
+    print "Newly Official Brigades:"
+    for newly_official_brigade in find_newly_official_brigades(existing, salesforce):
+        print newly_official_brigade['name']
+        mark_brigade_official(newly_official_brigade, existing)
+
+    print ""
+    print "Missing Brigades to Add:"
     for missing_brigade in missing_brigades:
-        print missing_brigade['name']
+        print missing_brigade['Account Name']
         add_brigade(existing, name=missing_brigade['Account Name'],
                 events_url=missing_brigade['MeetUp Link'],
                 city=missing_brigade['Brigade Location'],
@@ -216,9 +215,9 @@ if __name__ == '__main__':
                 projects_list_url=missing_brigade['Github URL'])
 
     print ''
-    print "Extra Brigades (in JSON):"
+    print "Extra Brigades To Remove:"
     for extra_brigade in extra_brigades:
-        print extra_brigade
+        print extra_brigade['name']
         remove_brigade(extra_brigade['name'], existing)
 
     dump_organizations(existing, organizations_json_path)
