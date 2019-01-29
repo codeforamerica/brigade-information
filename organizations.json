@@ -51,11 +51,12 @@
         "city": "New York, NY",
         "latitude": "40.7144",
         "longitude": "-74.0060",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ]
     },
     {
@@ -139,14 +140,14 @@
         "city": "Albuquerque, NM",
         "latitude": "35.0824",
         "longitude": "-106.6765",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@codeforabq"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -199,15 +200,15 @@
         "city": "Anchorage, AK",
         "latitude": "61.2181",
         "longitude": "-149.9003",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforanc/",
             "twitter": "@CodeForAnc"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -219,15 +220,15 @@
         "city": "Asheville, NC",
         "latitude": "35.5951",
         "longitude": "-82.5515",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforasheville/",
             "twitter": "@code4asheville"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -239,15 +240,15 @@
         "city": "Atlanta, GA",
         "latitude": "33.7490",
         "longitude": "-84.3880",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforatlanta",
             "twitter": "@codeforatlanta"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -272,12 +273,13 @@
         "events_url": "https://www.meetup.com/CodeforBCS/",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037971404"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037971404",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Birmingham",
@@ -309,14 +311,14 @@
         ],
         "projects_list_url": "https://github.com/BMGhack/civic-hacking",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {
             "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
         },
-        "type": "Brigade",
+        "type": "Brigade, Code for America, Official",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582955"
     },
     {
@@ -328,15 +330,15 @@
         "city": "Boston, MA",
         "latitude": "42.3584",
         "longitude": "-71.0598",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforboston/",
             "twitter": "@codeforboston"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -348,14 +350,14 @@
         "city": "Boulder, CO",
         "latitude": "40.0176",
         "longitude": "-105.2797",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@CodeforBoulder"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -380,15 +382,16 @@
         "city": "Burlington, VT",
         "latitude": "44.4759",
         "longitude": "-73.2121",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForBtv/",
             "twitter": "@CodeForBTV"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ]
     },
     {
@@ -400,15 +403,16 @@
         "events_url": "https://www.meetup.com/CodeForBuffalo/",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForBuffalo",
             "twitter": "@CodeForBuffalo"
         },
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927491288"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927491288",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Canada",
@@ -437,14 +441,14 @@
         "city": "Cary, NC",
         "latitude": "35.7915",
         "longitude": "-78.7811",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@CodeForCary"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -456,12 +460,13 @@
         "events_url": "https://www.meetup.com/Triangle-Code-for-America",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582281"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582281",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Hackensack",
@@ -473,11 +478,12 @@
         "previous_names": [],
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Iowa",
@@ -488,12 +494,13 @@
         "events_url": "https://www.meetup.com/Code-for-Iowa/",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927492620"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927492620",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Kentuckiana",
@@ -505,11 +512,12 @@
         "previous_names": [],
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Kissimmee",
@@ -535,12 +543,13 @@
         "events_url": "",
         "projects_list_url": "https://github.com/code4puertorico",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Sonoma County",
@@ -551,12 +560,13 @@
         "events_url": "https://www.meetup.com/Code-for-Sonoma-County/",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467581"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467581",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Utah",
@@ -570,15 +580,16 @@
         ],
         "projects_list_url": "https://github.com/opensaltlake",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {
             "twitter": "@OpenSaltLake",
             "facebook": "https://www.facebook.com/opensaltlakeutah/"
         },
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974453"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974453",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "KC Digital Drive",
@@ -592,14 +603,16 @@
         ],
         "projects_list_url": "https://github.com/codeforkansascity",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Code for America Partner Brigade",
+            "Official"
         ],
         "social_profiles": {
             "twitter": "@codeforkc",
             "facebook": "https://www.facebook.com/codeforkc"
-        }
+        },
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official"
     },
     {
         "name": "Open Charlotte Brigade",
@@ -610,15 +623,15 @@
         "city": "Charlotte, NC",
         "latitude": "35.2032",
         "longitude": "-80.8395",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforcharlotte",
             "twitter": "@codeforclt"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -672,16 +685,15 @@
         "city": "Dayton, OH",
         "latitude": "39.7589",
         "longitude": "-84.1916",
-        "type": "Brigade, midwest, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/Code-For-Dayton-1501498193512256/",
             "twitter": "@codefordayton"
         },
         "tags": [
             "Brigade",
-            "midwest",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -693,14 +705,14 @@
         "city": "Washington, DC",
         "latitude": "38.9072",
         "longitude": "-77.0365",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@CodeforDC"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -712,15 +724,15 @@
         "city": "Denver, CO",
         "latitude": "39.7392",
         "longitude": "-104.9847",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefordenver/",
             "twitter": "@codefordenver"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -747,15 +759,15 @@
         "city": "Durham, NC",
         "latitude": "35.9940",
         "longitude": "-78.8986",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefordurham/",
             "twitter": "@codefordurham"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -794,15 +806,15 @@
         "city": "Ft. Lauderdale, FL",
         "latitude": "26.1237",
         "longitude": "-80.1436",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForFTL/",
             "twitter": "@codeforftl"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -886,15 +898,16 @@
         "city": "Greensboro, NC",
         "latitude": "36.0690",
         "longitude": "-79.7947",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforgreensboro/",
             "twitter": "@CodeForGSO"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Partner Brigade",
+            "Official"
         ]
     },
     {
@@ -906,15 +919,15 @@
         "city": "Hampton Roads, VA (Region)",
         "latitude": "36.8470",
         "longitude": "-76.2922",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/code4hr",
             "twitter": "@code4hr"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -926,15 +939,15 @@
         "city": "Honolulu, HI",
         "latitude": "21.3069",
         "longitude": "-157.8583",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforhawaii/",
             "twitter": "@codeforhawaii"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -961,12 +974,14 @@
         "events_url": "https://www.meetup.com/Code-for-Muskogee/",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469291"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469291",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
     },
     {
         "name": "Code for PDX",
@@ -977,14 +992,15 @@
         "events_url": "https://www.meetup.com/Code-for-PDX/",
         "projects_list_url": "https://github.com/codeforpdx",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {
             "twitter": "@codeForPDX"
         },
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974945"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974945",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for RGV (Rio Grande Valley)",
@@ -1076,11 +1092,11 @@
         "city": "Jersey City, NJ",
         "latitude": "40.7280556",
         "longitude": "-74.0780556",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1262,15 +1278,15 @@
         "city": "Portland, ME",
         "latitude": "43.6562513",
         "longitude": "-70.2633551",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/openmaine/",
             "twitter": "@Open_Maine"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1328,14 +1344,14 @@
         "city": "Nashville, TN",
         "latitude": "36.1678",
         "longitude": "-86.7782",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@code4nashville"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1347,11 +1363,11 @@
         "city": "Manchester, NH",
         "latitude": "43.008663",
         "longitude": "-71.454391",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1363,15 +1379,15 @@
         "city": "New Orleans, LA",
         "latitude": "29.951992",
         "longitude": "-90.077055",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefornola",
             "twitter": "@codefornola"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1383,15 +1399,15 @@
         "city": "Blacksburg, VA",
         "latitude": "37.2263",
         "longitude": "-80.4106",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefornrv/",
             "twitter": "@codefornrv"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1403,15 +1419,16 @@
         "city": "Newark, NJ",
         "latitude": "40.7320",
         "longitude": "-74.1742",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefornewark/",
             "twitter": "@codefornewark"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Partner Brigade",
+            "Official"
         ]
     },
     {
@@ -1468,15 +1485,15 @@
         "city": "Orlando, FL",
         "latitude": "28.538335",
         "longitude": "-81.379236",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codefororlando/",
             "twitter": "@codefororlando"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1503,15 +1520,16 @@
         "city": "Philadelphia, PA",
         "latitude": "39.9523",
         "longitude": "-75.1638",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforphilly/",
             "twitter": "@codeforphilly"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ]
     },
     {
@@ -1578,13 +1596,13 @@
         "events_url": "",
         "projects_list_url": "https://github.com/Open-NC",
         "tags": [
-            "Official",
             "Brigade",
-            "Brigade Collaboration",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646224343"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646224343",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Open Raleigh Brigade",
@@ -1595,15 +1613,16 @@
         "city": "Raleigh, NC",
         "latitude": "35.7721",
         "longitude": "-78.6386",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CityCampRal/",
             "twitter": "@codeforraleigh"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ]
     },
     {
@@ -1643,15 +1662,16 @@
         "city": "Sacramento, CA",
         "latitude": "38.5816",
         "longitude": "-121.4944",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/code4sac/",
             "twitter": "@code4sac"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ]
     },
     {
@@ -1691,15 +1711,15 @@
         "city": "San Francisco, CA",
         "latitude": "37.7749",
         "longitude": "-122.4194",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforsanfrancisco/",
             "twitter": "@SFbrigade"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1711,15 +1731,15 @@
         "city": "San Jose, CA",
         "latitude": "37.3386",
         "longitude": "-121.8856",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://facebook.com/codeforsanjose",
             "twitter": "@codeforsanjose"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1759,12 +1779,13 @@
         "events_url": "https://www.meetup.com/open-walnut-creek/",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681791"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681791",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "OpenUp",
@@ -1817,15 +1838,15 @@
         "city": "Tampa, FL",
         "latitude": "27.9465",
         "longitude": "-82.4593",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeforTampaBay",
             "twitter": "@CodeForTampaBay"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1876,14 +1897,14 @@
         "city": "Tucson, AZ",
         "latitude": "32.2216",
         "longitude": "-110.9698",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@CodeforTucson"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1895,15 +1916,16 @@
         "city": "Tulsa, OK",
         "latitude": "36.1540",
         "longitude": "-95.9928",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForTulsa/",
             "twitter": "@CodeForTulsa"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ]
     },
     {
@@ -1957,15 +1979,15 @@
         "city": "Providence, RI",
         "latitude": "41.4887",
         "longitude": "-71.4543",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeislandbrigade",
             "twitter": "@code_island"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2104,12 +2126,13 @@
         "events_url": "https://www.meetup.com/Open-Toledo/",
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {},
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681296"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681296",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Open Uptown",
@@ -2120,14 +2143,15 @@
         "events_url": "https://www.meetup.com/Code-and-Coffee-Uptown-Brigade/",
         "projects_list_url": "https://github.com/Code-and-Coffee-Uptown-Brigade",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {
             "twitter": "@codeuptown"
         },
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575924"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575924",
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "g0v.tw",
@@ -2170,12 +2194,11 @@
         "city": "South Bend, IN",
         "latitude": "41.6764",
         "longitude": "-86.2520",
-        "type": "Brigade, midwest, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "tags": [
             "Brigade",
-            "midwest",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2525,15 +2548,16 @@
         "city": "Austin, TX",
         "latitude": "30.2672",
         "longitude": "-97.7431",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/openatx/",
             "twitter": "@openaustin"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Partner Brigade",
+            "Official"
         ]
     },
     {
@@ -2572,15 +2596,14 @@
         "city": "Cleveland, OH",
         "latitude": "41.5047",
         "longitude": "-81.6907",
-        "type": "Brigade, midwest, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@opencleveland"
         },
         "tags": [
             "Brigade",
-            "midwest",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2604,16 +2627,15 @@
         "city": "St Louis, MO",
         "latitude": "38.6272",
         "longitude": "-90.1977",
-        "type": "Brigade, midwest, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/groups/opendatastl",
             "twitter": "@open_stl"
         },
         "tags": [
             "Brigade",
-            "midwest",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2700,15 +2722,15 @@
         "city": "Oakland, CA",
         "latitude": "37.8044",
         "longitude": "-122.2711",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/openoak/",
             "twitter": "@openoakland"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2720,14 +2742,14 @@
         "city": "Pittsburgh, PA",
         "latitude": "40.4406",
         "longitude": "-79.9959",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@codeforpgh"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2753,14 +2775,14 @@
         "city": "San Diego, CA",
         "latitude": "32.7153",
         "longitude": "-117.1573",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@OpenSanDiego"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2772,16 +2794,15 @@
         "city": "Savannah, GA",
         "latitude": "32.0835",
         "longitude": "-81.0998",
-        "type": "Brigade, Official, South",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/opensavannah",
             "twitter": "@opensavannah"
         },
         "tags": [
             "Brigade",
-            "Official",
             "Code for America",
-            "South"
+            "Official"
         ]
     },
     {
@@ -2793,15 +2814,15 @@
         "city": "Seattle, WA",
         "latitude": "47.6062",
         "longitude": "-122.3321",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/openseattle/",
             "twitter": "@open_seattle"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2827,16 +2848,15 @@
         "city": "St. Paul, MN",
         "latitude": "44.9537",
         "longitude": "-93.0900",
-        "type": "Brigade, Official, midwest",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/OpenTwinCities/",
             "twitter": "@opentwincities"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "midwest",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -2880,15 +2900,15 @@
         "city": "San Mateo County, CA",
         "latitude": "37.4889",
         "longitude": "-122.2308773",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/opensmc/",
             "twitter": "@opensmc"
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -3040,7 +3060,7 @@
         "events_url": "https://www.meetup.com/Code-for-Baltimore/",
         "projects_list_url": "https://github.com/CodeForBaltimore",
         "city": "Baltimore, MD",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "latitude": "39.2903848",
         "longitude": "-76.6121893",
         "social_profiles": {
@@ -3049,8 +3069,8 @@
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680208"
     },
@@ -3077,7 +3097,7 @@
         "events_url": "https://www.meetup.com/Code-for-Fort-Collins/",
         "projects_list_url": "https://github.com/codeforfoco",
         "city": "Fort Collins, CO",
-        "type": "Brigade, Official, Code for America",
+        "type": "Brigade, Code for America, Official",
         "latitude": "40.5852602",
         "longitude": "-105.084423",
         "social_profiles": {
@@ -3086,8 +3106,8 @@
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029013435"
     },
@@ -3097,14 +3117,14 @@
         "events_url": "https://www.meetup.com/Code-for-Greenville/",
         "projects_list_url": "https://github.com/codeforgreenville/",
         "city": "Greenville, SC",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "latitude": "34.85261759999999",
         "longitude": "-82.3940104",
         "social_profiles": {},
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097682617"
     },
@@ -3131,7 +3151,7 @@
         "events_url": "https://www.meetup.com/codeforphx/",
         "projects_list_url": "",
         "city": "Phoenix, AZ",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "latitude": "33.4483771",
         "longitude": "-112.0740373",
         "social_profiles": {
@@ -3139,8 +3159,8 @@
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575820"
     },
@@ -3167,7 +3187,7 @@
         "events_url": "https://www.meetup.com/Open-Data-Delaware/",
         "projects_list_url": "https://github.com/OpenDataDE",
         "city": "Wilmington, DE",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "latitude": "39.7390721",
         "longitude": "-75.5397878",
         "social_profiles": {
@@ -3176,8 +3196,9 @@
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
         ],
         "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012837"
     },
@@ -3204,7 +3225,7 @@
         "events_url": "https://www.meetup.com/sketchcity/",
         "projects_list_url": "https://github.com/sketch-city",
         "city": "Houston, TX",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
         "latitude": "29.7604267",
         "longitude": "-95.3698028",
         "social_profiles": {
@@ -3212,8 +3233,9 @@
         },
         "tags": [
             "Brigade",
-            "Official",
-            "Code for America"
+            "Code for America",
+            "Code for America Partner Brigade",
+            "Official"
         ],
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680402"
     },
@@ -3223,16 +3245,16 @@
         "events_url": "https://www.meetup.com/boisebrigade",
         "projects_list_url": "https://github.com/boisebrigade",
         "city": "Boise, ID",
-        "type": "Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "latitude": "43.6187102",
         "longitude": "-116.2146068",
         "social_profiles": {
             "twitter": "@boisebrigade"
         },
         "tags": [
+            "Brigade",
             "Code for America",
-            "Official",
-            "Brigade"
+            "Official"
         ],
         "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576252"
     }
