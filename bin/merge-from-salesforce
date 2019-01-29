@@ -26,7 +26,6 @@ def is_official_brigade(brigade):
             'Official' in brigade['tags'] and \
             'Code for America' in brigade['tags']
 
-
 def load_organizations(filename):
     with open(filename) as f:
         contents = json.load(f, object_pairs_hook=OrderedDict)
@@ -49,12 +48,21 @@ def load_report(filename):
         return [row for row in reader]
 
 
-def find_newly_official_brigades(existing, salesforce):
-    ''' finds brigades that exist in brigade-information but need to be marked official '''
-    not_official = filter(lambda b: not is_official_brigade(b), existing)
-    official_names = map(lambda b: b['Account Name'], salesforce)
-    newly_official_brigades = filter(lambda b: b['name'] in official_names, not_official)
-    return newly_official_brigades
+def find_tag_update_brigades(existing, salesforce):
+    ''' finds brigades whose tags need to be updated (to official, or between finance types) '''
+    tag_update_brigades = []
+
+    for existing_brigade in existing:
+        salesforce_brigade = next(iter(b for b in salesforce if b['Account Name'] == existing_brigade['name']), None)
+
+        # if not in salesforce, they'll be removed by the find_extra_brigades step
+        if not salesforce_brigade:
+            continue
+
+        if existing_brigade['tags'] != official_brigade_tags(salesforce_brigade):
+            tag_update_brigades.append(salesforce_brigade)
+
+    return tag_update_brigades
 
 
 def find_missing_brigades(existing, salesforce):
@@ -155,15 +163,25 @@ def rename_brigade(old_brigade_name, new_brigade_name, existing, salesforce):
             projects_list_url=new_brigade['Github URL'],
             previous_names=previous_names)
 
-def mark_brigade_official(salesforce_brigade, existing):
+
+def official_brigade_tags(salesforce_brigade):
+    ''' provided an official brigade from salesforce, returns the list of tags for it '''
+    tags = []
+    tags.append('Brigade')
+    tags.append('Official')
+    tags.append('Code for America')
+    if salesforce_brigade['Brigade Type'] == 'Fiscally Sponsored Brigade':
+        tags.append('Code for America Fiscally Sponsored Brigade')
+    if salesforce_brigade['Brigade Type'] == 'Partner':
+        tags.append('Code for America Partner Brigade')
+    tags.sort()
+    return tags
+
+
+def update_brigade_tags(salesforce_brigade, existing):
     brigade_name = salesforce_brigade['Account Name']
     brigade_idx = next(i for i, b in enumerate(existing) if brigade_name == b['name'])
-    existing[brigade_idx]['tags'].append('Official')
-    existing[brigade_idx]['tags'].append('Code for America')
-    if salesforce_brigade['Brigade Type'] == 'Fiscally Sponsored Brigade':
-        existing[brigade_idx]['tags'].append('Code for America Fiscally Sponsored Brigade')
-    if salesforce_brigade['Brigade Type'] == 'Partner':
-        existing[brigade_idx]['tags'].append('Code for America Partner Brigade')
+    existing[brigade_idx]['tags'] = official_brigade_tags(salesforce_brigade)
     existing[brigade_idx]['type'] = ", ".join(existing[brigade_idx]['tags'])
     assert is_official_brigade(existing[brigade_idx])
 
@@ -197,10 +215,10 @@ if __name__ == '__main__':
         del extra_brigades[next(i for i, b in enumerate(extra_brigades) if old_brigade_name == b['name'])]
 
     print ""
-    print "Newly Official Brigades:"
-    for newly_official_brigade in find_newly_official_brigades(existing, salesforce):
-        print newly_official_brigade['name']
-        mark_brigade_official(newly_official_brigade, existing)
+    print "Brigades With Updated Tags:"
+    for tag_update_brigade in find_tag_update_brigades(existing, salesforce):
+        print tag_update_brigade['Account Name']
+        update_brigade_tags(tag_update_brigade, existing)
 
     print ""
     print "Missing Brigades to Add:"
