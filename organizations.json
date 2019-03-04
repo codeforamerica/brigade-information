@@ -1340,13 +1340,15 @@
         "city": "Miami, FL",
         "latitude": "25.7890",
         "longitude": "-80.2264",
-        "type": "Brigade",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForMiami/",
             "twitter": "@codeformiami"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Code for America",
+            "Official"
         ]
     },
     {
