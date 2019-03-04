@@ -80,20 +80,20 @@ def find_extra_brigades(existing, salesforce):
     return extra
 
 
-def find_renamed_brigades(missing_brigades, extra_brigades):
+def find_renamed_brigades(missing_brigades, existing):
     ''' finds renamed brigades, the old name will appear as extra and the new name as missing '''
     # set containing tuples of (old name, new name)
     renamed_brigades = set()
 
     for missing in missing_brigades:
-        for extra in extra_brigades:
-            if missing['Website'] and are_urls_equal(missing['Website'], extra['website']):
+        for extra in existing:
+            if missing['Website'] and 'website' in extra and are_urls_equal(missing['Website'], extra['website']):
                 renamed_brigades.add((extra['name'], missing['Account Name']))
 
-            if missing['MeetUp Link'] and are_urls_equal(missing['MeetUp Link'], extra['events_url']):
+            if missing['MeetUp Link'] and 'events_url' in extra and are_urls_equal(missing['MeetUp Link'], extra['events_url']):
                 renamed_brigades.add((extra['name'], missing['Account Name']))
 
-            if missing['Github URL'] and are_urls_equal(missing['Github URL'], extra['projects_list_url']):
+            if missing['Github URL'] and 'projects_list_url' in extra and are_urls_equal(missing['Github URL'], extra['projects_list_url']):
                 renamed_brigades.add((extra['name'], missing['Account Name']))
 
     return list(renamed_brigades)
@@ -208,11 +208,14 @@ if __name__ == '__main__':
 
     print ""
     print "Renamed Brigades:"
-    for (old_brigade_name, new_brigade_name) in find_renamed_brigades(missing_brigades, extra_brigades):
+    for (old_brigade_name, new_brigade_name) in find_renamed_brigades(missing_brigades, existing):
         print "{} -> {}".format(old_brigade_name, new_brigade_name)
         rename_brigade(old_brigade_name, new_brigade_name, existing, salesforce)
         del missing_brigades[next(i for i, b in enumerate(missing_brigades) if new_brigade_name == b['Account Name'])]
-        del extra_brigades[next(i for i, b in enumerate(extra_brigades) if old_brigade_name == b['name'])]
+
+        extra_brigade_idx = next((i for i, b in enumerate(extra_brigades) if old_brigade_name == b['name']), None)
+        if extra_brigade_idx:
+            del extra_brigades[extra_brigade_idx]
 
     print ""
     print "Brigades With Updated Tags:"
