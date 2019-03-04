@@ -469,6 +469,25 @@
         "type": "Brigade, Code for America, Official"
     },
     {
+        "name": "Code for Fresno",
+        "website": "",
+        "city": "Fresno, CA",
+        "latitude": "36.7295295",
+        "longitude": "-119.708861261",
+        "events_url": "https://www.meetup.com/Code-for-Fresno/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "Code4Fresno"
+        },
+        "type": "Brigade, Code for America, Official"
+    },
+    {
         "name": "Code for Hackensack",
         "website": "",
         "city": "Hackensack, NJ",
