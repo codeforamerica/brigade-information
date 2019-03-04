@@ -611,6 +611,29 @@
         "type": "Brigade, Code for America, Official"
     },
     {
+        "name": "Hack for LA Brigade",
+        "website": "http://www.hackforla.org/",
+        "city": "Los Angeles, CA",
+        "latitude": "34.0536834",
+        "longitude": "-118.2427669",
+        "events_url": "https://www.meetup.com/hackforla/",
+        "previous_names": [
+            "Hack for LA"
+        ],
+        "projects_list_url": "https://github.com/hackforla",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "@hackforLA",
+            "facebook": "https://www.facebook.com/hackforla"
+        },
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
+    },
+    {
         "name": "KC Digital Drive",
         "website": "http://codeforokc.org/",
         "city": "Kansas City, MO",
@@ -2184,24 +2207,6 @@
         "tags": [
             "Brigade",
             "Code for All"
-        ]
-    },
-    {
-        "name": "Hack for LA",
-        "website": "http://www.hackforla.org/",
-        "events_url": "https://www.meetup.com/hackforla/",
-        "rss": "http://www.hackforla.org/blog",
-        "projects_list_url": "https://github.com/hackforla",
-        "city": "Los Angeles, CA",
-        "latitude": "34.0522",
-        "longitude": "-118.2437",
-        "type": "Brigade",
-        "social_profiles": {
-            "facebook": "https://www.facebook.com/hackforla",
-            "twitter": "@hackforLA"
-        },
-        "tags": [
-            "Brigade"
         ]
     },
     {
