@@ -1861,10 +1861,10 @@
     },
     {
         "name": "Code for Tallahassee",
-        "website": "http://www.codefortallahassee.org/",
-        "events_url": "http://www.codefortallahassee.org/#events",
+        "website": "",
+        "events_url": "https://www.meetup.com/meetup-group-kFdPKltD/",
         "rss": "",
-        "projects_list_url": "https://github.com/codefortallahassee",
+        "projects_list_url": "",
         "city": "Tallahassee, FL",
         "latitude": "30.4380556",
         "longitude": "-84.2808333",
