@@ -554,6 +554,22 @@
         "type": "Brigade"
     },
     {
+        "name": "Code for Milwaukee",
+        "website": "",
+        "city": "Milwaukee, WI",
+        "latitude": "43.0349931",
+        "longitude": "-87.922497",
+        "events_url": "https://www.meetup.com/Code-for-Milwaukee/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Puerto Rico",
         "website": "http://code4puertorico.org/",
         "city": "San Juan, PR",
@@ -1868,9 +1884,11 @@
         "city": "Tallahassee, FL",
         "latitude": "30.4380556",
         "longitude": "-84.2808333",
-        "type": "Brigade",
+        "type": "Brigade, Code for America, Official",
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Code for America",
+            "Official"
         ]
     },
     {
