@@ -469,6 +469,24 @@
         "type": "Brigade, Code for America, Official"
     },
     {
+        "name": "Code for Columbus",
+        "website": "https://codeforcolumbus.org/",
+        "city": "Columbus, OH",
+        "latitude": "39.9622601",
+        "longitude": "-83.0007065",
+        "events_url": "https://www.meetup.com/Code-for-Columbus/",
+        "previous_names": [],
+        "projects_list_url": "https://github.com/codeforcolumbus",
+        "tags": [
+            "Official",
+            "Brigade",
+            "Code for America"
+        ],
+        "social_profiles": {
+            "facebook": "https://www.facebook.com/CodeForColumbus/"
+        }
+    },
+    {
         "name": "Code for Fresno",
         "website": "",
         "city": "Fresno, CA",
