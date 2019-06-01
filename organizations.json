@@ -695,7 +695,7 @@
         "website": "https://opencharlotte.org",
         "events_url": "https://www.meetup.com/Open-Charlotte-Brigade",
         "rss": "https://medium.com/opencltbrigade",
-        "projects_list_url": "https://github.com/OpenCLTBrigade",
+        "projects_list_url": "https://brigade.opencharlotte.org/projects.csv",
         "city": "Charlotte, NC",
         "latitude": "35.2032",
         "longitude": "-80.8395",
