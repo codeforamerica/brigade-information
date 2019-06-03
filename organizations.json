@@ -692,17 +692,17 @@
     },
     {
         "name": "Open Charlotte Brigade",
-        "website": "http://codeforcharlotte.org",
-        "events_url": "https://www.meetup.com/Code-For-Charlotte",
-        "rss": "https://medium.com/code-for-charlotte",
-        "projects_list_url": "https://github.com/CodeForCharlotte",
+        "website": "https://opencharlotte.org",
+        "events_url": "https://www.meetup.com/Open-Charlotte-Brigade",
+        "rss": "https://medium.com/opencltbrigade",
+        "projects_list_url": "https://brigade.opencharlotte.org/projects.csv",
         "city": "Charlotte, NC",
         "latitude": "35.2032",
         "longitude": "-80.8395",
         "type": "Brigade, Code for America, Official",
         "social_profiles": {
-            "facebook": "https://www.facebook.com/codeforcharlotte",
-            "twitter": "@codeforclt"
+            "facebook": "https://www.facebook.com/opencltbrigade",
+            "twitter": "@opencltbrigade"
         },
         "tags": [
             "Brigade",
