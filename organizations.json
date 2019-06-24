@@ -478,13 +478,14 @@
         "previous_names": [],
         "projects_list_url": "https://github.com/codeforcolumbus",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForColumbus/"
-        }
+        },
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Fresno",
@@ -521,6 +522,22 @@
         ],
         "social_profiles": {},
         "type": "Brigade, Code for America, Official"
+    },
+    {
+        "name": "Code for Indianapolis",
+        "website": "",
+        "city": "Indianapolis, IN",
+        "latitude": "39.7683331",
+        "longitude": "-86.1583502",
+        "events_url": "https://www.meetup.com/Code-for-Indianapolis/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Code for Iowa",
@@ -581,11 +598,12 @@
         "previous_names": [],
         "projects_list_url": "",
         "tags": [
-            "Official",
             "Brigade",
-            "Code for America"
+            "Code for America",
+            "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Puerto Rico",
@@ -620,6 +638,24 @@
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467581",
         "type": "Brigade, Code for America, Official"
+    },
+    {
+        "name": "Code for Syracuse",
+        "website": "",
+        "city": "Syracuse, NY",
+        "latitude": "43.0481221",
+        "longitude": "-76.1474244",
+        "events_url": "https://www.meetup.com/Code-for-Syracuse/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "@CodeForSyracuse"
+        }
     },
     {
         "name": "Code for Utah",

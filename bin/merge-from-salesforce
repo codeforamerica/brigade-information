@@ -134,6 +134,9 @@ def add_brigade(existing, name=None, events_url=None, city=None, website=None, p
     if twitter:
         social_profiles['twitter'] = twitter
 
+    default_tags = ['Official', 'Brigade', 'Code for America']
+    default_tags.sort()
+
     existing.insert(next_idx, OrderedDict([
         ('name', name),
         ('website', website),
@@ -143,7 +146,7 @@ def add_brigade(existing, name=None, events_url=None, city=None, website=None, p
         ('events_url', events_url),
         ('previous_names', previous_names),
         ('projects_list_url', projects_list_url),
-        ('tags', ['Official', 'Brigade', 'Code for America']),
+        ('tags', default_tags),
         ('social_profiles', social_profiles),
     ]))
 
