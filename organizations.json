@@ -469,6 +469,22 @@
         "type": "Brigade, Code for America, Official"
     },
     {
+        "name": "Code for Charlottesville",
+        "website": "http://codeforcharlottesville.org",
+        "city": "Charlottesville, VA",
+        "latitude": "38.029306",
+        "longitude": "-78.4766781",
+        "events_url": "https://www.meetup.com/Code-for-Charlottesvile/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Columbus",
         "website": "https://codeforcolumbus.org/",
         "city": "Columbus, OH",
@@ -486,6 +502,22 @@
             "facebook": "https://www.facebook.com/CodeForColumbus/"
         },
         "type": "Brigade, Code for America, Official"
+    },
+    {
+        "name": "Code for Dallas",
+        "website": "",
+        "city": "Dallas, TX",
+        "latitude": "32.7762719",
+        "longitude": "-96.7968559",
+        "events_url": "https://www.meetup.com/Code-for-Dallas/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Code for Fresno",
@@ -1380,6 +1412,22 @@
             "Brigade",
             "Code for Poland"
         ]
+    },
+    {
+        "name": "Open Eugene",
+        "website": "",
+        "city": "Eugene, OR",
+        "latitude": "44.0505054",
+        "longitude": "-123.0950506",
+        "events_url": "https://www.meetup.com/Open-Eugene/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Open Maine",
