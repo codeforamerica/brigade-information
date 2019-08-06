@@ -504,6 +504,22 @@
         "type": "Brigade, Code for America, Official"
     },
     {
+        "name": "Code for Connecticut",
+        "website": "https://codeforconnecticut.org/",
+        "city": "Hartford, CT",
+        "latitude": "41.764582",
+        "longitude": "-72.6908547",
+        "events_url": "https://www.meetup.com/Code-for-Connecticut/",
+        "previous_names": [],
+        "projects_list_url": "https://github.com/CodeForCT",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Dallas",
         "website": "",
         "city": "Dallas, TX",
@@ -619,6 +635,22 @@
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037972973",
         "type": "Brigade"
+    },
+    {
+        "name": "Code for Lansing",
+        "website": "",
+        "city": "Lansing, MI",
+        "latitude": "42.7337712",
+        "longitude": "-84.5553805",
+        "events_url": "https://www.meetup.com/Code-for-Lansing/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Code for Milwaukee",
