@@ -606,19 +606,22 @@
     },
     {
         "name": "Code for Kentuckiana",
-        "website": "",
+        "website": "https://codeforkentuckiana.org/",
         "city": "Louisville, KY",
         "latitude": "38.2542376",
         "longitude": "-85.759407",
-        "events_url": "",
+        "events_url": "https://www.meetup.com/codeforkyana/",
         "previous_names": [],
-        "projects_list_url": "",
+        "projects_list_url": "https://github.com/CodeForKYana",
         "tags": [
             "Brigade",
             "Code for America",
             "Official"
         ],
-        "social_profiles": {},
+        "social_profiles": {
+            "twitter": "@CodeForKYana"
+        },
+        "rss": "https://codeforkentuckiana.org/feed.xml",
         "type": "Brigade, Code for America, Official"
     },
     {
