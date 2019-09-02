@@ -375,14 +375,14 @@
     },
     {
         "name": "Code for BTV",
-        "website": "",
+        "website": "https://codeforbtv.org",
         "events_url": "http://www.meetup.com/CodeForBTV/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583527",
         "projects_list_url": "https://github.com/codeforbtv",
         "city": "Burlington, VT",
         "latitude": "44.4759",
         "longitude": "-73.2121",
-        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "type": "",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForBtv/",
             "twitter": "@CodeForBTV"
@@ -390,7 +390,6 @@
         "tags": [
             "Brigade",
             "Code for America",
-            "Code for America Fiscally Sponsored Brigade",
             "Official"
         ]
     },
