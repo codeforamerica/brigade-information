@@ -70,6 +70,14 @@ def find_updated_brigades(existing, salesforce):
             update_json_attribute(existing_brigade, 'type', ", ".join(tags))
             assert is_official_brigade(existing_brigade)
 
+        # update city and lat/long if necessary
+        if update_json_attribute(existing_brigade, 'city', salesforce_brigade['Brigade Location']):
+            updated_brigades.append(existing_brigade)
+            geo = geocoders.Nominatim()
+            result = geo.geocode(existing_brigade['city'])
+            update_json_attribute(existing_brigade, 'latitude', str(result.latitude))
+            update_json_attribute(existing_brigade, 'longitude', str(result.longitude))
+
         social_profiles = existing_brigade.get('social_profiles', {})
         if 'Facebook Page URL' in salesforce_brigade and len(salesforce_brigade['Facebook Page URL']):
             social_profiles['facebook'] = salesforce_brigade['Facebook Page URL']
@@ -79,7 +87,6 @@ def find_updated_brigades(existing, salesforce):
         # update the other attributes
         if any([
             update_json_attribute(existing_brigade, 'events_url', salesforce_brigade['MeetUp Link']),
-            update_json_attribute(existing_brigade, 'city', salesforce_brigade['Brigade Location']),
             update_json_attribute(existing_brigade, 'website', salesforce_brigade['Website']),
             update_json_attribute(existing_brigade, 'projects_list_url', salesforce_brigade['Github URL']),
             update_json_attribute(existing_brigade, 'social_profiles', social_profiles),
