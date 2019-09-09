@@ -485,6 +485,26 @@
         "social_profiles": {}
     },
     {
+        "name": "Code for Chicago",
+        "website": "http://OpenUptown.us",
+        "city": "Chicago, IL",
+        "latitude": "41.8755616",
+        "longitude": "-87.6244212",
+        "events_url": "https://www.meetup.com/openuptown/",
+        "previous_names": [
+            "Open Uptown"
+        ],
+        "projects_list_url": "https://github.com/Code-and-Coffee-Uptown-Brigade",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "@open_uptown"
+        }
+    },
+    {
         "name": "Code for Columbus",
         "website": "https://codeforcolumbus.org/",
         "city": "Columbus, OH",
@@ -2328,25 +2348,6 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681296",
-        "type": "Brigade, Code for America, Official"
-    },
-    {
-        "name": "Open Uptown",
-        "website": "http://openuptown.us/",
-        "city": "Chicago, IL",
-        "latitude": "41.965453",
-        "longitude": "-87.660551",
-        "events_url": "https://www.meetup.com/Code-and-Coffee-Uptown-Brigade/",
-        "projects_list_url": "https://github.com/Code-and-Coffee-Uptown-Brigade",
-        "tags": [
-            "Brigade",
-            "Code for America",
-            "Official"
-        ],
-        "social_profiles": {
-            "twitter": "@codeuptown"
-        },
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575924",
         "type": "Brigade, Code for America, Official"
     },
     {
