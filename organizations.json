@@ -708,6 +708,22 @@
         "type": "Brigade, Code for America, Official"
     },
     {
+        "name": "Code for Montana",
+        "website": "",
+        "city": "Missoula, MT",
+        "latitude": "46.8700801",
+        "longitude": "-113.9952796",
+        "events_url": "https://www.meetup.com/Code-for-Montana/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Puerto Rico",
         "website": "http://code4puertorico.org/",
         "city": "San Juan, PR",
