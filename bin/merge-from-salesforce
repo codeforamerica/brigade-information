@@ -48,9 +48,9 @@ def load_report(filename):
         return [row for row in reader]
 
 
-def find_tag_update_brigades(existing, salesforce):
-    ''' finds brigades whose tags need to be updated (to official, or between finance types) '''
-    tag_update_brigades = []
+def find_updated_brigades(existing, salesforce):
+    ''' finds brigades whose attributes need to be updated '''
+    updated_brigades = []
 
     for existing_brigade in existing:
         salesforce_brigade = next(iter(b for b in salesforce if b['Account Name'] == existing_brigade['name']), None)
@@ -59,10 +59,34 @@ def find_tag_update_brigades(existing, salesforce):
         if not salesforce_brigade:
             continue
 
-        if existing_brigade['tags'] != official_brigade_tags(salesforce_brigade):
-            tag_update_brigades.append(salesforce_brigade)
+        brigade_name = salesforce_brigade['Account Name']
+        brigade_idx = next(i for i, b in enumerate(existing) if brigade_name == b['name'])
+        existing_brigade = existing[brigade_idx]
 
-    return tag_update_brigades
+        # update tags (and depcerated type) attribute
+        tags = official_brigade_tags(salesforce_brigade)
+        if update_json_attribute(existing_brigade, 'tags', tags):
+            updated_brigades.append(brigade_name)
+            update_json_attribute(existing_brigade, 'type', ", ".join(tags))
+            assert is_official_brigade(existing_brigade)
+
+        social_profiles = existing_brigade.get('social_profiles', {})
+        if 'Facebook Page URL' in salesforce_brigade and len(salesforce_brigade['Facebook Page URL']):
+            social_profiles['facebook'] = salesforce_brigade['Facebook Page URL']
+        if 'Organization Twitter' in social_profiles and len(salesforce_brigade['Organization Twitter']):
+            social_profiles['twitter'] = salesforce_brigade['Organization Twitter']
+
+        # update the other attributes
+        if any([
+            update_json_attribute(existing_brigade, 'events_url', salesforce_brigade['MeetUp Link']),
+            update_json_attribute(existing_brigade, 'city', salesforce_brigade['Brigade Location']),
+            update_json_attribute(existing_brigade, 'website', salesforce_brigade['Website']),
+            update_json_attribute(existing_brigade, 'projects_list_url', salesforce_brigade['Github URL']),
+            update_json_attribute(existing_brigade, 'social_profiles', social_profiles),
+        ]):
+            updated_brigades.append(existing_brigade)
+
+    return updated_brigades
 
 
 def find_missing_brigades(existing, salesforce):
@@ -181,12 +205,16 @@ def official_brigade_tags(salesforce_brigade):
     return tags
 
 
-def update_brigade_tags(salesforce_brigade, existing):
-    brigade_name = salesforce_brigade['Account Name']
-    brigade_idx = next(i for i, b in enumerate(existing) if brigade_name == b['name'])
-    existing[brigade_idx]['tags'] = official_brigade_tags(salesforce_brigade)
-    existing[brigade_idx]['type'] = ", ".join(existing[brigade_idx]['tags'])
-    assert is_official_brigade(existing[brigade_idx])
+def update_json_attribute(existing_brigade, attribute, value):
+    '''
+    sets attribute to the value for a brigade, and returns True/False depending
+    on if the attribute was modified
+    '''
+    if existing_brigade.get(attribute) == value:
+        return False
+
+    existing_brigade[attribute] = value
+    return True
 
 
 if __name__ == '__main__':
@@ -208,6 +236,9 @@ if __name__ == '__main__':
     extra_brigades = find_extra_brigades(existing, salesforce)
     print "Found {} Extra Brigades:".format(len(extra_brigades))
     print ", ".join([b['name'] for b in extra_brigades])
+    updated_brigades = find_updated_brigades(existing, salesforce)
+    print "Updated {} Brigades:".format(len(updated_brigades))
+    print ", ".join([b['name'] for b in updated_brigades])
 
     print ""
     print "Renamed Brigades:"
@@ -219,12 +250,6 @@ if __name__ == '__main__':
         extra_brigade_idx = next((i for i, b in enumerate(extra_brigades) if old_brigade_name == b['name']), None)
         if extra_brigade_idx:
             del extra_brigades[extra_brigade_idx]
-
-    print ""
-    print "Brigades With Updated Tags:"
-    for tag_update_brigade in find_tag_update_brigades(existing, salesforce):
-        print tag_update_brigade['Account Name']
-        update_brigade_tags(tag_update_brigade, existing)
 
     print ""
     print "Missing Brigades to Add:"
