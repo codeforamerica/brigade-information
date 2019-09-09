@@ -673,6 +673,24 @@
         "social_profiles": {}
     },
     {
+        "name": "Code for Las Vegas",
+        "website": "",
+        "city": "Las Vegas, NV",
+        "latitude": "36.1662859",
+        "longitude": "-115.149225",
+        "events_url": "https://www.meetup.com/Code-for-Las-Vegas/",
+        "previous_names": [
+            "Code for Vegas"
+        ],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Milwaukee",
         "website": "",
         "city": "Milwaukee, WI",
@@ -2167,20 +2185,6 @@
         "city": "Vancouver, BC",
         "latitude": "49.2811",
         "longitude": "-123.0440",
-        "type": "Brigade",
-        "tags": [
-            "Brigade"
-        ]
-    },
-    {
-        "name": "Code for Vegas",
-        "website": "http://www.codeforvegas.org",
-        "events_url": "http://www.meetup.com/Code-for-Las-Vegas/",
-        "rss": "",
-        "projects_list_url": "https://github.com/CodeForVegas",
-        "city": "Las Vegas, NV",
-        "latitude": "36.2551",
-        "longitude": "-115.2383",
         "type": "Brigade",
         "tags": [
             "Brigade"
