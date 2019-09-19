@@ -217,7 +217,7 @@
     },
     {
         "name": "Code for Asheville",
-        "website": "http://www.codeforasheville.org/",
+        "website": "https://www.codeforasheville.org/",
         "events_url": "https://www.meetup.com/Code-for-Asheville/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583758",
         "projects_list_url": "https://github.com/codeforasheville",
@@ -237,7 +237,7 @@
     },
     {
         "name": "Code for Atlanta",
-        "website": "http://www.codeforatlanta.org/",
+        "website": "https://www.codeforatlanta.org/",
         "events_url": "https://www.meetup.com/codeforatlanta/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927490732",
         "projects_list_url": "https://github.com/codeforatlanta",
@@ -327,7 +327,7 @@
     },
     {
         "name": "Code for Boston",
-        "website": "http://www.codeforboston.org",
+        "website": "https://www.codeforboston.org",
         "events_url": "https://www.meetup.com/Code-for-Boston/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927493688",
         "projects_list_url": "https://github.com/codeforboston/",
@@ -379,7 +379,7 @@
     },
     {
         "name": "Code for BTV",
-        "website": "https://codeforbtv.org",
+        "website": "http://www.codeforbtv.org/",
         "events_url": "https://www.meetup.com/CodeForBTV/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583527",
         "projects_list_url": "https://github.com/codeforbtv",
@@ -808,7 +808,7 @@
     },
     {
         "name": "Hack for LA Brigade",
-        "website": "http://www.hackforla.org/",
+        "website": "https://www.hackforla.org/",
         "city": "Los Angeles, CA",
         "latitude": "34.0536834",
         "longitude": "-118.2427669",
@@ -831,7 +831,7 @@
     },
     {
         "name": "KC Digital Drive",
-        "website": "http://codeforokc.org/",
+        "website": "https://codeforokc.org/",
         "city": "Kansas City, MO",
         "latitude": "39.100105",
         "longitude": "-94.5781416",
@@ -955,7 +955,7 @@
     },
     {
         "name": "Code for Denver",
-        "website": "https://www.codefordenver.org/",
+        "website": "https://codefordenver.org/",
         "events_url": "https://www.meetup.com/CodeForDenver/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037972092",
         "projects_list_url": "https://github.com/codefordenver",
@@ -990,7 +990,7 @@
     },
     {
         "name": "Code for Durham",
-        "website": "http://codefordurham.com/",
+        "website": "https://codefordurham.com/",
         "events_url": "https://www.meetup.com/Triangle-Code-for-America/",
         "rss": "http://codefordurham.com/project-updates?format=rss",
         "projects_list_url": "https://github.com/codefordurham",
@@ -1129,7 +1129,7 @@
     },
     {
         "name": "Code for Greensboro",
-        "website": "http://codeforgreensboro.org/",
+        "website": "https://codeforgreensboro.org/",
         "events_url": "https://www.meetup.com/Code-for-Greensboro/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775468197",
         "projects_list_url": "https://github.com/codeforgso",
@@ -1546,7 +1546,7 @@
     },
     {
         "name": "Code for Miami",
-        "website": "http://codefor.miami",
+        "website": "https://www.codeformiami.com/",
         "events_url": "https://www.meetup.com/code-for-miami/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185",
         "projects_list_url": "https://github.com/Code-for-Miami",
@@ -1650,7 +1650,7 @@
     },
     {
         "name": "Code for New River Valley",
-        "website": "https://codefornrv.org/",
+        "website": "https://www.codefornrv.org/",
         "events_url": "https://www.meetup.com/CodeForNRV",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973677",
         "projects_list_url": "",
@@ -1847,7 +1847,7 @@
     },
     {
         "name": "Open NC Collaborative",
-        "website": "http://opennc-collaborative.org/",
+        "website": "https://opennc-collaborative.org/",
         "city": "North Carolina",
         "latitude": "35.6729639",
         "longitude": "-79.0392919",
@@ -1962,7 +1962,7 @@
     },
     {
         "name": "Code for San Francisco",
-        "website": "http://codeforsanfrancisco.org/",
+        "website": "https://codeforsanfrancisco.org/",
         "events_url": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/",
         "rss": "http://codeforsanfrancisco.org/blog/",
         "projects_list_url": "https://github.com/sfbrigade",
@@ -1982,7 +1982,7 @@
     },
     {
         "name": "Code for San Jose",
-        "website": "http://www.codeforsanjose.com/",
+        "website": "https://www.codeforsanjose.com/",
         "events_url": "https://www.meetup.com/Code-for-San-Jose",
         "rss": "http://codeforsanjose.com/category/blog/feed/",
         "projects_list_url": "https://github.com/codeforsanjose",
@@ -2092,7 +2092,7 @@
     },
     {
         "name": "Code for Tampa Bay",
-        "website": "http://www.codefortampabay.org/",
+        "website": "https://codefortampabay.org/",
         "events_url": "https://www.meetup.com/Code-for-Tampa-Bay-Brigade/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577810",
         "projects_list_url": "https://github.com/code-for-tb",
@@ -2397,7 +2397,7 @@
     },
     {
         "name": "Hack Michiana",
-        "website": "http://hackmichiana.org/",
+        "website": "http://www.hackmichiana.org/",
         "events_url": "https://www.meetup.com/Hack-Michiana/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652412293",
         "projects_list_url": "https://github.com/HackMichiana",
@@ -2928,7 +2928,7 @@
     },
     {
         "name": "Open Oakland",
-        "website": "https://www.openoakland.org/",
+        "website": "https://openoakland.org/",
         "events_url": "https://www.meetup.com/OpenOakland/",
         "rss": "https://www.openoakland.org/blog/",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ynEZMQT5_9rQDmZjtJchEy_UisUDlhe1BclIzAiaTK3nAWAs_2qghnTUco3c_NKqyTOIFz8_ykYn/pub?output=csv",
@@ -2981,7 +2981,7 @@
     },
     {
         "name": "Open San Diego",
-        "website": "http://opensandiego.org",
+        "website": "https://opensandiego.org/",
         "events_url": "https://www.meetup.com/Open-San-Diego",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097679642",
         "projects_list_url": "https://github.com/opensandiego",
@@ -3020,7 +3020,7 @@
     },
     {
         "name": "Open Seattle",
-        "website": "http://openseattle.org/",
+        "website": "https://openseattle.org/",
         "events_url": "https://www.meetup.com/openseattle/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577336",
         "projects_list_url": "http://openseattle.org/projects/index.csv",
@@ -3269,7 +3269,7 @@
     },
     {
         "name": "Code for Baltimore",
-        "website": "http://codeforbaltimore.org",
+        "website": "https://www.codeforbaltimore.org",
         "events_url": "https://www.meetup.com/Code-for-Baltimore/",
         "projects_list_url": "https://github.com/CodeForBaltimore",
         "city": "Baltimore, MD",
@@ -3326,7 +3326,7 @@
     },
     {
         "name": "Code for Greenville",
-        "website": "http://codeforgreenville.org",
+        "website": "https://codeforgreenville.org/",
         "events_url": "https://www.meetup.com/Code-for-Greenville/",
         "projects_list_url": "https://github.com/codeforgreenville/",
         "city": "Greenville, SC",
@@ -3457,7 +3457,7 @@
     },
     {
         "name": "Code for Boise",
-        "website": "http://www.boisebrigade.org/",
+        "website": "https://www.openboise.org/",
         "events_url": "https://www.meetup.com/boisebrigade/",
         "projects_list_url": "https://github.com/CodeForBoise",
         "city": "Boise, ID",
