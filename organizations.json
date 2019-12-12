@@ -3475,30 +3475,32 @@
         "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576252"
     },
     {
-    "name": "Georgia Technology Authority",
-    "website": "https://gta.georgia.gov/",
-    "city": "Atlanta, GA",
-    "latitude": "33.747590",
-    "longitude": "-84.389910",
-    "tags": [
-      "Government"
-    ],
-    "social_profiles": {
-        "linkedin": "https://www.linkedin.com/company/georgia-technology-authority/about/"
+        "name": "Georgia Technology Authority",
+        "website": "https://gta.georgia.gov/",
+        "city": "Atlanta, GA",
+        "latitude": "33.747590",
+        "longitude": "-84.389910",
+        "tags": [
+          "Government"
+        ],
+        "social_profiles": {
+            "linkedin": "https://www.linkedin.com/company/georgia-technology-authority/about/"
+        }
     },
     {
-    "name": "Digital Services Georgia",
-    "website": "https://digitalservices.georgia.gov/",
-    "city": "Atlanta, GA",
-    "rss": "https://digitalservices.georgia.gov/blogs",
-    "latitude": "33.747590",
-    "longitude": "-84.389910",
-    "tags": [
-      "Government"
-    ],
-    "social_profiles": {
-        "twitter": "@GeorgiaGovTeam",
-        "linkedin": "https://www.linkedin.com/company/georgiagov-interactive/",
-        "youtube": "https://www.youtube.com/user/GTACreative"
+        "name": "Digital Services Georgia",
+        "website": "https://digitalservices.georgia.gov/",
+        "city": "Atlanta, GA",
+        "rss": "https://digitalservices.georgia.gov/blogs",
+        "latitude": "33.747590",
+        "longitude": "-84.389910",
+        "tags": [
+          "Government"
+        ],
+        "social_profiles": {
+            "twitter": "@GeorgiaGovTeam",
+            "linkedin": "https://www.linkedin.com/company/georgiagov-interactive/",
+            "youtube": "https://www.youtube.com/user/GTACreative"
+        }
     }
 ]
