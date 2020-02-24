@@ -509,21 +509,25 @@
         }
     },
     {
-        "name": "Code for Columbus",
-        "website": "https://codeforcolumbus.org/",
+        "name": "OpenColumbus (Ohio)",
+        "website": "http://site.opencolumbus.com/",
         "city": "Columbus, OH",
         "latitude": "39.9622601",
         "longitude": "-83.0007065",
-        "events_url": "https://www.meetup.com/Code-for-Columbus/",
-        "previous_names": [],
-        "projects_list_url": "https://github.com/codeforcolumbus",
+        "events_url": "https://www.meetup.com/OpenColumbus/",
+        "previous_names": [
+            "Code for Columbus"
+        ],
+        "projects_list_url": "https://github.com/SCODEMeetup",
         "tags": [
             "Brigade",
             "Code for America",
             "Official"
         ],
         "social_profiles": {
-            "facebook": "https://www.facebook.com/CodeForColumbus/"
+            "twitter": "@OpenColumbus",
+            "facebook": "https://www.facebook.com/opencolumbus/",
+            "linkedin": "https://www.linkedin.com/company/opencolumbus/"
         },
         "type": "Brigade, Code for America, Official"
     },

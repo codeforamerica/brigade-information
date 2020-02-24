@@ -56,6 +56,7 @@ A single organization's record looks like this:
 * **`social_profiles`** is an object with the keys being the name of the social network and the value being the identifying address on that network. Specifically,
   * `twitter` - The Twitter handle including `@`.
   * `facebook` - The Facebook Page URL
+  * `linkedin` - The LinkedIn Page URL
 
 Before committing your change, please make sure that there are no formatting issues by running the `bin/format-json` script. (You will need to `brew install jq moreutils` for that script to run.)
 
