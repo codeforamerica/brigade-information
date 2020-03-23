@@ -1,4 +1,15 @@
 [
+  {
+      "name": "COVID-19 Response Efforts (not brigade specific)",
+      "website": "",
+      "projects_list_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSRLgFqu8pavGV_3qNZ2MuSbN-DXvk9mD9pR-MbNpNrfwMh_MSVZpAitia_qBrR2jC2KxYruZtMO-I-/pub?gid=0&single=true&output=csv",
+      "city": "San Francisco, CA",
+      "type": "Government",
+      "tags": [
+          "Temporary",
+          "Collaborative"
+      ]
+  },
     {
         "name": "18F",
         "website": "https://18f.gsa.gov/",
