@@ -1515,13 +1515,15 @@
     },
     {
         "name": "Open Eugene",
-        "website": "",
+        "website": "http://openeugene.org/",
+        "events_url": "https://www.meetup.com/Open-Eugene/",
+        "rss": "https://www.meetup.com/Open-Eugene/events/rss/",
+        "projects_list_url": "https://github.com/openeugene",
+        "type": "Brigade",
         "city": "Eugene, OR",
         "latitude": "44.0505054",
         "longitude": "-123.0950506",
-        "events_url": "https://www.meetup.com/Open-Eugene/",
         "previous_names": [],
-        "projects_list_url": "",
         "tags": [
             "Brigade",
             "Code for America",
