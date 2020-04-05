@@ -711,13 +711,15 @@
         "longitude": "-87.922497",
         "events_url": "https://www.meetup.com/Code-for-Milwaukee/",
         "previous_names": [],
-        "projects_list_url": "",
+        "projects_list_url": "https://github.com/codeformilwaukee/breakout-groups/issues",
         "tags": [
             "Brigade",
             "Code for America",
             "Official"
         ],
-        "social_profiles": {},
+        "social_profiles": {"twitter":"@codeformke",
+                            "facebook":"https://www.facebook.com/Code-for-Milwaukee-622396371575546/",
+                           "instagram":"@codeformke"},
         "type": "Brigade, Code for America, Official"
     },
     {
