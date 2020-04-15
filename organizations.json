@@ -468,7 +468,9 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {},
+        "social_profiles": {
+            "twitter": "@CodeForCH"
+        },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582281",
         "type": "Brigade, Code for America, Official"
     },
