@@ -428,7 +428,7 @@
         "longitude": "-79.4057743",
         "social_profiles": {
             "facebook": "https://www.facebook.com/code4ca",
-            "twitter": "https://twitter.com/code4ca",
+            "twitter": "@code4ca",
             "youtube": "https://www.youtube.com/channel/UCuZzqz200gV8F0fHJM40pwQ"
         },
         "tags": [
@@ -581,7 +581,7 @@
             "Official"
         ],
         "social_profiles": {
-            "twitter": "Code4Fresno",
+            "twitter": "@Code4Fresno",
             "facebook": "https://www.facebook.com/pg/Code-for-Fresno-2198065663548319/posts/"
         },
         "type": "Brigade, Code for America, Official"
@@ -3546,7 +3546,7 @@
         "social_profiles": {
             "twitter": "@codeforuv",
             "facebook": "https://www.facebook.com/codeforuv/",
-            "instagram": "https://www.instagram.com/codeforuv/?hl=en"
+            "instagram": "@codeforuv"
         }
     }
 ]

@@ -58,6 +58,7 @@ A single organization's record looks like this:
   * `facebook` - The Facebook Page URL
   * `linkedin` - The LinkedIn Page URL
   * `instagram` - The instagram username including `@`.
+  * `youtube` - The URL to a YouTube channel.
 
 Before committing your change, please make sure that there are no formatting issues by running the `bin/format-json` script. (You will need to `brew install jq moreutils` for that script to run.)
 
