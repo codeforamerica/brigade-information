@@ -3528,5 +3528,25 @@
             "Brigade Collaboration",
             "Brigade"
         ]
+    },
+    {
+        "name": "Code for UV",
+        "website": "https://codeforuv.org/",
+        "city": "Bradford, VT",
+        "events_url": "https://calendar.google.com/calendar/r?cid=hhk8mes2a4puf2g8a1ujmb91k4@group.calendar.google.com",
+        "projects_list_url": "https://github.com/codeforUV",
+        "projects_tag": "code-for-uv",
+        "latitude": "43.9926",
+        "longitude": "-72.1290",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "@codeforuv",
+            "facebook": "https://www.facebook.com/codeforuv/",
+            "instagram": "https://www.instagram.com/codeforuv/?hl=en"
+        }
     }
 ]
