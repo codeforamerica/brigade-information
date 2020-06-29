@@ -3126,15 +3126,14 @@
         "city": "San Mateo County, CA",
         "latitude": "37.4889",
         "longitude": "-122.2308773",
-        "type": "Brigade, Code for America, Official",
+        "type": "Brigade, Code for America",
         "social_profiles": {
             "facebook": "https://www.facebook.com/opensmc/",
             "twitter": "@opensmc"
         },
         "tags": [
             "Brigade",
-            "Code for America",
-            "Official"
+            "Code for America"
         ]
     },
     {
