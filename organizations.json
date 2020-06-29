@@ -3530,7 +3530,7 @@
         ]
     },
     {
-        "name": "Code for UV",
+        "name": "Code for Upper Valley",
         "website": "https://codeforuv.org/",
         "city": "Bradford, VT",
         "events_url": "https://calendar.google.com/calendar/r?cid=hhk8mes2a4puf2g8a1ujmb91k4@group.calendar.google.com",
@@ -3547,6 +3547,9 @@
             "twitter": "@codeforuv",
             "facebook": "https://www.facebook.com/codeforuv/",
             "instagram": "@codeforuv"
-        }
+        },
+        "previous_names": [
+            "Code for UV"
+        ]
     }
 ]
