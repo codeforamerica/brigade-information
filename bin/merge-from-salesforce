@@ -19,6 +19,11 @@ from collections import OrderedDict
 # Do a HTTP/HTTPS-insensitive comparison for determining if two URLs are
 # identical.
 def are_urls_equal(url, other):
+    if isinstance(url, str) and not other:
+        return False
+    if isinstance(other, str) and not url:
+        return False
+
     return re.sub(r'^https?://', '', url) == re.sub(r'^https?://', '', other)
 
 
@@ -221,6 +226,9 @@ def update_json_attribute(existing_brigade, attribute, value):
     '''
     if existing_brigade.get(attribute) == value:
         return False
+
+    if isinstance(value, str) and re.match(r'^https?://', value) and are_urls_equal(existing_brigade.get(attribute), value):
+            return False
 
     existing_brigade[attribute] = value
     return True
