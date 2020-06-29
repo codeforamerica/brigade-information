@@ -954,13 +954,14 @@
         "city": "Washington, DC",
         "latitude": "38.9072",
         "longitude": "-77.0365",
-        "type": "Brigade, Code for America, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "social_profiles": {
             "twitter": "@CodeforDC"
         },
         "tags": [
             "Brigade",
             "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
             "Official"
         ]
     },
@@ -1085,16 +1086,18 @@
         "website": "http://c4gnv.com",
         "events_url": "http://www.meetup.com/Code-for-Gainesville/",
         "rss": "",
-        "projects_list_url": "https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv",
+        "projects_list_url": "https://github.com/c4gnv",
         "city": "Gainesville, FL",
         "latitude": "29.651634",
         "longitude": "-82.324826",
-        "type": "Brigade",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@c4gnv"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -1147,7 +1150,7 @@
         "city": "Greensboro, NC",
         "latitude": "36.0690",
         "longitude": "-79.7947",
-        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforgreensboro/",
             "twitter": "@CodeForGSO"
@@ -1155,7 +1158,6 @@
         "tags": [
             "Brigade",
             "Code for America",
-            "Code for America Partner Brigade",
             "Official"
         ]
     },
@@ -1525,7 +1527,7 @@
         "events_url": "https://www.meetup.com/Open-Eugene/",
         "rss": "https://www.meetup.com/Open-Eugene/events/rss/",
         "projects_list_url": "https://github.com/openeugene",
-        "type": "Brigade",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "city": "Eugene, OR",
         "latitude": "44.0505054",
         "longitude": "-123.0950506",
@@ -1533,6 +1535,7 @@
         "tags": [
             "Brigade",
             "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
             "Official"
         ],
         "social_profiles": {}
@@ -1559,14 +1562,14 @@
     },
     {
         "name": "Code for Miami",
-        "website": "https://www.codeformiami.com/",
+        "website": "http://codeformiami.com",
         "events_url": "https://www.meetup.com/code-for-miami/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185",
         "projects_list_url": "https://github.com/Code-for-Miami",
         "city": "Miami, FL",
         "latitude": "25.7890",
         "longitude": "-80.2264",
-        "type": "Brigade, Code for America, Official",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForMiami/",
             "twitter": "@codeformiami"
@@ -1574,6 +1577,7 @@
         "tags": [
             "Brigade",
             "Code for America",
+            "Code for America Partner Brigade",
             "Official"
         ]
     },
@@ -1718,19 +1722,21 @@
     },
     {
         "name": "Code for NoVA",
-        "website": "http://www.meetup.com/Code-for-NoVA/",
+        "website": "http://www.codefornova.org/",
         "events_url": "http://www.meetup.com/Code-for-NoVA/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469492",
         "projects_list_url": "https://github.com/sarl-hackerspace",
-        "city": "Arlington, VA",
-        "latitude": "38.8800",
-        "longitude": "-77.1068",
-        "type": "Brigade",
+        "city": "Alexandria, VA",
+        "latitude": "38.8051095",
+        "longitude": "-77.0470229",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@codenovabrigade"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Code for America",
+            "Official"
         ]
     },
     {
@@ -3540,6 +3546,7 @@
         "tags": [
             "Brigade",
             "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
             "Official"
         ],
         "social_profiles": {
@@ -3549,6 +3556,7 @@
         },
         "previous_names": [
             "Code for UV"
-        ]
+        ],
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
     }
 ]
