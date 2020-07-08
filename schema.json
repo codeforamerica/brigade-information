@@ -134,7 +134,28 @@
         "$id": "#/items/properties/social_profiles",
         "type": "object",
         "title": "Organization Social Profiles",
-        "properties": {}
+        "properties": {
+          "twitter": {
+            "$id": "#/items/properties/social_profiles/properties/twitter",
+            "type": "string",
+            "title": "Twitter Handle",
+            "default": "",
+            "examples": [
+              "@codeforamerica"
+            ],
+            "pattern": "^@[0-9a-zA-Z_]+$"
+          },
+          "instagram": {
+            "$id": "#/items/properties/social_profiles/properties/instagram",
+            "type": "string",
+            "title": "Instagram Handle",
+            "default": "",
+            "examples": [
+              "@codeforamerica"
+            ],
+            "pattern": "^@[0-9a-zA-Z_\\.]+$"
+          }
+        }
       },
       "tags": {
         "$id": "#/items/properties/tags",

@@ -678,7 +678,7 @@
         "longitude": "-79.4057743",
         "social_profiles": {
             "facebook": "https://www.facebook.com/code4ca",
-            "twitter": "https://twitter.com/code4ca",
+            "twitter": "@code4ca",
             "youtube": "https://www.youtube.com/channel/UCuZzqz200gV8F0fHJM40pwQ"
         },
         "tags": [
@@ -732,13 +732,15 @@
         "latitude": "35.9131542",
         "longitude": "-79.05578",
         "events_url": "https://www.meetup.com/Triangle-Code-for-America",
-        "projects_list_url": "",
+        "projects_list_url": "https://github.com/code-for-chapel-hill",
         "tags": [
             "Brigade",
             "Code for America",
             "Official"
         ],
-        "social_profiles": {},
+        "social_profiles": {
+            "twitter": "@CodeForCH"
+        },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582281",
         "type": "Brigade, Code for America, Official",
         "location": {
@@ -909,7 +911,7 @@
             "Official"
         ],
         "social_profiles": {
-            "twitter": "Code4Fresno",
+            "twitter": "@Code4Fresno",
             "facebook": "https://www.facebook.com/pg/Code-for-Fresno-2198065663548319/posts/"
         },
         "type": "Brigade, Code for America, Official",
@@ -1121,14 +1123,12 @@
         "longitude": "-87.922497",
         "events_url": "https://www.meetup.com/Code-for-Milwaukee/",
         "previous_names": [],
-        "projects_list_url": "",
+        "projects_list_url": "https://github.com/codeformilwaukee/breakout-groups/issues",
         "tags": [
             "Brigade",
             "Code for America",
             "Official"
         ],
-        "social_profiles": {},
-        "type": "Brigade, Code for America, Official",
         "location": {
             "city": "Milwaukee",
             "state": "Wisconsin",
@@ -1138,7 +1138,13 @@
                 "latitude": "43.0349931",
                 "longitude": "-87.922497"
             }
-        }
+        },
+        "social_profiles": {
+            "twitter": "@codeformke",
+            "facebook": "https://www.facebook.com/Code-for-Milwaukee-622396371575546/",
+            "instagram": "@codeformke"
+        },
+        "type": "Brigade, Code for America, Official"
     },
     {
         "name": "Code for Montana",
@@ -1488,13 +1494,14 @@
         "city": "Washington, DC",
         "latitude": "38.9072",
         "longitude": "-77.0365",
-        "type": "Brigade, Code for America, Official",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "social_profiles": {
             "twitter": "@CodeforDC"
         },
         "tags": [
             "Brigade",
             "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
             "Official"
         ],
         "location": {
@@ -1699,16 +1706,18 @@
         "website": "http://c4gnv.com",
         "events_url": "http://www.meetup.com/Code-for-Gainesville/",
         "rss": "",
-        "projects_list_url": "https://docs.google.com/spreadsheets/d/15DOB5ctu8aJEkaE1pjBIvRaZBG2wjbpJaUQUa6UL9bM/pub?output=csv",
+        "projects_list_url": "https://github.com/c4gnv",
         "city": "Gainesville, FL",
         "latitude": "29.651634",
         "longitude": "-82.324826",
-        "type": "Brigade",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@c4gnv"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Code for America",
+            "Official"
         ],
         "location": {
             "city": "Gainesville",
@@ -1801,7 +1810,7 @@
         "city": "Greensboro, NC",
         "latitude": "36.0690",
         "longitude": "-79.7947",
-        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/codeforgreensboro/",
             "twitter": "@CodeForGSO"
@@ -1809,7 +1818,6 @@
         "tags": [
             "Brigade",
             "Code for America",
-            "Code for America Partner Brigade",
             "Official"
         ],
         "location": {
@@ -2425,16 +2433,19 @@
     },
     {
         "name": "Open Eugene",
-        "website": "",
+        "website": "http://openeugene.org/",
+        "events_url": "https://www.meetup.com/Open-Eugene/",
+        "rss": "https://www.meetup.com/Open-Eugene/events/rss/",
+        "projects_list_url": "https://github.com/openeugene",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
         "city": "Eugene, OR",
         "latitude": "44.0505054",
         "longitude": "-123.0950506",
-        "events_url": "https://www.meetup.com/Open-Eugene/",
         "previous_names": [],
-        "projects_list_url": "",
         "tags": [
             "Brigade",
             "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
             "Official"
         ],
         "social_profiles": {},
@@ -2481,14 +2492,14 @@
     },
     {
         "name": "Code for Miami",
-        "website": "https://www.codeformiami.com/",
+        "website": "http://codeformiami.com",
         "events_url": "https://www.meetup.com/code-for-miami/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185",
         "projects_list_url": "https://github.com/Code-for-Miami",
         "city": "Miami, FL",
         "latitude": "25.7890",
         "longitude": "-80.2264",
-        "type": "Brigade, Code for America, Official",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
         "social_profiles": {
             "facebook": "https://www.facebook.com/CodeForMiami/",
             "twitter": "@codeformiami"
@@ -2496,6 +2507,7 @@
         "tags": [
             "Brigade",
             "Code for America",
+            "Code for America Partner Brigade",
             "Official"
         ],
         "location": {
@@ -2730,19 +2742,21 @@
     },
     {
         "name": "Code for NoVA",
-        "website": "http://www.meetup.com/Code-for-NoVA/",
+        "website": "http://www.codefornova.org/",
         "events_url": "http://www.meetup.com/Code-for-NoVA/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469492",
         "projects_list_url": "https://github.com/sarl-hackerspace",
-        "city": "Arlington, VA",
-        "latitude": "38.8800",
-        "longitude": "-77.1068",
-        "type": "Brigade",
+        "city": "Alexandria, VA",
+        "latitude": "38.8051095",
+        "longitude": "-77.0470229",
+        "type": "Brigade, Code for America, Official",
         "social_profiles": {
             "twitter": "@codenovabrigade"
         },
         "tags": [
-            "Brigade"
+            "Brigade",
+            "Code for America",
+            "Official"
         ],
         "location": {
             "city": "Alexandria",
@@ -5022,15 +5036,14 @@
         "city": "San Mateo County, CA",
         "latitude": "37.4889",
         "longitude": "-122.2308773",
-        "type": "Brigade, Code for America, Official",
+        "type": "Brigade, Code for America",
         "social_profiles": {
             "facebook": "https://www.facebook.com/opensmc/",
             "twitter": "@opensmc"
         },
         "tags": [
             "Brigade",
-            "Code for America",
-            "Official"
+            "Code for America"
         ],
         "location": {
             "city": "San Mateo County",
@@ -5657,10 +5670,11 @@
         "website": "",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSRLgFqu8pavGV_3qNZ2MuSbN-DXvk9mD9pR-MbNpNrfwMh_MSVZpAitia_qBrR2jC2KxYruZtMO-I-/pub?gid=0&single=true&output=csv",
         "city": "San Francisco, CA",
-        "type": "Government",
+        "type": "Brigade",
         "tags": [
             "Temporary",
-            "Brigade Collaboration"
+            "Brigade Collaboration",
+            "Code for America"
         ],
         "location": {
             "city": "San Francisco",
@@ -5669,5 +5683,30 @@
             "continent": "North America",
             "coordinates": {}
         }
+    },
+    {
+        "name": "Code for Upper Valley",
+        "website": "https://codeforuv.org/",
+        "city": "Bradford, VT",
+        "events_url": "https://calendar.google.com/calendar/r?cid=hhk8mes2a4puf2g8a1ujmb91k4@group.calendar.google.com",
+        "projects_list_url": "https://github.com/codeforUV",
+        "projects_tag": "code-for-uv",
+        "latitude": "43.9926",
+        "longitude": "-72.1290",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Code for America Fiscally Sponsored Brigade",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "@codeforuv",
+            "facebook": "https://www.facebook.com/codeforuv/",
+            "instagram": "@codeforuv"
+        },
+        "previous_names": [
+            "Code for UV"
+        ],
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
     }
 ]
