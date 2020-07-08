@@ -15,7 +15,6 @@
         "location": {
             "city": "San Francisco",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -40,7 +39,6 @@
         "location": {
             "city": "Akron",
             "state": "Ohio",
-            "state_abbrev": "OH",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -66,7 +64,6 @@
         "location": {
             "city": "Ann Arbor",
             "state": "Michigan",
-            "state_abbrev": "MI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -97,7 +94,6 @@
         "location": {
             "city": "New York",
             "state": "New York",
-            "state_abbrev": "NY",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -122,7 +118,6 @@
         "location": {
             "city": "Oakland",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -148,7 +143,6 @@
         "location": {
             "city": "Chicago",
             "state": "Illinois",
-            "state_abbrev": "IL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -174,7 +168,6 @@
         "location": {
             "city": "Chicago",
             "state": "Illinois",
-            "state_abbrev": "IL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -199,7 +192,6 @@
         "location": {
             "city": "Helsinki",
             "state": "",
-            "state_abbrev": "",
             "country": "Finland",
             "continent": "Europe",
             "coordinates": {
@@ -224,7 +216,6 @@
         "location": {
             "city": "Toronto",
             "state": "",
-            "state_abbrev": "",
             "country": "Canada",
             "continent": "North America",
             "coordinates": {
@@ -255,7 +246,6 @@
         "location": {
             "city": "Albuquerque",
             "state": "New Mexico",
-            "state_abbrev": "NM",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -279,7 +269,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "",
             "continent": "Africa",
             "coordinates": {
@@ -305,7 +294,6 @@
         "location": {
             "city": "Aizuwakamatsu",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -329,7 +317,6 @@
         "location": {
             "city": "San Francisco",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -360,7 +347,6 @@
         "location": {
             "city": "Anchorage",
             "state": "Alaska",
-            "state_abbrev": "AK",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -391,7 +377,6 @@
         "location": {
             "city": "Asheville",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -422,7 +407,6 @@
         "location": {
             "city": "Atlanta",
             "state": "Georgia",
-            "state_abbrev": "GA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -446,7 +430,6 @@
         "location": {
             "city": "Melbourne",
             "state": "",
-            "state_abbrev": "",
             "country": "Australia",
             "continent": "Australia",
             "coordinates": {
@@ -474,7 +457,6 @@
         "location": {
             "city": "Bryan-College Station",
             "state": "Texas",
-            "state_abbrev": "TX",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -502,7 +484,6 @@
         "location": {
             "city": "Birmingham",
             "state": "Alabama",
-            "state_abbrev": "AL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -536,7 +517,6 @@
         "location": {
             "city": "Bloomington",
             "state": "Indiana",
-            "state_abbrev": "IN",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -567,7 +547,6 @@
         "location": {
             "city": "Boston",
             "state": "Massachusetts",
-            "state_abbrev": "MA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -597,7 +576,6 @@
         "location": {
             "city": "Boulder",
             "state": "Colorado",
-            "state_abbrev": "CO",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -621,7 +599,6 @@
         "location": {
             "city": "Curitiba",
             "state": "",
-            "state_abbrev": "",
             "country": "Brazil",
             "continent": "South America",
             "coordinates": {
@@ -653,7 +630,6 @@
         "location": {
             "city": "Burlington",
             "state": "Vermont",
-            "state_abbrev": "VT",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -684,7 +660,6 @@
         "location": {
             "city": "Buffalo",
             "state": "New York",
-            "state_abbrev": "NY",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -713,7 +688,6 @@
         "location": {
             "city": "Toronto",
             "state": "",
-            "state_abbrev": "",
             "country": "Canada",
             "continent": "North America",
             "coordinates": {
@@ -743,7 +717,6 @@
         "location": {
             "city": "Cary",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -771,7 +744,6 @@
         "location": {
             "city": "Chapel Hill",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -798,7 +770,6 @@
         "location": {
             "city": "Charlottesville",
             "state": "Virginia",
-            "state_abbrev": "VA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -829,7 +800,6 @@
         "location": {
             "city": "Chicago",
             "state": "Illinois",
-            "state_abbrev": "IL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -864,7 +834,6 @@
         "location": {
             "city": "Columbus",
             "state": "Ohio",
-            "state_abbrev": "OH",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -891,7 +860,6 @@
         "location": {
             "city": "Hartford",
             "state": "Connecticut",
-            "state_abbrev": "CT",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -918,7 +886,6 @@
         "location": {
             "city": "Dallas",
             "state": "Texas",
-            "state_abbrev": "TX",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -949,7 +916,6 @@
         "location": {
             "city": "Fresno",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -977,7 +943,6 @@
         "location": {
             "city": "Hackensack",
             "state": "New Jersey",
-            "state_abbrev": "NJ",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1004,7 +969,6 @@
         "location": {
             "city": "Indianapolis",
             "state": "Indiana",
-            "state_abbrev": "IN",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1032,7 +996,6 @@
         "location": {
             "city": "Iowa City",
             "state": "Iowa",
-            "state_abbrev": "IA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1063,7 +1026,6 @@
         "location": {
             "city": "Louisville",
             "state": "Kentucky",
-            "state_abbrev": "KY",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1089,7 +1051,6 @@
         "location": {
             "city": "Kissimmee",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1116,7 +1077,6 @@
         "location": {
             "city": "Lansing",
             "state": "Michigan",
-            "state_abbrev": "MI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1145,7 +1105,6 @@
         "location": {
             "city": "Las Vegas",
             "state": "Nevada",
-            "state_abbrev": "NV",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1173,7 +1132,6 @@
         "location": {
             "city": "Milwaukee",
             "state": "Wisconsin",
-            "state_abbrev": "WI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1200,7 +1158,6 @@
         "location": {
             "city": "Missoula",
             "state": "Montana",
-            "state_abbrev": "MT",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1228,7 +1185,6 @@
         "location": {
             "city": "San Juan",
             "state": "Puerto Rico",
-            "state_abbrev": "",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1256,7 +1212,6 @@
         "location": {
             "city": "Santa Rosa",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1285,7 +1240,6 @@
         "location": {
             "city": "Syracuse",
             "state": "New York",
-            "state_abbrev": "NY",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1319,7 +1273,6 @@
         "location": {
             "city": "Salt Lake City",
             "state": "Utah",
-            "state_abbrev": "UT",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1353,7 +1306,6 @@
         "location": {
             "city": "Los Angeles",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1387,7 +1339,6 @@
         "location": {
             "city": "Kansas City",
             "state": "Missouri",
-            "state_abbrev": "MO",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1418,7 +1369,6 @@
         "location": {
             "city": "Charlotte",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1443,7 +1393,6 @@
         "location": {
             "city": "Chofu",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -1468,7 +1417,6 @@
         "location": {
             "city": "Zagreb",
             "state": "",
-            "state_abbrev": "",
             "country": "Croatia",
             "continent": "Europe",
             "coordinates": {
@@ -1493,7 +1441,6 @@
         "location": {
             "city": "Curitiba",
             "state": "",
-            "state_abbrev": "",
             "country": "Brazil",
             "continent": "South America",
             "coordinates": {
@@ -1524,7 +1471,6 @@
         "location": {
             "city": "Dayton",
             "state": "Ohio",
-            "state_abbrev": "OH",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1554,7 +1500,6 @@
         "location": {
             "city": "Washington",
             "state": "Washington DC",
-            "state_abbrev": "DC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1585,7 +1530,6 @@
         "location": {
             "city": "Denver",
             "state": "Colorado",
-            "state_abbrev": "CO",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1611,7 +1555,6 @@
         "location": {
             "city": "Detroit",
             "state": "Michigan",
-            "state_abbrev": "MI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1642,7 +1585,6 @@
         "location": {
             "city": "Durham",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1667,7 +1609,6 @@
         "location": {
             "city": "Eau Claire",
             "state": "Wisconsin",
-            "state_abbrev": "WI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1691,7 +1632,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "",
             "continent": "Europe",
             "coordinates": {
@@ -1722,7 +1662,6 @@
         "location": {
             "city": "Fort Lauderdale",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1747,7 +1686,6 @@
         "location": {
             "city": "Fukuoka",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -1775,7 +1713,6 @@
         "location": {
             "city": "Gainesville",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1799,7 +1736,6 @@
         "location": {
             "city": "Berlin",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -1824,7 +1760,6 @@
         "location": {
             "city": "Accra",
             "state": "",
-            "state_abbrev": "",
             "country": "Ghana",
             "continent": "Africa",
             "coordinates": {
@@ -1849,7 +1784,6 @@
         "location": {
             "city": "Gifu",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -1881,7 +1815,6 @@
         "location": {
             "city": "Greensboro",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1912,7 +1845,6 @@
         "location": {
             "city": "Virginia Beach",
             "state": "Virginia",
-            "state_abbrev": "VA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1943,7 +1875,6 @@
         "location": {
             "city": "Honolulu",
             "state": "Hawaii",
-            "state_abbrev": "HI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1969,7 +1900,6 @@
         "location": {
             "city": "Homestead",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -1998,7 +1928,6 @@
         "location": {
             "city": "Muskogee",
             "state": "Oklahoma",
-            "state_abbrev": "OK",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2028,7 +1957,6 @@
         "location": {
             "city": "Portland",
             "state": "Oregon",
-            "state_abbrev": "OR",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2053,7 +1981,6 @@
         "location": {
             "city": "Brownsville",
             "state": "Texas",
-            "state_abbrev": "TX",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2078,7 +2005,6 @@
         "location": {
             "city": "Huntsville",
             "state": "Alabama",
-            "state_abbrev": "AL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2103,7 +2029,6 @@
         "location": {
             "city": "Ibaraki",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2128,7 +2053,6 @@
         "location": {
             "city": "Ikoma",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2150,7 +2074,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "Ireland",
             "continent": "Europe",
             "coordinates": {
@@ -2175,7 +2098,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2203,7 +2125,6 @@
         "location": {
             "city": "Jersey City",
             "state": "New Jersey",
-            "state_abbrev": "NJ",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2228,7 +2149,6 @@
         "location": {
             "city": "Yokohama",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2253,7 +2173,6 @@
         "location": {
             "city": "Kanazawa",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2278,7 +2197,6 @@
         "location": {
             "city": "Kaohsiung",
             "state": "",
-            "state_abbrev": "",
             "country": "Taiwan",
             "continent": "Asia",
             "coordinates": {
@@ -2303,7 +2221,6 @@
         "location": {
             "city": "Kashiwa",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2328,7 +2245,6 @@
         "location": {
             "city": "Kawasaki",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2353,7 +2269,6 @@
         "location": {
             "city": "Nairobi",
             "state": "",
-            "state_abbrev": "",
             "country": "Kenya",
             "continent": "Africa",
             "coordinates": {
@@ -2379,7 +2294,6 @@
         "location": {
             "city": "Kobe",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2403,7 +2317,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "Poland",
             "continent": "Europe",
             "coordinates": {
@@ -2428,7 +2341,6 @@
         "location": {
             "city": "Gdansk",
             "state": "",
-            "state_abbrev": "",
             "country": "Poland",
             "continent": "Europe",
             "coordinates": {
@@ -2453,7 +2365,6 @@
         "location": {
             "city": "Warsaw",
             "state": "",
-            "state_abbrev": "",
             "country": "Poland",
             "continent": "Europe",
             "coordinates": {
@@ -2479,7 +2390,6 @@
         "location": {
             "city": "Wroclaw",
             "state": "",
-            "state_abbrev": "",
             "country": "Poland",
             "continent": "Europe",
             "coordinates": {
@@ -2505,7 +2415,6 @@
         "location": {
             "city": "Katowice",
             "state": "",
-            "state_abbrev": "",
             "country": "Poland",
             "continent": "Europe",
             "coordinates": {
@@ -2532,7 +2441,6 @@
         "location": {
             "city": "Eugene",
             "state": "Oregon",
-            "state_abbrev": "OR",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2563,7 +2471,6 @@
         "location": {
             "city": "Portland",
             "state": "Maine",
-            "state_abbrev": "ME",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2594,7 +2501,6 @@
         "location": {
             "city": "Miami",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2619,7 +2525,6 @@
         "location": {
             "city": "Nagareyama",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2644,7 +2549,6 @@
         "location": {
             "city": "Nanto",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2674,7 +2578,6 @@
         "location": {
             "city": "Nashville",
             "state": "Tennessee",
-            "state_abbrev": "TN",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2702,7 +2605,6 @@
         "location": {
             "city": "Manchester",
             "state": "New Hampshire",
-            "state_abbrev": "NH",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2733,7 +2635,6 @@
         "location": {
             "city": "New Orleans",
             "state": "Louisiana",
-            "state_abbrev": "LA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2764,7 +2665,6 @@
         "location": {
             "city": "Radford",
             "state": "Virginia",
-            "state_abbrev": "VA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2796,7 +2696,6 @@
         "location": {
             "city": "Newark",
             "state": "New Jersey",
-            "state_abbrev": "NJ",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2821,7 +2720,6 @@
         "location": {
             "city": "Lagos",
             "state": "",
-            "state_abbrev": "",
             "country": "Nigeria",
             "continent": "Africa",
             "coordinates": {
@@ -2849,7 +2747,6 @@
         "location": {
             "city": "Alexandria",
             "state": "Virginia",
-            "state_abbrev": "VA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2874,7 +2771,6 @@
         "location": {
             "city": "Okinawa",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -2905,7 +2801,6 @@
         "location": {
             "city": "Orlando",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2931,7 +2826,6 @@
         "location": {
             "city": "Lahore",
             "state": "",
-            "state_abbrev": "",
             "country": "Pakistan",
             "continent": "Asia",
             "coordinates": {
@@ -2963,7 +2857,6 @@
         "location": {
             "city": "Philadelphia",
             "state": "Pennsylvania",
-            "state_abbrev": "PA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -2988,7 +2881,6 @@
         "location": {
             "city": "Ponta Grossa",
             "state": "",
-            "state_abbrev": "",
             "country": "Brazil",
             "continent": "South America",
             "coordinates": {
@@ -3012,7 +2904,6 @@
         "location": {
             "city": "Bucharest",
             "state": "",
-            "state_abbrev": "",
             "country": "Romania",
             "continent": "Europe",
             "coordinates": {
@@ -3037,7 +2928,6 @@
         "location": {
             "city": "Cluj-Napoca",
             "state": "",
-            "state_abbrev": "",
             "country": "Romania",
             "continent": "Europe",
             "coordinates": {
@@ -3062,7 +2952,6 @@
         "location": {
             "city": "Iasi",
             "state": "",
-            "state_abbrev": "",
             "country": "Romania",
             "continent": "Europe",
             "coordinates": {
@@ -3090,7 +2979,6 @@
         "location": {
             "city": "Greensboro",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3122,7 +3010,6 @@
         "location": {
             "city": "Raleigh",
             "state": "North Carolina",
-            "state_abbrev": "NC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3147,7 +3034,6 @@
         "location": {
             "city": "Rockford",
             "state": "Illinois",
-            "state_abbrev": "IL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3172,7 +3058,6 @@
         "location": {
             "city": "Richmond",
             "state": "Virginia",
-            "state_abbrev": "VA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3204,7 +3089,6 @@
         "location": {
             "city": "Sacramento",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3229,7 +3113,6 @@
         "location": {
             "city": "Saga",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -3254,7 +3137,6 @@
         "location": {
             "city": "Saitama",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -3285,7 +3167,6 @@
         "location": {
             "city": "San Francisco",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3316,7 +3197,6 @@
         "location": {
             "city": "San Jose",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3341,7 +3221,6 @@
         "location": {
             "city": "Sapporo",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -3366,7 +3245,6 @@
         "location": {
             "city": "Shiogama",
             "state": "",
-            "state_abbrev": "",
             "country": "Japan",
             "continent": "Asia",
             "coordinates": {
@@ -3394,7 +3272,6 @@
         "location": {
             "city": "Walnut Creek",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3418,7 +3295,6 @@
         "location": {
             "city": "Cape Town",
             "state": "",
-            "state_abbrev": "",
             "country": "South Africa",
             "continent": "Africa",
             "coordinates": {
@@ -3444,7 +3320,6 @@
         "location": {
             "city": "Akron",
             "state": "Ohio",
-            "state_abbrev": "OH",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3472,7 +3347,6 @@
         "location": {
             "city": "Tallahassee",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3503,7 +3377,6 @@
         "location": {
             "city": "Tampa Bay",
             "state": "Florida",
-            "state_abbrev": "FL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3527,7 +3400,6 @@
         "location": {
             "city": "Kingston",
             "state": "",
-            "state_abbrev": "",
             "country": "Jamaica",
             "continent": "South America",
             "coordinates": {
@@ -3551,7 +3423,6 @@
         "location": {
             "city": "Amsterdam",
             "state": "",
-            "state_abbrev": "",
             "country": "Netherlands",
             "continent": "Europe",
             "coordinates": {
@@ -3575,7 +3446,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "Taiwan",
             "continent": "Asia",
             "coordinates": {
@@ -3605,7 +3475,6 @@
         "location": {
             "city": "Tucson",
             "state": "Arizona",
-            "state_abbrev": "AZ",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3637,7 +3506,6 @@
         "location": {
             "city": "Tulsa",
             "state": "Oklahoma",
-            "state_abbrev": "OK",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3662,7 +3530,6 @@
         "location": {
             "city": "Tuscaloosa",
             "state": "Alabama",
-            "state_abbrev": "AL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3687,7 +3554,6 @@
         "location": {
             "city": "Vancouver",
             "state": "",
-            "state_abbrev": "",
             "country": "Canada",
             "continent": "North America",
             "coordinates": {
@@ -3718,7 +3584,6 @@
         "location": {
             "city": "Providence",
             "state": "Rhode Island",
-            "state_abbrev": "RI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3743,7 +3608,6 @@
         "location": {
             "city": "San Juan",
             "state": "Puerto Rico",
-            "state_abbrev": "",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3767,7 +3631,6 @@
         "location": {
             "city": "Mexico City",
             "state": "",
-            "state_abbrev": "",
             "country": "Mexico",
             "continent": "North America",
             "coordinates": {
@@ -3791,7 +3654,6 @@
         "location": {
             "city": "Seoul",
             "state": "",
-            "state_abbrev": "",
             "country": "South Korea",
             "continent": "Asia",
             "coordinates": {
@@ -3815,7 +3677,6 @@
         "location": {
             "city": "Mexico City",
             "state": "",
-            "state_abbrev": "",
             "country": "Mexico",
             "continent": "North America",
             "coordinates": {
@@ -3840,7 +3701,6 @@
         "location": {
             "city": "San Francisco",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3865,7 +3725,6 @@
         "location": {
             "city": "Washington",
             "state": "Washington DC",
-            "state_abbrev": "DC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3890,7 +3749,6 @@
         "location": {
             "city": "Detroit",
             "state": "Michigan",
-            "state_abbrev": "MI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3916,7 +3774,6 @@
         "location": {
             "city": "Chicago",
             "state": "Illinois",
-            "state_abbrev": "IL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3944,7 +3801,6 @@
         "location": {
             "city": "Dekalb",
             "state": "Illinois",
-            "state_abbrev": "IL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3972,7 +3828,6 @@
         "location": {
             "city": "Toledo",
             "state": "Ohio",
-            "state_abbrev": "OH",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -3997,7 +3852,6 @@
         "location": {
             "city": "Taipei",
             "state": "",
-            "state_abbrev": "",
             "country": "Taiwan",
             "continent": "Asia",
             "coordinates": {
@@ -4027,7 +3881,6 @@
         "location": {
             "city": "South Bend",
             "state": "Indiana",
-            "state_abbrev": "IN",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4053,7 +3906,6 @@
         "location": {
             "city": "Madison",
             "state": "Wisconsin",
-            "state_abbrev": "WI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4076,7 +3928,6 @@
         "location": {
             "city": "South Lake Tahoe",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4100,7 +3951,6 @@
         "location": {
             "city": "Monterrey",
             "state": "",
-            "state_abbrev": "",
             "country": "Mexico",
             "continent": "North America",
             "coordinates": {
@@ -4125,7 +3975,6 @@
         "location": {
             "city": "Wellington",
             "state": "",
-            "state_abbrev": "",
             "country": "New Zealand",
             "continent": "Australia",
             "coordinates": {
@@ -4150,7 +3999,6 @@
         "location": {
             "city": "London",
             "state": "",
-            "state_abbrev": "",
             "country": "United Kingdom",
             "continent": "Europe",
             "coordinates": {
@@ -4176,7 +4024,6 @@
         "location": {
             "city": "Berlin",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4202,7 +4049,6 @@
         "location": {
             "city": "Bonn",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4228,7 +4074,6 @@
         "location": {
             "city": "Chemnitz",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4254,7 +4099,6 @@
         "location": {
             "city": "Dresden",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4280,7 +4124,6 @@
         "location": {
             "city": "Frankfurt",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4306,7 +4149,6 @@
         "location": {
             "city": "Gießen",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4332,7 +4174,6 @@
         "location": {
             "city": "Hamburg",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4358,7 +4199,6 @@
         "location": {
             "city": "Heilbronn",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4384,7 +4224,6 @@
         "location": {
             "city": "Jena",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4410,7 +4249,6 @@
         "location": {
             "city": "Karlsruhe",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4436,7 +4274,6 @@
         "location": {
             "city": "Cologne",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4462,7 +4299,6 @@
         "location": {
             "city": "Leipzig",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4488,7 +4324,6 @@
         "location": {
             "city": "Madgeburg",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4514,7 +4349,6 @@
         "location": {
             "city": "Munich",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4540,7 +4374,6 @@
         "location": {
             "city": "Muenster",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4566,7 +4399,6 @@
         "location": {
             "city": "Stuttgart",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4592,7 +4424,6 @@
         "location": {
             "city": "Ulm",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4618,7 +4449,6 @@
         "location": {
             "city": "Wuppertal",
             "state": "",
-            "state_abbrev": "",
             "country": "Germany",
             "continent": "Europe",
             "coordinates": {
@@ -4650,7 +4480,6 @@
         "location": {
             "city": "Austin",
             "state": "Texas",
-            "state_abbrev": "TX",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4674,7 +4503,6 @@
         "location": {
             "city": "Brasília",
             "state": "",
-            "state_abbrev": "",
             "country": "Brazil",
             "continent": "South America",
             "coordinates": {
@@ -4699,7 +4527,6 @@
         "location": {
             "city": "Chattanooga",
             "state": "Tennessee",
-            "state_abbrev": "TN",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4729,7 +4556,6 @@
         "location": {
             "city": "Cleveland",
             "state": "Ohio",
-            "state_abbrev": "OH",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4752,7 +4578,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "",
             "continent": "Global",
             "coordinates": {}
@@ -4780,7 +4605,6 @@
         "location": {
             "city": "St. Louis",
             "state": "Missouri",
-            "state_abbrev": "MO",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4805,7 +4629,6 @@
         "location": {
             "city": "Edmonton",
             "state": "",
-            "state_abbrev": "",
             "country": "Canada",
             "continent": "North America",
             "coordinates": {
@@ -4828,7 +4651,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "",
             "continent": "Global",
             "coordinates": {}
@@ -4853,7 +4675,6 @@
         "location": {
             "city": "Indianapolis",
             "state": "Indiana",
-            "state_abbrev": "IN",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4881,7 +4702,6 @@
         "location": {
             "city": "Lexington",
             "state": "Kentucky",
-            "state_abbrev": "KY",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4907,7 +4727,6 @@
         "location": {
             "city": "Omaha",
             "state": "Nebraska",
-            "state_abbrev": "NE",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4938,7 +4757,6 @@
         "location": {
             "city": "Oakland",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4968,7 +4786,6 @@
         "location": {
             "city": "Pittsburgh",
             "state": "Pennsylvania",
-            "state_abbrev": "PA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -4993,7 +4810,6 @@
         "location": {
             "city": "San Antonio",
             "state": "Texas",
-            "state_abbrev": "TX",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5023,7 +4839,6 @@
         "location": {
             "city": "San Diego",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5054,7 +4869,6 @@
         "location": {
             "city": "Savannah",
             "state": "Georgia",
-            "state_abbrev": "GA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5085,7 +4899,6 @@
         "location": {
             "city": "Seattle",
             "state": "Washington",
-            "state_abbrev": "WA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5110,7 +4923,6 @@
         "location": {
             "city": "Syracuse",
             "state": "New York",
-            "state_abbrev": "NY",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5141,7 +4953,6 @@
         "location": {
             "city": "Minneapolis",
             "state": "Minnesota",
-            "state_abbrev": "MN",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5170,7 +4981,6 @@
         "location": {
             "city": "Wichita",
             "state": "Kansas",
-            "state_abbrev": "KS",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5195,7 +5005,6 @@
         "location": {
             "city": "Zagreb",
             "state": "",
-            "state_abbrev": "",
             "country": "Croatia",
             "continent": "Europe",
             "coordinates": {
@@ -5226,7 +5035,6 @@
         "location": {
             "city": "San Mateo County",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5251,7 +5059,6 @@
         "location": {
             "city": "",
             "state": "",
-            "state_abbrev": "",
             "country": "",
             "continent": "Global",
             "coordinates": {
@@ -5276,7 +5083,6 @@
         "location": {
             "city": "Washington",
             "state": "Washington DC",
-            "state_abbrev": "DC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5301,7 +5107,6 @@
         "location": {
             "city": "Washington",
             "state": "Washington DC",
-            "state_abbrev": "DC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5327,7 +5132,6 @@
         "location": {
             "city": "Chicago",
             "state": "Illinois",
-            "state_abbrev": "IL",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5352,7 +5156,6 @@
         "location": {
             "city": "Washington",
             "state": "Washington DC",
-            "state_abbrev": "DC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5377,7 +5180,6 @@
         "location": {
             "city": "New York",
             "state": "New York",
-            "state_abbrev": "NY",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5402,7 +5204,6 @@
         "location": {
             "city": "Oakland",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5425,7 +5226,6 @@
         "location": {
             "city": "Missoula",
             "state": "Montana",
-            "state_abbrev": "MT",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5454,7 +5254,6 @@
         "location": {
             "city": "Milwaukee",
             "state": "Wisconsin",
-            "state_abbrev": "WI",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5479,7 +5278,6 @@
         "location": {
             "city": "Florianópolis",
             "state": "",
-            "state_abbrev": "",
             "country": "Brazil",
             "continent": "South America",
             "coordinates": {
@@ -5510,7 +5308,6 @@
         "location": {
             "city": "Baltimore",
             "state": "Maryland",
-            "state_abbrev": "MD",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5538,7 +5335,6 @@
         "location": {
             "city": "Berkeley",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5569,7 +5365,6 @@
         "location": {
             "city": "Fort Collins",
             "state": "Colorado",
-            "state_abbrev": "CO",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5599,7 +5394,6 @@
         "location": {
             "city": "Greenville",
             "state": "South Carolina",
-            "state_abbrev": "SC",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5627,7 +5421,6 @@
         "location": {
             "city": "Oklahoma City",
             "state": "Oklahoma",
-            "state_abbrev": "OK",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5658,7 +5451,6 @@
         "location": {
             "city": "Phoenix",
             "state": "Arizona",
-            "state_abbrev": "AZ",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5686,7 +5478,6 @@
         "location": {
             "city": "Princeton",
             "state": "New Jersey",
-            "state_abbrev": "NJ",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5718,7 +5509,6 @@
         "location": {
             "city": "Wilmington",
             "state": "Delaware",
-            "state_abbrev": "DE",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5746,7 +5536,6 @@
         "location": {
             "city": "Denton",
             "state": "Texas",
-            "state_abbrev": "TX",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5777,7 +5566,6 @@
         "location": {
             "city": "Houston",
             "state": "Texas",
-            "state_abbrev": "TX",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5807,7 +5595,6 @@
         "location": {
             "city": "Boise",
             "state": "Idaho",
-            "state_abbrev": "ID",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5831,7 +5618,6 @@
         "location": {
             "city": "Atlanta",
             "state": "Georgia",
-            "state_abbrev": "GA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5858,7 +5644,6 @@
         "location": {
             "city": "Atlanta",
             "state": "Georgia",
-            "state_abbrev": "GA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {
@@ -5880,7 +5665,6 @@
         "location": {
             "city": "San Francisco",
             "state": "California",
-            "state_abbrev": "CA",
             "country": "USA",
             "continent": "North America",
             "coordinates": {}
