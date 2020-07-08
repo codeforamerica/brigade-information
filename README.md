@@ -13,6 +13,16 @@ A single organization's record looks like this:
     "name": "Beta NYC",
     "website": "http://www.beta.nyc",
     "city": "New York, NY",
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "continent": "North America",
+      "coordinates": {
+        "latitude": "40.7144",
+        "longitude": "-74.0060"
+      }
+    },
     "events_url": "http://www.meetup.com/BetaNYC/",
     "rss": "http://betanyc.tumblr.com/",
     "projects_list_url": "http://projects.betanyc.us/projects",
@@ -34,7 +44,15 @@ A single organization's record looks like this:
 
 * **`name`** (Required) - The name of your organization. (Cannot contain `- / ?` characters.)
 * **`website`** (Required) - The web address of your organization. Leave empty if none.
-* **`city`** (Required) - The city of the organization.
+* **`city`** (DEPRECATED) - The city of the organization.  This field is deprecated in favor of **`location`**.
+* **`location`** (Optional) - An object with keys about the geography of your organization.
+  * `city`
+  * `state` - the state or province of your organization
+  * `country`
+  * `continent`
+  * `coordinates` - in decimal degrees
+    * `latitude`
+    * `longitude`
 * **`tags`** (Required) - An array of descriptors for your group.
   Some commonly used tags are:
   * `Brigade`

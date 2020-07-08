@@ -11,7 +11,17 @@
         "type": "Government",
         "tags": [
             "Government"
-        ]
+        ],
+        "location": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.7759",
+                "longitude": "-122.4137"
+            }
+        }
     },
     {
         "name": "Akron Civic Hackathon",
@@ -25,7 +35,17 @@
         "type": "midwest",
         "tags": [
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Akron",
+            "state": "Ohio",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.0761",
+                "longitude": "-81.5217"
+            }
+        }
     },
     {
         "name": "Ann Arbor Civic Technology Meetup",
@@ -40,7 +60,17 @@
         "tags": [
             "Brigade",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Ann Arbor",
+            "state": "Michigan",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "42.2808",
+                "longitude": "-83.7430"
+            }
+        }
     },
     {
         "name": "BetaNYC",
@@ -60,6 +90,16 @@
         ],
         "social_profiles": {
             "facebook": "https://www.facebook.com/BetaNYC/"
+        },
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.7144",
+                "longitude": "-74.0060"
+            }
         }
     },
     {
@@ -74,7 +114,17 @@
         "type": "Brigade Collaboration",
         "tags": [
             "Brigade Collaboration"
-        ]
+        ],
+        "location": {
+            "city": "Oakland",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.166111",
+                "longitude": "-119.449444"
+            }
+        }
     },
     {
         "name": "Chi Hack Night",
@@ -89,7 +139,17 @@
         "tags": [
             "Brigade",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.8781",
+                "longitude": "-87.6298"
+            }
+        }
     },
     {
         "name": "City of Chicago Department of Innovation and Technology",
@@ -104,7 +164,17 @@
         "tags": [
             "Government",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.8781",
+                "longitude": "-87.6298"
+            }
+        }
     },
     {
         "name": "City of Helsinki",
@@ -118,7 +188,17 @@
         "type": "Government",
         "tags": [
             "Government"
-        ]
+        ],
+        "location": {
+            "city": "Helsinki",
+            "state": "",
+            "country": "Finland",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "60.16799112034094",
+                "longitude": "24.948300559109786"
+            }
+        }
     },
     {
         "name": "Civic Tech Toronto",
@@ -132,7 +212,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Toronto",
+            "state": "",
+            "country": "Canada",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.653484",
+                "longitude": "-79.384093"
+            }
+        }
     },
     {
         "name": "Code for ABQ",
@@ -152,7 +242,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Albuquerque",
+            "state": "New Mexico",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.0824",
+                "longitude": "-106.6765"
+            }
+        }
     },
     {
         "name": "Code for Africa",
@@ -165,7 +265,17 @@
         "longitude": "25.4224",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "",
+            "continent": "Africa",
+            "coordinates": {
+                "latitude": "4.1651",
+                "longitude": "25.4224"
+            }
+        }
     },
     {
         "name": "Code for Aizu",
@@ -180,7 +290,17 @@
         "tags": [
             "Brigade",
             "Code for Japan"
-        ]
+        ],
+        "location": {
+            "city": "Aizuwakamatsu",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "37.4896",
+                "longitude": "139.9300"
+            }
+        }
     },
     {
         "name": "Code for America",
@@ -193,7 +313,17 @@
         "longitude": "-122.4137",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.7759",
+                "longitude": "-122.4137"
+            }
+        }
     },
     {
         "name": "Code for Anchorage",
@@ -213,7 +343,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Anchorage",
+            "state": "Alaska",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "61.2181",
+                "longitude": "-149.9003"
+            }
+        }
     },
     {
         "name": "Code for Asheville",
@@ -233,7 +373,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Asheville",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.5951",
+                "longitude": "-82.5515"
+            }
+        }
     },
     {
         "name": "Code for Atlanta",
@@ -253,7 +403,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "33.7490",
+                "longitude": "-84.3880"
+            }
+        }
     },
     {
         "name": "Code for Australia",
@@ -266,7 +426,17 @@
         "longitude": "144.9550",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Melbourne",
+            "state": "",
+            "country": "Australia",
+            "continent": "Australia",
+            "coordinates": {
+                "latitude": "-37.8132",
+                "longitude": "144.9550"
+            }
+        }
     },
     {
         "name": "Code for BCS",
@@ -283,7 +453,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037971404",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Bryan-College Station",
+            "state": "Texas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "30.6253463",
+                "longitude": "-96.3271538"
+            }
+        }
     },
     {
         "name": "Code for Birmingham",
@@ -300,7 +480,17 @@
         },
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Birmingham",
+            "state": "Alabama",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "33.5207",
+                "longitude": "-86.8118"
+            }
+        }
     },
     {
         "name": "Code for Bloomington",
@@ -323,7 +513,17 @@
             "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
         },
         "type": "Brigade, Code for America, Official",
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582955"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582955",
+        "location": {
+            "city": "Bloomington",
+            "state": "Indiana",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.1670396",
+                "longitude": "-86.5342881"
+            }
+        }
     },
     {
         "name": "Code for Boston",
@@ -343,7 +543,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "42.3584",
+                "longitude": "-71.0598"
+            }
+        }
     },
     {
         "name": "Code for Boulder",
@@ -362,7 +572,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Boulder",
+            "state": "Colorado",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.0176",
+                "longitude": "-105.2797"
+            }
+        }
     },
     {
         "name": "Code for Brazil",
@@ -375,7 +595,17 @@
         "longitude": "-49.2874",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Curitiba",
+            "state": "",
+            "country": "Brazil",
+            "continent": "South America",
+            "coordinates": {
+                "latitude": "-25.4952",
+                "longitude": "-49.2874"
+            }
+        }
     },
     {
         "name": "Code for BTV",
@@ -396,7 +626,17 @@
             "Code for America",
             "Code for America Fiscally Sponsored Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Burlington",
+            "state": "Vermont",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "44.4759",
+                "longitude": "-73.2121"
+            }
+        }
     },
     {
         "name": "Code for Buffalo",
@@ -416,7 +656,17 @@
             "twitter": "@CodeForBuffalo"
         },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927491288",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Buffalo",
+            "state": "New York",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "42.8867166",
+                "longitude": "-78.8783922"
+            }
+        }
     },
     {
         "name": "Code for Canada",
@@ -434,7 +684,17 @@
         "tags": [
             "Fellowship",
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Toronto",
+            "state": "",
+            "country": "Canada",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.6557286",
+                "longitude": "-79.4057743"
+            }
+        }
     },
     {
         "name": "Code for Cary",
@@ -453,7 +713,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Cary",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.7915",
+                "longitude": "-78.7811"
+            }
+        }
     },
     {
         "name": "Code for Chapel Hill",
@@ -472,7 +742,17 @@
             "twitter": "@CodeForCH"
         },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582281",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Chapel Hill",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.9131542",
+                "longitude": "-79.05578"
+            }
+        }
     },
     {
         "name": "Code for Charlottesville",
@@ -488,7 +768,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Charlottesville",
+            "state": "Virginia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.029306",
+                "longitude": "-78.4766781"
+            }
+        }
     },
     {
         "name": "Code for Chicago",
@@ -508,6 +798,16 @@
         ],
         "social_profiles": {
             "twitter": "@open_uptown"
+        },
+        "location": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.8755616",
+                "longitude": "-87.6244212"
+            }
         }
     },
     {
@@ -532,7 +832,17 @@
             "facebook": "https://www.facebook.com/opencolumbus/",
             "linkedin": "https://www.linkedin.com/company/opencolumbus/"
         },
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Columbus",
+            "state": "Ohio",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.9622601",
+                "longitude": "-83.0007065"
+            }
+        }
     },
     {
         "name": "Code for Connecticut",
@@ -548,7 +858,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Hartford",
+            "state": "Connecticut",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.764582",
+                "longitude": "-72.6908547"
+            }
+        }
     },
     {
         "name": "Code for Dallas",
@@ -564,7 +884,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Dallas",
+            "state": "Texas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "32.7762719",
+                "longitude": "-96.7968559"
+            }
+        }
     },
     {
         "name": "Code for Fresno",
@@ -584,7 +914,17 @@
             "twitter": "@Code4Fresno",
             "facebook": "https://www.facebook.com/pg/Code-for-Fresno-2198065663548319/posts/"
         },
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Fresno",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "36.7295295",
+                "longitude": "-119.708861261"
+            }
+        }
     },
     {
         "name": "Code for Hackensack",
@@ -601,7 +941,17 @@
             "Official"
         ],
         "social_profiles": {},
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Hackensack",
+            "state": "New Jersey",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.8859326",
+                "longitude": "-74.0434736"
+            }
+        }
     },
     {
         "name": "Code for Indianapolis",
@@ -617,7 +967,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.7683331",
+                "longitude": "-86.1583502"
+            }
+        }
     },
     {
         "name": "Code for Iowa",
@@ -634,7 +994,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927492620",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Iowa City",
+            "state": "Iowa",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.6612561",
+                "longitude": "-91.5299106"
+            }
+        }
     },
     {
         "name": "Code for Kentuckiana",
@@ -654,7 +1024,17 @@
             "twitter": "@CodeForKYana"
         },
         "rss": "https://codeforkentuckiana.org/feed.xml",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Louisville",
+            "state": "Kentucky",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.2542376",
+                "longitude": "-85.759407"
+            }
+        }
     },
     {
         "name": "Code for Kissimmee",
@@ -669,7 +1049,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037972973",
-        "type": "Brigade"
+        "type": "Brigade",
+        "location": {
+            "city": "Kissimmee",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "28.2918995",
+                "longitude": "-81.4075838"
+            }
+        }
     },
     {
         "name": "Code for Lansing",
@@ -685,7 +1075,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Lansing",
+            "state": "Michigan",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "42.7337712",
+                "longitude": "-84.5553805"
+            }
+        }
     },
     {
         "name": "Code for Las Vegas",
@@ -703,7 +1103,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Las Vegas",
+            "state": "Nevada",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "36.1662859",
+                "longitude": "-115.149225"
+            }
+        }
     },
     {
         "name": "Code for Milwaukee",
@@ -719,6 +1129,16 @@
             "Code for America",
             "Official"
         ],
+        "location": {
+            "city": "Milwaukee",
+            "state": "Wisconsin",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.0349931",
+                "longitude": "-87.922497"
+            }
+        },
         "social_profiles": {
             "twitter": "@codeformke",
             "facebook": "https://www.facebook.com/Code-for-Milwaukee-622396371575546/",
@@ -740,7 +1160,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Missoula",
+            "state": "Montana",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "46.8700801",
+                "longitude": "-113.9952796"
+            }
+        }
     },
     {
         "name": "Code for Puerto Rico",
@@ -757,7 +1187,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "San Juan",
+            "state": "Puerto Rico",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "18.465488",
+                "longitude": "-66.116781"
+            }
+        }
     },
     {
         "name": "Code for Sonoma County",
@@ -774,7 +1214,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467581",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Santa Rosa",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.4392588",
+                "longitude": "-122.7148742"
+            }
+        }
     },
     {
         "name": "Code for Syracuse",
@@ -792,6 +1242,16 @@
         ],
         "social_profiles": {
             "twitter": "@CodeForSyracuse"
+        },
+        "location": {
+            "city": "Syracuse",
+            "state": "New York",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.0481221",
+                "longitude": "-76.1474244"
+            }
         }
     },
     {
@@ -815,7 +1275,17 @@
             "facebook": "https://www.facebook.com/opensaltlakeutah/"
         },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974453",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.7670126",
+                "longitude": "-111.8904308"
+            }
+        }
     },
     {
         "name": "Hack for LA Brigade",
@@ -838,7 +1308,17 @@
             "twitter": "@hackforLA",
             "facebook": "https://www.facebook.com/hackforla"
         },
-        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "location": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "34.0536834",
+                "longitude": "-118.2427669"
+            }
+        }
     },
     {
         "name": "KC Digital Drive",
@@ -861,7 +1341,17 @@
             "twitter": "@codeforkc",
             "facebook": "https://www.facebook.com/codeforkc"
         },
-        "type": "Brigade, Code for America, Code for America Partner Brigade, Official"
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "location": {
+            "city": "Kansas City",
+            "state": "Missouri",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.100105",
+                "longitude": "-94.5781416"
+            }
+        }
     },
     {
         "name": "Open Charlotte Brigade",
@@ -881,7 +1371,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Charlotte",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.2032",
+                "longitude": "-80.8395"
+            }
+        }
     },
     {
         "name": "Code for Chofu",
@@ -895,7 +1395,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Chofu",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "35.6471",
+                "longitude": "139.5439"
+            }
+        }
     },
     {
         "name": "Code for Croatia",
@@ -909,7 +1419,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Zagreb",
+            "state": "",
+            "country": "Croatia",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "45.7930",
+                "longitude": "15.9464"
+            }
+        }
     },
     {
         "name": "Code for Curitiba",
@@ -923,7 +1443,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Curitiba",
+            "state": "",
+            "country": "Brazil",
+            "continent": "South America",
+            "coordinates": {
+                "latitude": "-25.4952",
+                "longitude": "-49.2874"
+            }
+        }
     },
     {
         "name": "Code for Dayton",
@@ -943,7 +1473,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Dayton",
+            "state": "Ohio",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.7589",
+                "longitude": "-84.1916"
+            }
+        }
     },
     {
         "name": "Code for DC",
@@ -963,7 +1503,17 @@
             "Code for America",
             "Code for America Fiscally Sponsored Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Washington",
+            "state": "Washington DC",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.9072",
+                "longitude": "-77.0365"
+            }
+        }
     },
     {
         "name": "Code for Denver",
@@ -983,7 +1533,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Denver",
+            "state": "Colorado",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.7392",
+                "longitude": "-104.9847"
+            }
+        }
     },
     {
         "name": "Code for Detroit",
@@ -998,7 +1558,17 @@
         "tags": [
             "Brigade",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Detroit",
+            "state": "Michigan",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "42.3314",
+                "longitude": "-83.0458"
+            }
+        }
     },
     {
         "name": "Code for Durham",
@@ -1018,7 +1588,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Durham",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.9940",
+                "longitude": "-78.8986"
+            }
+        }
     },
     {
         "name": "Code for Eau Claire",
@@ -1032,7 +1612,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Eau Claire",
+            "state": "Wisconsin",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "44.8113",
+                "longitude": "-91.4985"
+            }
+        }
     },
     {
         "name": "Code for Europe",
@@ -1045,7 +1635,17 @@
         "longitude": "4.3781",
         "tags": [
             "Fellowship"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.8427",
+                "longitude": "4.3781"
+            }
+        }
     },
     {
         "name": "Code for Fort Lauderdale",
@@ -1065,7 +1665,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Fort Lauderdale",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "26.1237",
+                "longitude": "-80.1436"
+            }
+        }
     },
     {
         "name": "Code for Fukuoka",
@@ -1079,7 +1689,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Fukuoka",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "33.5840",
+                "longitude": "130.4129"
+            }
+        }
     },
     {
         "name": "Code for Gainesville",
@@ -1098,7 +1718,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Gainesville",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "29.651634",
+                "longitude": "-82.324826"
+            }
+        }
     },
     {
         "name": "Code for Germany",
@@ -1111,7 +1741,17 @@
         "longitude": "13.4061",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Berlin",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "52.5192",
+                "longitude": "13.4061"
+            }
+        }
     },
     {
         "name": "Code for Ghana",
@@ -1125,7 +1765,17 @@
         "tags": [
             "Code for All",
             "Code for All Affiliate"
-        ]
+        ],
+        "location": {
+            "city": "Accra",
+            "state": "",
+            "country": "Ghana",
+            "continent": "Africa",
+            "coordinates": {
+                "latitude": "5.5811",
+                "longitude": "-0.1990"
+            }
+        }
     },
     {
         "name": "Code for Gifu",
@@ -1139,7 +1789,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Gifu",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "35.4102",
+                "longitude": "136.7678"
+            }
+        }
     },
     {
         "name": "Code for Greensboro",
@@ -1159,7 +1819,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Greensboro",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "36.0690",
+                "longitude": "-79.7947"
+            }
+        }
     },
     {
         "name": "Code for Hampton Roads",
@@ -1179,7 +1849,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Virginia Beach",
+            "state": "Virginia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "36.8470",
+                "longitude": "-76.2922"
+            }
+        }
     },
     {
         "name": "Code for Hawaii",
@@ -1199,7 +1879,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Honolulu",
+            "state": "Hawaii",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "21.3069",
+                "longitude": "-157.8583"
+            }
+        }
     },
     {
         "name": "Code for Homestead",
@@ -1214,7 +1904,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735585158",
-        "type": "Brigade"
+        "type": "Brigade",
+        "location": {
+            "city": "Homestead",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "25.4718946",
+                "longitude": "-80.4759905"
+            }
+        }
     },
     {
         "name": "Code for Muskogee",
@@ -1232,7 +1932,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469291",
-        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "location": {
+            "city": "Muskogee",
+            "state": "Oklahoma",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.7478769",
+                "longitude": "-95.3696909"
+            }
+        }
     },
     {
         "name": "Code for PDX",
@@ -1251,7 +1961,17 @@
             "twitter": "@codeForPDX"
         },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974945",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Portland",
+            "state": "Oregon",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "45.5202471",
+                "longitude": "-122.6741949"
+            }
+        }
     },
     {
         "name": "Code for RGV (Rio Grande Valley)",
@@ -1265,7 +1985,17 @@
             "Brigade"
         ],
         "social_profiles": {},
-        "type": "Brigade"
+        "type": "Brigade",
+        "location": {
+            "city": "Brownsville",
+            "state": "Texas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "25.9140256",
+                "longitude": "-97.4890856"
+            }
+        }
     },
     {
         "name": "Code the South",
@@ -1279,7 +2009,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Huntsville",
+            "state": "Alabama",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "34.7014",
+                "longitude": "-86.6597"
+            }
+        }
     },
     {
         "name": "Code for Ibaraki",
@@ -1293,7 +2033,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Ibaraki",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "36.3072",
+                "longitude": "140.3920"
+            }
+        }
     },
     {
         "name": "Code for Ikoma",
@@ -1307,7 +2057,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Ikoma",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "34.6920",
+                "longitude": "135.7006"
+            }
+        }
     },
     {
         "name": "Code for Ireland",
@@ -1318,7 +2078,17 @@
         "city": "Ireland",
         "latitude": "53.35124084081707",
         "longitude": "-6.257201628137899",
-        "tags": []
+        "tags": [],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Ireland",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "53.35124084081707",
+                "longitude": "-6.257201628137899"
+            }
+        }
     },
     {
         "name": "Code for Japan",
@@ -1332,7 +2102,17 @@
         "tags": [
             "Brigade",
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "36.2048",
+                "longitude": "138.2529"
+            }
+        }
     },
     {
         "name": "Code for Jersey City",
@@ -1349,7 +2129,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.7280556",
+                "longitude": "-74.0780556"
+            }
+        }
     },
     {
         "name": "Code for Kanagawa",
@@ -1363,7 +2153,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Yokohama",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "35.4662",
+                "longitude": "139.6227"
+            }
+        }
     },
     {
         "name": "Code for Kanazawa",
@@ -1377,7 +2177,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Kanazawa",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "36.5750",
+                "longitude": "136.6469"
+            }
+        }
     },
     {
         "name": "Code for Kaohsiung",
@@ -1391,7 +2201,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Kaohsiung",
+            "state": "",
+            "country": "Taiwan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "22.9737",
+                "longitude": "120.6124"
+            }
+        }
     },
     {
         "name": "Code for Kashiwa",
@@ -1405,7 +2225,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Kashiwa",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "35.8614",
+                "longitude": "139.9801"
+            }
+        }
     },
     {
         "name": "Code for Kawasaki",
@@ -1419,7 +2249,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Kawasaki",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "35.5309",
+                "longitude": "139.7030"
+            }
+        }
     },
     {
         "name": "Code for Kenya",
@@ -1433,7 +2273,17 @@
         "tags": [
             "Code for All",
             "Code for All Affiliate"
-        ]
+        ],
+        "location": {
+            "city": "Nairobi",
+            "state": "",
+            "country": "Kenya",
+            "continent": "Africa",
+            "coordinates": {
+                "latitude": "-1.2993",
+                "longitude": "36.7654"
+            }
+        }
     },
     {
         "name": "Code for Kobe",
@@ -1448,7 +2298,17 @@
         "tags": [
             "Brigade",
             "Code for Japan"
-        ]
+        ],
+        "location": {
+            "city": "Kobe",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "34.6954",
+                "longitude": "135.197"
+            }
+        }
     },
     {
         "name": "Code for Poland",
@@ -1461,7 +2321,17 @@
         "longitude": "19.226414",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Poland",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "52.361947",
+                "longitude": "19.226414"
+            }
+        }
     },
     {
         "name": "Code for Tricity",
@@ -1475,7 +2345,17 @@
         "tags": [
             "Brigade",
             "Code for Poland"
-        ]
+        ],
+        "location": {
+            "city": "Gdansk",
+            "state": "",
+            "country": "Poland",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "54.4046788",
+                "longitude": "18.5738181"
+            }
+        }
     },
     {
         "name": "Code for Warsaw",
@@ -1489,7 +2369,17 @@
         "tags": [
             "Brigade",
             "Code for Poland"
-        ]
+        ],
+        "location": {
+            "city": "Warsaw",
+            "state": "",
+            "country": "Poland",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "52.2287",
+                "longitude": "21.0063"
+            }
+        }
     },
     {
         "name": "Code for Wroclaw",
@@ -1504,7 +2394,17 @@
         "tags": [
             "Brigade",
             "Code for Poland"
-        ]
+        ],
+        "location": {
+            "city": "Wroclaw",
+            "state": "",
+            "country": "Poland",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "51.1063798",
+                "longitude": "17.0121528"
+            }
+        }
     },
     {
         "name": "Code for Silesia",
@@ -1519,7 +2419,17 @@
         "tags": [
             "Brigade",
             "Code for Poland"
-        ]
+        ],
+        "location": {
+            "city": "Katowice",
+            "state": "",
+            "country": "Poland",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.2638531",
+                "longitude": "18.9935899"
+            }
+        }
     },
     {
         "name": "Open Eugene",
@@ -1538,7 +2448,17 @@
             "Code for America Fiscally Sponsored Brigade",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Eugene",
+            "state": "Oregon",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "44.0505054",
+                "longitude": "-123.0950506"
+            }
+        }
     },
     {
         "name": "Open Maine",
@@ -1558,7 +2478,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Portland",
+            "state": "Maine",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.6562513",
+                "longitude": "-70.2633551"
+            }
+        }
     },
     {
         "name": "Code for Miami",
@@ -1579,7 +2509,17 @@
             "Code for America",
             "Code for America Partner Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Miami",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "25.7890",
+                "longitude": "-80.2264"
+            }
+        }
     },
     {
         "name": "Code for Nagareyama",
@@ -1593,7 +2533,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Nagareyama",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "35.8586",
+                "longitude": "139.9116"
+            }
+        }
     },
     {
         "name": "Code for Nanto",
@@ -1607,7 +2557,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Nanto",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "36.5905",
+                "longitude": "136.9289"
+            }
+        }
     },
     {
         "name": "Code for Nashville",
@@ -1626,7 +2586,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Nashville",
+            "state": "Tennessee",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "36.1678",
+                "longitude": "-86.7782"
+            }
+        }
     },
     {
         "name": "Code for New Hampshire",
@@ -1643,7 +2613,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Manchester",
+            "state": "New Hampshire",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.008663",
+                "longitude": "-71.454391"
+            }
+        }
     },
     {
         "name": "Code for New Orleans",
@@ -1663,7 +2643,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "New Orleans",
+            "state": "Louisiana",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "29.951992",
+                "longitude": "-90.077055"
+            }
+        }
     },
     {
         "name": "Code for New River Valley",
@@ -1683,7 +2673,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Radford",
+            "state": "Virginia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.1317924",
+                "longitude": "-80.5764477"
+            }
+        }
     },
     {
         "name": "Code for Newark",
@@ -1704,7 +2704,17 @@
             "Code for America",
             "Code for America Partner Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Newark",
+            "state": "New Jersey",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.7320",
+                "longitude": "-74.1742"
+            }
+        }
     },
     {
         "name": "Code for Nigeria",
@@ -1718,7 +2728,17 @@
         "tags": [
             "Code for All",
             "Code for All Affiliate"
-        ]
+        ],
+        "location": {
+            "city": "Lagos",
+            "state": "",
+            "country": "Nigeria",
+            "continent": "Africa",
+            "coordinates": {
+                "latitude": "6.6016",
+                "longitude": "3.3969"
+            }
+        }
     },
     {
         "name": "Code for NoVA",
@@ -1737,7 +2757,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Alexandria",
+            "state": "Virginia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.8800",
+                "longitude": "-77.1068"
+            }
+        }
     },
     {
         "name": "Code for Okinawa",
@@ -1751,7 +2781,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Okinawa",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "26.2124",
+                "longitude": "127.6809"
+            }
+        }
     },
     {
         "name": "Code for Orlando",
@@ -1771,7 +2811,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Orlando",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "28.538335",
+                "longitude": "-81.379236"
+            }
+        }
     },
     {
         "name": "Code for Pakistan",
@@ -1786,7 +2836,17 @@
             "Brigade",
             "Fellowship",
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Lahore",
+            "state": "",
+            "country": "Pakistan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "31.5451",
+                "longitude": "74.3407"
+            }
+        }
     },
     {
         "name": "Code for Philly",
@@ -1807,7 +2867,17 @@
             "Code for America",
             "Code for America Fiscally Sponsored Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.9523",
+                "longitude": "-75.1638"
+            }
+        }
     },
     {
         "name": "Code for Ponta Grossa",
@@ -1821,7 +2891,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Ponta Grossa",
+            "state": "",
+            "country": "Brazil",
+            "continent": "South America",
+            "coordinates": {
+                "latitude": "-25.1294",
+                "longitude": "-50.2040"
+            }
+        }
     },
     {
         "name": "Code for Romania",
@@ -1834,7 +2914,17 @@
         "longitude": "26.096306",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Bucharest",
+            "state": "",
+            "country": "Romania",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "44.439663",
+                "longitude": "26.096306"
+            }
+        }
     },
     {
         "name": "Code for Romania: Cluj Chapter",
@@ -1848,7 +2938,17 @@
         "tags": [
             "Brigade",
             "Code for Romania"
-        ]
+        ],
+        "location": {
+            "city": "Cluj-Napoca",
+            "state": "",
+            "country": "Romania",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "46.770439",
+                "longitude": "23.591423"
+            }
+        }
     },
     {
         "name": "Code for Romania: Iasi Chapter",
@@ -1862,7 +2962,17 @@
         "tags": [
             "Brigade",
             "Code for Romania"
-        ]
+        ],
+        "location": {
+            "city": "Iasi",
+            "state": "",
+            "country": "Romania",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "47.151726",
+                "longitude": "27.587914"
+            }
+        }
     },
     {
         "name": "Open NC Collaborative",
@@ -1879,7 +2989,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646224343",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Greensboro",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.6729639",
+                "longitude": "-79.0392919"
+            }
+        }
     },
     {
         "name": "Open Raleigh Brigade",
@@ -1900,7 +3020,17 @@
             "Code for America",
             "Code for America Fiscally Sponsored Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.7721",
+                "longitude": "-78.6386"
+            }
+        }
     },
     {
         "name": "Code for Rockford",
@@ -1914,7 +3044,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Rockford",
+            "state": "Illinois",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "42.2669",
+                "longitude": "-89.0783"
+            }
+        }
     },
     {
         "name": "Code for RVA",
@@ -1928,7 +3068,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Richmond",
+            "state": "Virginia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.5407",
+                "longitude": "-77.4336"
+            }
+        }
     },
     {
         "name": "Code for Sacramento",
@@ -1949,7 +3099,17 @@
             "Code for America",
             "Code for America Fiscally Sponsored Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Sacramento",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.5816",
+                "longitude": "-121.4944"
+            }
+        }
     },
     {
         "name": "Code for Saga",
@@ -1963,7 +3123,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Saga",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "33.2487",
+                "longitude": "130.3010"
+            }
+        }
     },
     {
         "name": "Code for Saitama",
@@ -1977,7 +3147,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Saitama",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "35.9985",
+                "longitude": "139.3496"
+            }
+        }
     },
     {
         "name": "Code for San Francisco",
@@ -1997,7 +3177,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.7749",
+                "longitude": "-122.4194"
+            }
+        }
     },
     {
         "name": "Code for San Jose",
@@ -2017,7 +3207,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "San Jose",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.3386",
+                "longitude": "-121.8856"
+            }
+        }
     },
     {
         "name": "Code for Sapporo",
@@ -2031,7 +3231,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Sapporo",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "43.0553",
+                "longitude": "141.3455"
+            }
+        }
     },
     {
         "name": "Code for Shiogama",
@@ -2045,7 +3255,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Shiogama",
+            "state": "",
+            "country": "Japan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "38.3014",
+                "longitude": "141.0273"
+            }
+        }
     },
     {
         "name": "Open Walnut Creek",
@@ -2062,7 +3282,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681791",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Walnut Creek",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.9020731",
+                "longitude": "-122.0618702"
+            }
+        }
     },
     {
         "name": "OpenUp",
@@ -2075,7 +3305,17 @@
         "longitude": "18.4212",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Cape Town",
+            "state": "",
+            "country": "South Africa",
+            "continent": "Africa",
+            "coordinates": {
+                "latitude": "-33.9205",
+                "longitude": "18.4212"
+            }
+        }
     },
     {
         "name": "Code for Summit County",
@@ -2090,7 +3330,17 @@
         "tags": [
             "Brigade",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Akron",
+            "state": "Ohio",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.0814",
+                "longitude": "-81.5190"
+            }
+        }
     },
     {
         "name": "Code for Tallahassee",
@@ -2107,7 +3357,17 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {}
+        "social_profiles": {},
+        "location": {
+            "city": "Tallahassee",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "30.4380556",
+                "longitude": "-84.2808333"
+            }
+        }
     },
     {
         "name": "Code for Tampa Bay",
@@ -2127,7 +3387,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Tampa Bay",
+            "state": "Florida",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "27.9465",
+                "longitude": "-82.4593"
+            }
+        }
     },
     {
         "name": "SlashRoots Foundation",
@@ -2140,7 +3410,17 @@
         "longitude": "-76.7882",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Kingston",
+            "state": "",
+            "country": "Jamaica",
+            "continent": "South America",
+            "coordinates": {
+                "latitude": "17.9710",
+                "longitude": "-76.7882"
+            }
+        }
     },
     {
         "name": "Code for NL",
@@ -2153,7 +3433,17 @@
         "longitude": "4.900291",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Amsterdam",
+            "state": "",
+            "country": "Netherlands",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "52.372807",
+                "longitude": "4.900291"
+            }
+        }
     },
     {
         "name": "Code for Tomorrow",
@@ -2166,7 +3456,17 @@
         "longitude": "121.0211",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "Taiwan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "23.5531",
+                "longitude": "121.0211"
+            }
+        }
     },
     {
         "name": "Code for Tucson",
@@ -2185,7 +3485,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Tucson",
+            "state": "Arizona",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "32.2216",
+                "longitude": "-110.9698"
+            }
+        }
     },
     {
         "name": "Code for Tulsa",
@@ -2206,7 +3516,17 @@
             "Code for America",
             "Code for America Fiscally Sponsored Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Tulsa",
+            "state": "Oklahoma",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "36.1540",
+                "longitude": "-95.9928"
+            }
+        }
     },
     {
         "name": "Code for Tuscaloosa",
@@ -2220,7 +3540,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Tuscaloosa",
+            "state": "Alabama",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "33.2105",
+                "longitude": "-87.5659"
+            }
+        }
     },
     {
         "name": "Code for Vancouver",
@@ -2234,7 +3564,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Vancouver",
+            "state": "",
+            "country": "Canada",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "49.2811",
+                "longitude": "-123.0440"
+            }
+        }
     },
     {
         "name": "Code Island",
@@ -2254,7 +3594,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Providence",
+            "state": "Rhode Island",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.4887",
+                "longitude": "-71.4543"
+            }
+        }
     },
     {
         "name": "Code4PuertoRico",
@@ -2268,7 +3618,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "San Juan",
+            "state": "Puerto Rico",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "18.4661",
+                "longitude": "-66.1160"
+            }
+        }
     },
     {
         "name": "Codeando México",
@@ -2281,7 +3641,17 @@
         "longitude": "-102.5375",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Mexico City",
+            "state": "",
+            "country": "Mexico",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "23.6267",
+                "longitude": "-102.5375"
+            }
+        }
     },
     {
         "name": "CodeNamu",
@@ -2294,7 +3664,17 @@
         "longitude": "127.0165",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Seoul",
+            "state": "",
+            "country": "South Korea",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "37.5150",
+                "longitude": "127.0165"
+            }
+        }
     },
     {
         "name": "Codigo para la Ciudad de Mexico",
@@ -2307,7 +3687,17 @@
         "longitude": "-99.1332",
         "tags": [
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Mexico City",
+            "state": "",
+            "country": "Mexico",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "19.4320",
+                "longitude": "-99.1332"
+            }
+        }
     },
     {
         "name": "Data SF",
@@ -2321,7 +3711,17 @@
         "type": "Government",
         "tags": [
             "Government"
-        ]
+        ],
+        "location": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.7759",
+                "longitude": "-122.4137"
+            }
+        }
     },
     {
         "name": "Data.gov",
@@ -2335,7 +3735,17 @@
         "type": "Government",
         "tags": [
             "Government"
-        ]
+        ],
+        "location": {
+            "city": "Washington",
+            "state": "Washington DC",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.9072",
+                "longitude": "-77.0365"
+            }
+        }
     },
     {
         "name": "Detroit Water Project",
@@ -2349,7 +3759,17 @@
         "type": "partner",
         "tags": [
             "partner"
-        ]
+        ],
+        "location": {
+            "city": "Detroit",
+            "state": "Michigan",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "42.3314",
+                "longitude": "-83.0458"
+            }
+        }
     },
     {
         "name": "FreeGeekChicago",
@@ -2364,7 +3784,17 @@
         "tags": [
             "partner",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.8781",
+                "longitude": "-87.6298"
+            }
+        }
     },
     {
         "name": "Northern Illinois University (Tech Bark)",
@@ -2381,7 +3811,17 @@
             "Brigade"
         ],
         "type": "Brigade",
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652409353"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652409353",
+        "location": {
+            "city": "Dekalb",
+            "state": "Illinois",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.9294736",
+                "longitude": "-88.7503647"
+            }
+        }
     },
     {
         "name": "Open Toledo",
@@ -2398,7 +3838,17 @@
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681296",
-        "type": "Brigade, Code for America, Official"
+        "type": "Brigade, Code for America, Official",
+        "location": {
+            "city": "Toledo",
+            "state": "Ohio",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.6786754",
+                "longitude": "-83.5127283"
+            }
+        }
     },
     {
         "name": "g0v.tw",
@@ -2412,7 +3862,17 @@
         "tags": [
             "Brigade",
             "Code for All"
-        ]
+        ],
+        "location": {
+            "city": "Taipei",
+            "state": "",
+            "country": "Taiwan",
+            "continent": "Asia",
+            "coordinates": {
+                "latitude": "25.0478",
+                "longitude": "121.5319"
+            }
+        }
     },
     {
         "name": "Hack Michiana",
@@ -2431,6 +3891,16 @@
         ],
         "social_profiles": {
             "facebook": "https://www.facebook.com/groups/HackMichiana/"
+        },
+        "location": {
+            "city": "South Bend",
+            "state": "Indiana",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.6764",
+                "longitude": "-86.2520"
+            }
         }
     },
     {
@@ -2446,7 +3916,17 @@
         "tags": [
             "Brigade",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Madison",
+            "state": "Wisconsin",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.0731",
+                "longitude": "-89.4012"
+            }
+        }
     },
     {
         "name": "Hack Tahoe",
@@ -2458,7 +3938,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "South Lake Tahoe",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.096849",
+                "longitude": "-120.032351"
+            }
+        }
     },
     {
         "name": "Hacking Monterrey",
@@ -2471,7 +3961,17 @@
         "longitude": "-100.3031",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Monterrey",
+            "state": "",
+            "country": "Mexico",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "25.6488",
+                "longitude": "-100.3031"
+            }
+        }
     },
     {
         "name": "Loomio",
@@ -2485,7 +3985,17 @@
         "type": "Partner",
         "tags": [
             "Partner"
-        ]
+        ],
+        "location": {
+            "city": "Wellington",
+            "state": "",
+            "country": "New Zealand",
+            "continent": "Australia",
+            "coordinates": {
+                "latitude": "-41.2866",
+                "longitude": "174.7755"
+            }
+        }
     },
     {
         "name": "mySociety",
@@ -2499,7 +4009,17 @@
         "type": "Partner",
         "tags": [
             "Partner"
-        ]
+        ],
+        "location": {
+            "city": "London",
+            "state": "",
+            "country": "United Kingdom",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "51.62264036083571",
+                "longitude": "-0.105290718469565"
+            }
+        }
     },
     {
         "name": "OK Lab Berlin",
@@ -2514,7 +4034,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Berlin",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "52.5167",
+                "longitude": "13.3833"
+            }
+        }
     },
     {
         "name": "OK Lab Bonn",
@@ -2529,7 +4059,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Bonn",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.7374",
+                "longitude": "7.0982"
+            }
+        }
     },
     {
         "name": "OK Lab Chemnitz",
@@ -2544,7 +4084,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Chemnitz",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.8333",
+                "longitude": "12.9167"
+            }
+        }
     },
     {
         "name": "OK Lab Dresden",
@@ -2559,7 +4109,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Dresden",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "51.0333",
+                "longitude": "13.7333"
+            }
+        }
     },
     {
         "name": "OK Lab Frankfurt",
@@ -2574,7 +4134,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Frankfurt",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.1109",
+                "longitude": "8.6821"
+            }
+        }
     },
     {
         "name": "OK Lab Gießen",
@@ -2589,7 +4159,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Gießen",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.5871",
+                "longitude": "8.6909"
+            }
+        }
     },
     {
         "name": "Code for Hamburg",
@@ -2604,7 +4184,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Hamburg",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "53.54762",
+                "longitude": "9.97776"
+            }
+        }
     },
     {
         "name": "OK Lab Heilbronn",
@@ -2619,7 +4209,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Heilbronn",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "49.1500",
+                "longitude": "9.2167"
+            }
+        }
     },
     {
         "name": "OK Lab Jena",
@@ -2634,7 +4234,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Jena",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.9271",
+                "longitude": "11.5892"
+            }
+        }
     },
     {
         "name": "OK Lab Karlsruhe",
@@ -2649,7 +4259,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Karlsruhe",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "49.0069",
+                "longitude": "8.4037"
+            }
+        }
     },
     {
         "name": "OK Lab Köln",
@@ -2664,7 +4284,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Cologne",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "50.9500",
+                "longitude": "6.9667"
+            }
+        }
     },
     {
         "name": "OK Lab Leipzig",
@@ -2679,7 +4309,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Leipzig",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "51.3333",
+                "longitude": "12.3833"
+            }
+        }
     },
     {
         "name": "OK Lab Magdeburg",
@@ -2694,7 +4334,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Madgeburg",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "52.1205",
+                "longitude": "11.6276"
+            }
+        }
     },
     {
         "name": "OK Lab München",
@@ -2709,7 +4359,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Munich",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "48.1333",
+                "longitude": "11.5667"
+            }
+        }
     },
     {
         "name": "OK Lab Münster",
@@ -2724,7 +4384,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Muenster",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "51.9667",
+                "longitude": "7.6333"
+            }
+        }
     },
     {
         "name": "OK Lab Stuttgart",
@@ -2739,7 +4409,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Stuttgart",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "48.7786",
+                "longitude": "9.1794"
+            }
+        }
     },
     {
         "name": "OK Lab Ulm",
@@ -2754,7 +4434,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Ulm",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "48.4000",
+                "longitude": "9.9833"
+            }
+        }
     },
     {
         "name": "OK Lab Wuppertal",
@@ -2769,7 +4459,17 @@
         "tags": [
             "Brigade",
             "OK Lab"
-        ]
+        ],
+        "location": {
+            "city": "Wuppertal",
+            "state": "",
+            "country": "Germany",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "51.2562",
+                "longitude": "7.1508"
+            }
+        }
     },
     {
         "name": "Open Austin",
@@ -2790,7 +4490,17 @@
             "Code for America",
             "Code for America Partner Brigade",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Austin",
+            "state": "Texas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "30.2672",
+                "longitude": "-97.7431"
+            }
+        }
     },
     {
         "name": "Open Brazil",
@@ -2803,7 +4513,17 @@
         "longitude": "-47.8834",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Brasília",
+            "state": "",
+            "country": "Brazil",
+            "continent": "South America",
+            "coordinates": {
+                "latitude": "-15.7930",
+                "longitude": "-47.8834"
+            }
+        }
     },
     {
         "name": "Open Chattanooga",
@@ -2817,7 +4537,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Chattanooga",
+            "state": "Tennessee",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.0456",
+                "longitude": "-85.3097"
+            }
+        }
     },
     {
         "name": "Open Cleveland",
@@ -2836,7 +4566,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.5047",
+                "longitude": "-81.6907"
+            }
+        }
     },
     {
         "name": "Open Data Standards",
@@ -2848,7 +4588,14 @@
         "type": "Project",
         "tags": [
             "Project"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "",
+            "continent": "Global",
+            "coordinates": {}
+        }
     },
     {
         "name": "OpenSTL",
@@ -2868,7 +4615,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "St. Louis",
+            "state": "Missouri",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.6272",
+                "longitude": "-90.1977"
+            }
+        }
     },
     {
         "name": "BetaCityYEG",
@@ -2882,7 +4639,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Edmonton",
+            "state": "",
+            "country": "Canada",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "53.4538",
+                "longitude": "-113.5090"
+            }
+        }
     },
     {
         "name": "Open Elections",
@@ -2894,7 +4661,14 @@
         "type": "Project",
         "tags": [
             "Project"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "",
+            "continent": "Global",
+            "coordinates": {}
+        }
     },
     {
         "name": "Open Indy",
@@ -2911,7 +4685,17 @@
         },
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.7669",
+                "longitude": "-86.1500"
+            }
+        }
     },
     {
         "name": "Open Lexington",
@@ -2928,7 +4712,17 @@
         },
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Lexington",
+            "state": "Kentucky",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.0406",
+                "longitude": "-84.5037"
+            }
+        }
     },
     {
         "name": "Open Nebraska",
@@ -2943,7 +4737,17 @@
         "tags": [
             "Brigade",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Omaha",
+            "state": "Nebraska",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.2524",
+                "longitude": "-95.9980"
+            }
+        }
     },
     {
         "name": "Open Oakland",
@@ -2963,7 +4767,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Oakland",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.8044",
+                "longitude": "-122.2711"
+            }
+        }
     },
     {
         "name": "Code for Pittsburgh",
@@ -2982,7 +4796,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Pittsburgh",
+            "state": "Pennsylvania",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.4406",
+                "longitude": "-79.9959"
+            }
+        }
     },
     {
         "name": "Open San Antonio",
@@ -2996,7 +4820,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "San Antonio",
+            "state": "Texas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "29.4245",
+                "longitude": "-98.4946"
+            }
+        }
     },
     {
         "name": "Open San Diego",
@@ -3015,7 +4849,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "San Diego",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "32.7153",
+                "longitude": "-117.1573"
+            }
+        }
     },
     {
         "name": "Open Savannah",
@@ -3035,7 +4879,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Savannah",
+            "state": "Georgia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "32.0835",
+                "longitude": "-81.0998"
+            }
+        }
     },
     {
         "name": "Open Seattle",
@@ -3055,7 +4909,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Seattle",
+            "state": "Washington",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "47.6062",
+                "longitude": "-122.3321"
+            }
+        }
     },
     {
         "name": "Open Syracuse",
@@ -3069,7 +4933,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Syracuse",
+            "state": "New York",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.0469",
+                "longitude": "-76.1444"
+            }
+        }
     },
     {
         "name": "Open Twin Cities",
@@ -3089,7 +4963,17 @@
             "Brigade",
             "Code for America",
             "Official"
-        ]
+        ],
+        "location": {
+            "city": "Minneapolis",
+            "state": "Minnesota",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "44.9537",
+                "longitude": "-93.0900"
+            }
+        }
     },
     {
         "name": "Open Wichita",
@@ -3107,7 +4991,17 @@
         },
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Wichita",
+            "state": "Kansas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.6870",
+                "longitude": "-97.3356"
+            }
+        }
     },
     {
         "name": "Open Zagreb",
@@ -3121,7 +5015,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Zagreb",
+            "state": "",
+            "country": "Croatia",
+            "continent": "Europe",
+            "coordinates": {
+                "latitude": "45.7930",
+                "longitude": "15.9464"
+            }
+        }
     },
     {
         "name": "OpenSMC",
@@ -3140,7 +5044,17 @@
         "tags": [
             "Brigade",
             "Code for America"
-        ]
+        ],
+        "location": {
+            "city": "San Mateo County",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.4889",
+                "longitude": "-122.2308773"
+            }
+        }
     },
     {
         "name": "Poplus",
@@ -3154,7 +5068,17 @@
         "type": "Partner",
         "tags": [
             "Partner"
-        ]
+        ],
+        "location": {
+            "city": "",
+            "state": "",
+            "country": "",
+            "continent": "Global",
+            "coordinates": {
+                "latitude": "0.0000",
+                "longitude": "0.0000"
+            }
+        }
     },
     {
         "name": "Presidential Innovation Fellows",
@@ -3168,7 +5092,17 @@
         "type": "Government",
         "tags": [
             "Government"
-        ]
+        ],
+        "location": {
+            "city": "Washington",
+            "state": "Washington DC",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.9072",
+                "longitude": "-77.0365"
+            }
+        }
     },
     {
         "name": "Project Open Data",
@@ -3182,7 +5116,17 @@
         "type": "Government",
         "tags": [
             "Government"
-        ]
+        ],
+        "location": {
+            "city": "Washington",
+            "state": "Washington DC",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.9072",
+                "longitude": "-77.0365"
+            }
+        }
     },
     {
         "name": "Smart Chicago Collaborative",
@@ -3197,7 +5141,17 @@
         "tags": [
             "partner",
             "midwest"
-        ]
+        ],
+        "location": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "41.8781",
+                "longitude": "-87.6298"
+            }
+        }
     },
     {
         "name": "US Census Bureau",
@@ -3211,7 +5165,17 @@
         "type": "Government",
         "tags": [
             "Government"
-        ]
+        ],
+        "location": {
+            "city": "Washington",
+            "state": "Washington DC",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "38.9072",
+                "longitude": "-77.0365"
+            }
+        }
     },
     {
         "name": "Microsoft Technology and Civic Engagement",
@@ -3225,7 +5189,17 @@
         "type": "Partner",
         "tags": [
             "Partner"
-        ]
+        ],
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.7144",
+                "longitude": "-74.0060"
+            }
+        }
     },
     {
         "name": "Oakland TechEquity",
@@ -3239,7 +5213,17 @@
         "type": "Partner",
         "tags": [
             "Partner"
-        ]
+        ],
+        "location": {
+            "city": "Oakland",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.8044",
+                "longitude": "-122.2711"
+            }
+        }
     },
     {
         "name": "Missoula Civic Hackathon",
@@ -3251,7 +5235,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Missoula",
+            "state": "Montana",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "46.8625418",
+                "longitude": "-113.9848200"
+            }
+        }
     },
     {
         "name": "Milwaukee Data Initiative",
@@ -3269,7 +5263,17 @@
         "tags": [
             "Brigade"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012006"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012006",
+        "location": {
+            "city": "Milwaukee",
+            "state": "Wisconsin",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.0389",
+                "longitude": "-87.9065"
+            }
+        }
     },
     {
         "name": "Code for Floripa",
@@ -3283,7 +5287,17 @@
         "type": "Brigade",
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Florianópolis",
+            "state": "",
+            "country": "Brazil",
+            "continent": "South America",
+            "coordinates": {
+                "latitude": "-27.5908812",
+                "longitude": "-48.5167347"
+            }
+        }
     },
     {
         "name": "Code for Baltimore",
@@ -3303,7 +5317,17 @@
             "Code for America",
             "Official"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680208"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680208",
+        "location": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.2903848",
+                "longitude": "-76.6121893"
+            }
+        }
     },
     {
         "name": "Code for Berkeley",
@@ -3320,7 +5344,17 @@
         "tags": [
             "Brigade"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855578548"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855578548",
+        "location": {
+            "city": "Berkeley",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.8715926",
+                "longitude": "-122.272747"
+            }
+        }
     },
     {
         "name": "Code for Fort Collins",
@@ -3340,7 +5374,17 @@
             "Code for America",
             "Official"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029013435"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029013435",
+        "location": {
+            "city": "Fort Collins",
+            "state": "Colorado",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.5852602",
+                "longitude": "-105.084423"
+            }
+        }
     },
     {
         "name": "Code for Greenville",
@@ -3359,7 +5403,17 @@
             "Code for America",
             "Official"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097682617"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097682617",
+        "location": {
+            "city": "Greenville",
+            "state": "South Carolina",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "34.85261759999999",
+                "longitude": "-82.3940104"
+            }
+        }
     },
     {
         "name": "Code for OKC",
@@ -3376,7 +5430,17 @@
         },
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "35.4675602",
+                "longitude": "-97.5164276"
+            }
+        }
     },
     {
         "name": "Code for Phoenix",
@@ -3396,7 +5460,17 @@
             "Code for America",
             "Official"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575820"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575820",
+        "location": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "33.4483771",
+                "longitude": "-112.0740373"
+            }
+        }
     },
     {
         "name": "Code for Princeton",
@@ -3413,7 +5487,17 @@
         },
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Princeton",
+            "state": "New Jersey",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "40.3572976",
+                "longitude": "-74.6672226"
+            }
+        }
     },
     {
         "name": "Open Data Delaware",
@@ -3434,7 +5518,17 @@
             "Code for America Fiscally Sponsored Brigade",
             "Official"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012837"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012837",
+        "location": {
+            "city": "Wilmington",
+            "state": "Delaware",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "39.7390721",
+                "longitude": "-75.5397878"
+            }
+        }
     },
     {
         "name": "Open Denton",
@@ -3451,7 +5545,17 @@
         },
         "tags": [
             "Brigade"
-        ]
+        ],
+        "location": {
+            "city": "Denton",
+            "state": "Texas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "33.2148412",
+                "longitude": "-97.13306829999999"
+            }
+        }
     },
     {
         "name": "Sketch City (Houston)",
@@ -3471,7 +5575,17 @@
             "Code for America Partner Brigade",
             "Official"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680402"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680402",
+        "location": {
+            "city": "Houston",
+            "state": "Texas",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "29.7604267",
+                "longitude": "-95.3698028"
+            }
+        }
     },
     {
         "name": "Code for Boise",
@@ -3490,7 +5604,17 @@
             "Code for America",
             "Official"
         ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576252"
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576252",
+        "location": {
+            "city": "Boise",
+            "state": "Idaho",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "43.6187102",
+                "longitude": "-116.2146068"
+            }
+        }
     },
     {
         "name": "Georgia Technology Authority",
@@ -3503,6 +5627,16 @@
         ],
         "social_profiles": {
             "linkedin": "https://www.linkedin.com/company/georgia-technology-authority/about/"
+        },
+        "location": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "33.747590",
+                "longitude": "-84.389910"
+            }
         }
     },
     {
@@ -3519,6 +5653,16 @@
             "twitter": "@GeorgiaGovTeam",
             "linkedin": "https://www.linkedin.com/company/georgiagov-interactive/",
             "youtube": "https://www.youtube.com/user/GTACreative"
+        },
+        "location": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "33.747590",
+                "longitude": "-84.389910"
+            }
         }
     },
     {
@@ -3529,10 +5673,16 @@
         "type": "Brigade",
         "tags": [
             "Temporary",
-            "Code for America",
             "Brigade Collaboration",
-            "Brigade"
-        ]
+            "Code for America"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {}
+        }
     },
     {
         "name": "Code for Upper Valley",
