@@ -1,0 +1,55 @@
+#!/usr/bin/env python
+# Downloads a report CSV from Salesforce.
+#
+# Since Salesforce is not publicly accessible, this uses a Google Sheet to
+# export the Salesforce contents to a publicly accessible CSV:
+#
+# Sheet edit URL:
+# https://docs.google.com/spreadsheets/d/1rS1o9TsylCi7sI0MXy-GWlHS-ziNbkoQXjo1RjHyReY/edit#gid=0
+from io import StringIO
+import requests
+import csv
+import re
+import sys
+
+CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQzmc3HayFxZlfQBhPrWOqtz0B4Fv6txI2EktFG1J3DO1iaZcAaQhS5cwejRGc5FpXsaLYs9MTvE57B/pub?gid=0&single=true&output=csv"
+
+def download_csv():
+    response = requests.get(CSV_URL)
+    return response.text
+
+def clean_csv_row(row):
+    clean_row = []
+    for k, v in row.items():
+        if "</a>" in v:
+            clean_row.append((k, re.search(">(.*)<", v)[1]))
+        else:
+            clean_row.append((k, v))
+    return clean_row
+
+def reformat_csv(csv_text):
+    """
+    Salesforce tends to export these awful links, e.g.
+    "<a href=""javascript:openPopupFocus%28%27http%3A%2F%2Fwww.codeforcary.org%2F%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B"" title=""http://www.codeforcary.org/ (New Window)"">http://www.codeforcary.org/</a>"
+
+    We just want "http://www.codeforcary.org" here.
+    """
+    csv_io = StringIO(csv_text)
+    reader = csv.DictReader(csv_io, delimiter=',')
+    csv_rows = []
+
+    for row in reader:
+        csv_rows.append(clean_csv_row(row))
+
+    return csv_rows
+
+def output_csv(csv_rows):
+    writer = csv.DictWriter(sys.stdout, [k for (k, _v) in csv_rows[0]])
+    writer.writeheader()
+    for row in csv_rows:
+        writer.writerow(dict(row))
+
+if __name__ == '__main__':
+    csv_text = download_csv()
+    csv_rows = reformat_csv(csv_text)
+    output_csv(csv_rows)

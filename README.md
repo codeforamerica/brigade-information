@@ -110,3 +110,20 @@ Put that in the Brigade Information sheet and you're done.
 The projects list URL can also be a JSON file, with a list of strings containing GitHub project URLs.
 
 If you have any questions, [start an issue on this repo](https://github.com/codeforamerica/brigade-information/issues).
+
+### Syncing Brigade list from Salesforce
+
+At Code for America we use Salesforce as the primary source of Brigade information.
+
+In order to sync from Salesforce you will need:
+
+* Python3
+* The `requests`, `geopy` modules
+
+We recommend setting up a virtualenv with:
+
+```bash
+python3 -m venv env
+source env/bin/activate
+pip install geopy requests
+```
