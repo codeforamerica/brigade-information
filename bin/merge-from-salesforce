@@ -54,6 +54,7 @@ def dump_organizations(organizations, filename):
 
     with open(filename, 'wb') as f:
         f.write(output.encode('utf8'))
+        f.write("\n".encode('utf8'))
 
 
 def load_report(filename):
