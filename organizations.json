@@ -609,7 +609,7 @@
     },
     {
         "name": "Code for BTV",
-        "website": "http://www.codeforbtv.org/",
+        "website": "https://codeforbtv.org",
         "events_url": "https://www.meetup.com/CodeForBTV/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583527",
         "projects_list_url": "https://github.com/codeforbtv",
@@ -809,6 +809,58 @@
                 "longitude": "-87.6244212"
             }
         }
+    },
+    {
+        "name": "Code for Worcester",
+        "website": "",
+        "city": "Worcester, MA",
+        "latitude": "42.2625932",
+        "longitude": "-71.8022934",
+        "events_url": "",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
+    },
+    {
+        "name": "Open Boise",
+        "website": "http://www.boisebrigade.org/",
+        "city": "Boise, ID",
+        "latitude": "43.6166163",
+        "longitude": "-116.200886",
+        "events_url": "https://www.meetup.com/boisebrigade/",
+        "previous_names": [
+            "Code for Boise"
+        ],
+        "projects_list_url": "https://github.com/CodeForBoise",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {
+            "twitter": "@boisebrigade"
+        }
+    },
+    {
+        "name": "Open Columbus (Indiana)",
+        "website": "",
+        "city": "Columbus, IN",
+        "latitude": "39.2014405",
+        "longitude": "-85.9213796",
+        "events_url": "",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
     },
     {
         "name": "Open Columbus (Ohio)",
@@ -1185,7 +1237,9 @@
             "Code for America",
             "Official"
         ],
-        "social_profiles": {},
+        "social_profiles": {
+            "facebook": "https://facebook.com/code4puertorico"
+        },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442",
         "type": "Brigade, Code for America, Official",
         "location": {
@@ -1318,7 +1372,8 @@
                 "latitude": "34.0536834",
                 "longitude": "-118.2427669"
             }
-        }
+        },
+        "projects_list_url": "https://github.com/hackforla"
     },
     {
         "name": "KC Digital Drive",
@@ -1358,7 +1413,7 @@
         "website": "https://opencharlotte.org",
         "events_url": "https://www.meetup.com/Open-Charlotte-Brigade/",
         "rss": "https://medium.com/opencltbrigade",
-        "projects_list_url": "https://brigade.opencharlotte.org/projects.csv",
+        "projects_list_url": "https://github.com/opencltbrigade",
         "city": "Charlotte, NC",
         "latitude": "35.2032",
         "longitude": "-80.8395",
@@ -1517,7 +1572,7 @@
     },
     {
         "name": "Code for Denver",
-        "website": "https://codefordenver.org/",
+        "website": "https://www.codefordenver.org/",
         "events_url": "https://www.meetup.com/CodeForDenver/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037972092",
         "projects_list_url": "https://github.com/codefordenver",
@@ -2492,7 +2547,7 @@
     },
     {
         "name": "Code for Miami",
-        "website": "http://codeformiami.com",
+        "website": "http://codefor.miami",
         "events_url": "https://www.meetup.com/code-for-miami/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185",
         "projects_list_url": "https://github.com/Code-for-Miami",
@@ -2657,10 +2712,10 @@
     },
     {
         "name": "Code for New River Valley",
-        "website": "https://www.codefornrv.org/",
+        "website": "https://codefornrv.org/",
         "events_url": "https://www.meetup.com/CodeForNRV",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973677",
-        "projects_list_url": "",
+        "projects_list_url": "https://github.com/CodeforNRV",
         "city": "Radford, VA",
         "latitude": "37.1317924",
         "longitude": "-80.5764477",
@@ -3003,10 +3058,10 @@
     },
     {
         "name": "Open Raleigh Brigade",
-        "website": "http://ncopenpass.com",
+        "website": "https://opennc-collaborative.org/brigades/raleigh/",
         "events_url": "https://www.meetup.com/Triangle-Code-for-America/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681190",
-        "projects_list_url": "https://github.com/codeforraleigh",
+        "projects_list_url": "https://github.com/Open-NC",
         "city": "Raleigh, NC",
         "latitude": "35.7721",
         "longitude": "-78.6386",
@@ -3276,13 +3331,11 @@
         "events_url": "https://www.meetup.com/open-walnut-creek",
         "projects_list_url": "",
         "tags": [
-            "Brigade",
-            "Code for America",
-            "Official"
+            "Brigade"
         ],
         "social_profiles": {},
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681791",
-        "type": "Brigade, Code for America, Official",
+        "type": "Brigade",
         "location": {
             "city": "Walnut Creek",
             "state": "California",
@@ -3371,7 +3424,7 @@
     },
     {
         "name": "Code for Tampa Bay",
-        "website": "https://codefortampabay.org/",
+        "website": "http://www.codefortampabay.org/",
         "events_url": "https://www.meetup.com/Code-for-Tampa-Bay-Brigade/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577810",
         "projects_list_url": "https://github.com/code-for-tb",
@@ -3876,7 +3929,7 @@
     },
     {
         "name": "Hack Michiana",
-        "website": "http://www.hackmichiana.org/",
+        "website": "http://hackmichiana.org/",
         "events_url": "https://www.meetup.com/Hack-Michiana/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652412293",
         "projects_list_url": "https://github.com/HackMichiana",
@@ -4751,7 +4804,7 @@
     },
     {
         "name": "Open Oakland",
-        "website": "https://openoakland.org/",
+        "website": "https://www.openoakland.org/",
         "events_url": "https://www.meetup.com/OpenOakland/",
         "rss": "",
         "projects_list_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQEofSoIq9Fb12Y2IWteU6EZkRUVc4f-IjDt41v9_ag1Kefx1zHkOlt6d-67u9bJp-jUe3y6dwGnEzP/pub?gid=573845215&single=true&output=csv",
@@ -4834,7 +4887,7 @@
     },
     {
         "name": "Open San Diego",
-        "website": "https://opensandiego.org/",
+        "website": "http://opensandiego.org",
         "events_url": "https://www.meetup.com/Open-San-Diego",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097679642",
         "projects_list_url": "https://github.com/opensandiego",
@@ -5301,7 +5354,7 @@
     },
     {
         "name": "Code for Baltimore",
-        "website": "https://www.codeforbaltimore.org",
+        "website": "http://codeforbaltimore.org",
         "events_url": "https://www.meetup.com/Code-for-Baltimore/",
         "projects_list_url": "https://github.com/CodeForBaltimore",
         "city": "Baltimore, MD",
@@ -5388,7 +5441,7 @@
     },
     {
         "name": "Code for Greenville",
-        "website": "https://codeforgreenville.org/",
+        "website": "http://codeforgreenville.org",
         "events_url": "https://www.meetup.com/Code-for-Greenville/",
         "projects_list_url": "https://github.com/codeforgreenville/",
         "city": "Greenville, SC",
@@ -5584,35 +5637,6 @@
             "coordinates": {
                 "latitude": "29.7604267",
                 "longitude": "-95.3698028"
-            }
-        }
-    },
-    {
-        "name": "Code for Boise",
-        "website": "https://www.openboise.org/",
-        "events_url": "https://www.meetup.com/boisebrigade/",
-        "projects_list_url": "https://github.com/CodeForBoise",
-        "city": "Boise, ID",
-        "type": "Brigade, Code for America, Official",
-        "latitude": "43.6187102",
-        "longitude": "-116.2146068",
-        "social_profiles": {
-            "twitter": "@boisebrigade"
-        },
-        "tags": [
-            "Brigade",
-            "Code for America",
-            "Official"
-        ],
-        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576252",
-        "location": {
-            "city": "Boise",
-            "state": "Idaho",
-            "country": "USA",
-            "continent": "North America",
-            "coordinates": {
-                "latitude": "43.6187102",
-                "longitude": "-116.2146068"
             }
         }
     },
