@@ -15,6 +15,15 @@ import re
 import sys
 from collections import OrderedDict
 
+# Ignore updating these fields, since they are not represented properly in
+# Salesforce.
+SKIP_UPDATE_FIELDS = {
+    'Code for Philly': ['projects_list_url'],
+    'Open Oakland': ['projects_list_url'],
+    'Open Seattle': ['projects_list_url'],
+    'Code for Upper Valley': ['events_url'],
+    'Code for Milwaukee': ['projects_list_url'],
+}
 
 # Do a HTTP/HTTPS-insensitive comparison for determining if two URLs are
 # identical.
@@ -224,6 +233,9 @@ def update_json_attribute(existing_brigade, attribute, value):
     sets attribute to the value for a brigade, and returns True/False depending
     on if the attribute was modified
     '''
+    if attribute in SKIP_UPDATE_FIELDS.get(existing_brigade['name'], []):
+        return False
+
     if existing_brigade.get(attribute) == value:
         return False
 

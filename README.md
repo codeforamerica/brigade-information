@@ -127,3 +127,9 @@ python3 -m venv env
 source env/bin/activate
 pip install geopy requests
 ```
+
+Then, you can sync from Salesforce with this command:
+
+```bash
+bin/merge-from-salesforce <(bin/download-from-salesforce) organizations.json
+```
