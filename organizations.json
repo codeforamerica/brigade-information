@@ -1351,7 +1351,7 @@
         "previous_names": [
             "Hack for LA"
         ],
-        "projects_tag": "hack-for-la",
+        "projects_tag": "https://www.github.com/topics/hack-for-la",
         "tags": [
             "Brigade",
             "Code for America",
@@ -1372,8 +1372,7 @@
                 "latitude": "34.0536834",
                 "longitude": "-118.2427669"
             }
-        },
-        "projects_list_url": "https://github.com/hackforla"
+        }
     },
     {
         "name": "KC Digital Drive",
@@ -5714,7 +5713,6 @@
         "city": "Bradford, VT",
         "events_url": "https://calendar.google.com/calendar/r?cid=hhk8mes2a4puf2g8a1ujmb91k4@group.calendar.google.com",
         "projects_list_url": "https://github.com/codeforUV",
-        "projects_tag": "code-for-uv",
         "latitude": "43.9926",
         "longitude": "-72.1290",
         "tags": [
