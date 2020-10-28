@@ -61,7 +61,7 @@ def dump_organizations(organizations, filename):
 
 
 def load_report(filename):
-    with open(filename) as f:
+    with open(filename, encoding="latin-1") as f:
         # _ = f.readline() # "Last Updated" row
 
         reader = csv.DictReader(f)

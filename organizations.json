@@ -416,6 +416,22 @@
         }
     },
     {
+        "name": "Code for Atlantic City",
+        "website": "",
+        "city": "Atlantic City, NJ",
+        "latitude": "39.3642852",
+        "longitude": "-74.4229351",
+        "events_url": "https://www.meetup.com/Code-for-Atlantic-City/",
+        "previous_names": [],
+        "projects_list_url": "",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ],
+        "social_profiles": {}
+    },
+    {
         "name": "Code for Australia",
         "website": "http://www.codeforaustralia.org",
         "events_url": "http://www.meetup.com/Civic-Lab-Melbourne",
@@ -924,7 +940,7 @@
     },
     {
         "name": "Code for Dallas",
-        "website": "",
+        "website": "https://www.codefordallas.org/",
         "city": "Dallas, TX",
         "latitude": "32.7762719",
         "longitude": "-96.7968559",
@@ -1601,17 +1617,18 @@
     },
     {
         "name": "Code for Detroit",
-        "website": "https://www.facebook.com/CodeForDetroit",
-        "events_url": "",
+        "website": "http://codefordetroit.org/",
+        "events_url": "https://www.meetup.com/Code-for-Detroit/",
         "rss": "",
         "projects_list_url": "",
         "city": "Detroit, MI",
         "latitude": "42.3314",
         "longitude": "-83.0458",
-        "type": "Brigade, midwest, ",
+        "type": "Brigade, Code for America, Official",
         "tags": [
             "Brigade",
-            "midwest"
+            "Code for America",
+            "Official"
         ],
         "location": {
             "city": "Detroit",
@@ -1622,7 +1639,8 @@
                 "latitude": "42.3314",
                 "longitude": "-83.0458"
             }
-        }
+        },
+        "social_profiles": {}
     },
     {
         "name": "Code for Durham",
@@ -1703,7 +1721,7 @@
     },
     {
         "name": "Code for Fort Lauderdale",
-        "website": "http://codeforftl.org/",
+        "website": "https://codeforsouth.org/",
         "events_url": "https://www.meetup.com/Code-for-FTL/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582914",
         "projects_list_url": "https://github.com/codeforftl",
@@ -2000,7 +2018,7 @@
     },
     {
         "name": "Code for PDX",
-        "website": "",
+        "website": "https://www.codeforpdx.org/",
         "city": "Portland, OR",
         "latitude": "45.5202471",
         "longitude": "-122.6741949",
@@ -2546,7 +2564,7 @@
     },
     {
         "name": "Code for Miami",
-        "website": "http://codefor.miami",
+        "website": "https://codeforsouth.org/",
         "events_url": "https://www.meetup.com/code-for-miami/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185",
         "projects_list_url": "https://github.com/Code-for-Miami",
@@ -3057,7 +3075,7 @@
     },
     {
         "name": "Open Raleigh Brigade",
-        "website": "https://opennc-collaborative.org/brigades/raleigh/",
+        "website": "http://ncopenpass.com",
         "events_url": "https://www.meetup.com/Triangle-Code-for-America/",
         "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681190",
         "projects_list_url": "https://github.com/Open-NC",
