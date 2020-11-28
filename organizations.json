@@ -4933,9 +4933,9 @@
     },
     {
         "name": "Open Savannah",
-        "website": "https://opensavannah.org/",
+        "website": "https://opensav.org/",
         "events_url": "https://www.meetup.com/opensavannah/",
-        "rss": "https://blog.opensavannah.org/feed",
+        "rss": "https://opensav.org/feed",
         "projects_list_url": "https://github.com/opensavannah",
         "city": "Savannah, GA",
         "latitude": "32.0835",
