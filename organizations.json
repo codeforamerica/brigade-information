@@ -5748,5 +5748,36 @@
             "Code for UV"
         ],
         "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
+    },
+    {
+    "name": "Open Columbia County",
+    "website": "https://opencolumbiaco.org",
+    "city": "Columbia County PA",
+    "location": {
+      "city": "Berwick",
+      "state": "PA",
+      "country": "USA",
+      "continent": "North America",
+      "coordinates": {
+        "latitude": "41.0545",
+        "longitude": "-76.2333"
+      }
+    },
+    "events_url": "https://www.meetup.com/open-columbia-co/",
+    "rss": "",
+    "projects_list_url": "http://projects.betanyc.us/projects",
+    "projects_tag": "https://github.com/topics/open-columbia-county",
+    "latitude": "41.0545",
+    "longitude": "-76.2333",
+    "tags": [
+      "Brigade",
+      "Official"
+    ],
+    "social_profiles": {
+        "twitter": "@OpenColumbiaCo",
+        "facebook": "https://www.facebook.com/openColumbiaCounty",
+        "instagram": "https://www.instagram.com/opencolumbiaco/",
+        "slack": "opencolumbiacounty.slack.com"
     }
+}
 ]
