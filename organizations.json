@@ -4795,9 +4795,9 @@
         }
     },
     {
-        "name": "Open Nebraska",
-        "website": "http://opennebraska.io/",
-        "events_url": "http://www.meetup.com/Open-Nebraska-Meetup/",
+        "name": "Code for Nebraska",
+        "website": "https://codefornebraska.org/",
+        "events_url": "https://www.meetup.com/code-for-nebraska/",
         "rss": "",
         "projects_list_url": "https://github.com/opennebraska",
         "city": "Omaha, NE",
