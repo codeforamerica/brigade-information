@@ -5748,5 +5748,29 @@
             "Code for UV"
         ],
         "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official"
+    },
+    {
+        "name": "Open SGF",
+        "website": "https://opensgf.org",
+        "city": "Springfield, MO",
+        "location": {
+            "city": "Springfield",
+            "state": "Missouri",
+            "country": "USA",
+            "continent": "North America",
+            "coordinates": {
+                "latitude": "37.2090",
+                "longitude": "93.2923"
+            }
+        },
+        "events_url": "https://www.meetup.com/open-sgf",
+        "projects_list_url": "https://github.com/Open-SGF",
+        "latitude": "37.2090",
+        "longitude": "93.2923",
+        "tags": [
+            "Brigade",
+            "Code for America",
+            "Official"
+        ]
     }
 ]
