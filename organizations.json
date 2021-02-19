@@ -1367,7 +1367,8 @@
         "previous_names": [
             "Hack for LA"
         ],
-        "projects_tag": "https://www.github.com/topics/hack-for-la",
+        "projects_list_url": "https://www.github.com/topics/hack-for-la",
+        "projects_tag": "hack-for-la",
         "tags": [
             "Brigade",
             "Code for America",
