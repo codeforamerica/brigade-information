@@ -86,9 +86,9 @@
         "title": "Organization Projects Tag",
         "default": "",
         "examples": [
-          "https://www.github.com/topics/code-for-atlantis"
+          "code-for-atlantis"
         ],
-        "pattern": "^https://www.github.com/topics/([a-zA-Z0-9\\-]+)$"
+        "pattern": "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$"
       },
       "city": {
         "$id": "#/items/properties/city",
