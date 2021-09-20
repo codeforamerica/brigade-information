@@ -1247,7 +1247,7 @@
         "city": "San Juan, PR",
         "latitude": "18.465488",
         "longitude": "-66.116781",
-        "events_url": "",
+        "events_url": "http://meetup.com/code-for-puerto-rico/",
         "projects_list_url": "https://github.com/code4puertorico",
         "tags": [
             "Brigade",
@@ -1255,7 +1255,10 @@
             "Official"
         ],
         "social_profiles": {
-            "facebook": "https://facebook.com/code4puertorico"
+            "twitter": "@Code4PuertoRico",
+            "facebook": "https://www.facebook.com/code4puertorico",
+            "instagram": "@code4puertorico",
+            "linkedin": "https://www.linkedin.com/company/code-for-puerto-rico/"
         },
         "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442",
         "type": "Brigade, Code for America, Official",
@@ -3675,30 +3678,6 @@
             "coordinates": {
                 "latitude": "41.4887",
                 "longitude": "-71.4543"
-            }
-        }
-    },
-    {
-        "name": "Code4PuertoRico",
-        "website": "http://code4puertorico.org/",
-        "events_url": "http://code4puertorico.org/events.html",
-        "rss": "",
-        "projects_list_url": "https://github.com/Code4PuertoRico",
-        "city": "San Juan, PR",
-        "latitude": "18.4661",
-        "longitude": "-66.1160",
-        "type": "Brigade",
-        "tags": [
-            "Brigade"
-        ],
-        "location": {
-            "city": "San Juan",
-            "state": "Puerto Rico",
-            "country": "USA",
-            "continent": "North America",
-            "coordinates": {
-                "latitude": "18.4661",
-                "longitude": "-66.1160"
             }
         }
     },
