@@ -311,6 +311,7 @@
         "city": "San Francisco, CA",
         "latitude": "37.7759",
         "longitude": "-122.4137",
+        "type": "Code for America",
         "tags": [
             "Code for All",
             "Code for America"
